@@ -1,0 +1,1282 @@
+1226	1	enyzme	null	null
+1226	2	enyzme	null	loc0
+1226	3	enyzme	loc0	loc0
+1226	4	enyzme	loc0	loc0
+1226	5	enyzme	loc0	loc0
+1226	6	enyzme	loc0	loc1
+1226	1	fat	null	null
+1226	2	fat	null	null
+1226	3	fat	null	loc1
+1226	4	fat	loc1	loc1
+1226	5	fat	loc1	loc1
+1226	6	fat	loc1	loc2
+1226	1	food	loc2	loc3
+1226	2	food	loc3	loc3
+1226	3	food	loc3	loc3
+1226	4	food	loc3	loc3
+1226	5	food	loc3	loc3
+1226	6	food	loc3	loc4
+1226	1	carbohydrate	loc4	loc4
+1226	2	carbohydrate	loc4	loc4
+1226	3	carbohydrate	loc4	loc4
+1226	4	carbohydrate	loc4	loc5
+1226	5	carbohydrate	loc5	loc5
+1226	6	carbohydrate	loc5	loc6
+4	1	bacterium	loc6	loc6
+4	2	bacterium	loc6	loc6
+4	3	bacterium	loc6	loc6
+4	4	bacterium	loc6	loc6
+4	5	bacterium	loc6	loc6
+4	6	bacterium	loc6	loc6
+4	7	bacterium	loc6	loc6
+4	8	bacterium	loc6	loc6
+4	9	bacterium	loc6	loc6
+4	10	bacterium	loc6	loc6
+4	1	oil	null	null
+4	2	oil	null	null
+4	3	oil	null	null
+4	4	oil	null	null
+4	5	oil	null	null
+4	6	oil	null	null
+4	7	oil	null	null
+4	8	oil	null	null
+4	9	oil	null	null
+4	10	oil	null	loc6
+4	1	plant	loc6	null
+4	2	plant	null	null
+4	3	plant	null	null
+4	4	plant	null	null
+4	5	plant	null	null
+4	6	plant	null	null
+4	7	plant	null	null
+4	8	plant	null	null
+4	9	plant	null	null
+4	10	plant	null	null
+4	1	sediment	loc6	loc6
+4	2	sediment	loc6	loc6
+4	3	sediment	loc6	loc6
+4	4	sediment	loc6	loc6
+4	5	sediment	loc6	loc6
+4	6	sediment	loc6	loc6
+4	7	sediment	loc6	loc6
+4	8	sediment	loc6	loc6
+4	9	sediment	loc6	loc6
+4	10	sediment	loc6	loc6
+5	1	oil	null	null
+5	2	oil	null	null
+5	3	oil	null	null
+5	4	oil	null	null
+5	5	oil	null	null
+5	6	oil	null	null
+5	7	oil	null	null
+5	8	oil	null	loc6
+5	9	oil	loc6	loc7
+5	1	material	null	null
+5	2	material	null	null
+5	3	material	null	null
+5	4	material	null	null
+5	5	material	null	null
+5	6	material	null	loc7
+5	7	material	loc7	null
+5	8	material	null	null
+5	9	material	null	null
+5	1	algae	loc7	null
+5	2	algae	null	null
+5	3	algae	null	null
+5	4	algae	null	null
+5	5	algae	null	null
+5	6	algae	null	null
+5	7	algae	null	null
+5	8	algae	null	null
+5	9	algae	null	null
+5	1	plankton	loc7	null
+5	2	plankton	null	null
+5	3	plankton	null	null
+5	4	plankton	null	null
+5	5	plankton	null	null
+5	6	plankton	null	null
+5	7	plankton	null	null
+5	8	plankton	null	null
+5	9	plankton	null	null
+5	1	sediment	null	null
+5	2	sediment	null	loc7
+5	3	sediment	loc7	loc8
+5	4	sediment	loc8	loc8
+5	5	sediment	loc8	loc8
+5	6	sediment	loc8	loc8
+5	7	sediment	loc8	loc8
+5	8	sediment	loc8	loc8
+5	9	sediment	null	null
+1114	1	cave	null	null
+1114	2	cave	null	null
+1114	3	cave	null	null
+1114	4	cave	null	null
+1114	5	cave	null	null
+1114	6	cave	null	null
+1114	7	cave	null	loc8
+1114	1	bedrock	loc8	loc8
+1114	2	bedrock	loc8	loc8
+1114	3	bedrock	loc8	loc8
+1114	4	bedrock	loc8	loc8
+1114	5	bedrock	loc8	null
+1114	6	bedrock	null	null
+1114	7	bedrock	null	null
+1114	1	funnel	null	null
+1114	2	funnel	null	null
+1114	3	funnel	null	null
+1114	4	funnel	null	null
+1114	5	funnel	null	loc8
+1114	6	funnel	loc8	loc8
+1114	7	funnel	loc8	null
+1114	1	rainwater	loc8	loc9
+1114	2	rainwater	loc9	loc10
+1114	3	rainwater	loc10	loc10
+1114	4	rainwater	loc10	loc10
+1114	5	rainwater	loc10	loc10
+1114	6	rainwater	loc10	loc10
+1114	7	rainwater	loc10	loc10
+1114	1	water	loc10	loc11
+1114	2	water	loc11	loc11
+1114	3	water	loc11	loc12
+1114	4	water	loc12	loc12
+1114	5	water	loc12	loc12
+1114	6	water	loc12	loc12
+1114	7	water	loc12	loc12
+1113	1	carbon dioxide	loc12	loc13
+1113	2	carbon dioxide	loc13	loc13
+1113	3	carbon dioxide	loc13	loc14
+1113	4	carbon dioxide	loc14	loc14
+1113	5	carbon dioxide	loc14	loc14
+1113	6	carbon dioxide	loc14	loc14
+1113	1	cave	null	null
+1113	2	cave	null	null
+1113	3	cave	null	null
+1113	4	cave	null	null
+1113	5	cave	null	null
+1113	6	cave	null	loc14
+1113	1	limestone	loc14	loc14
+1113	2	limestone	loc14	loc14
+1113	3	limestone	loc14	loc14
+1113	4	limestone	loc14	loc14
+1113	5	limestone	loc14	loc14
+1113	6	limestone	loc14	loc14
+1113	1	rainwater	loc14	loc14
+1113	2	rainwater	loc14	loc15
+1113	3	rainwater	loc15	loc15
+1113	4	rainwater	loc15	loc15
+1113	5	rainwater	loc15	loc15
+1113	6	rainwater	loc15	loc15
+1113	1	weak acid	null	null
+1113	2	weak acid	null	null
+1113	3	weak acid	null	null
+1113	4	weak acid	null	loc15
+1113	5	weak acid	loc15	loc15
+1113	6	weak acid	loc15	loc15
+1113	1	water	loc15	loc15
+1113	2	water	loc15	loc15
+1113	3	water	loc15	loc16
+1113	4	water	loc16	null
+1113	5	water	null	null
+1113	6	water	null	null
+1112	1	acid	null	null
+1112	2	acid	null	null
+1112	3	acid	null	loc16
+1112	4	acid	loc16	loc16
+1112	5	acid	loc16	loc16
+1112	1	carbon dioxide	loc16	loc16
+1112	2	carbon dioxide	loc16	loc17
+1112	3	carbon dioxide	loc17	loc17
+1112	4	carbon dioxide	loc17	loc17
+1112	5	carbon dioxide	loc17	loc17
+1112	1	rain	loc17	loc17
+1112	2	rain	loc17	loc17
+1112	3	rain	loc17	null
+1112	4	rain	null	null
+1112	5	rain	null	null
+1112	1	cave	null	loc17
+1112	2	cave	loc17	loc17
+1112	3	cave	loc17	loc17
+1112	4	cave	loc17	loc17
+1112	5	cave	loc17	loc17
+1112	1	limestone	loc17	loc17
+1112	2	limestone	loc17	loc17
+1112	3	limestone	loc17	loc17
+1112	4	limestone	loc17	loc17
+1112	5	limestone	loc17	loc17
+1008	1	bacterium	loc17	loc17
+1008	2	bacterium	loc17	loc18
+1008	3	bacterium	loc18	loc18
+1008	4	bacterium	loc18	loc18
+1008	5	bacterium	loc18	loc18
+1008	1	enzyme	null	null
+1008	2	enzyme	null	null
+1008	3	enzyme	null	loc18
+1008	4	enzyme	loc18	loc18
+1008	5	enzyme	loc18	loc18
+1008	1	component	null	null
+1008	2	component	null	null
+1008	3	component	null	null
+1008	4	component	null	loc18
+1008	5	component	loc18	loc19
+1008	1	plant cell	null	loc19
+1008	2	plant cell	loc19	loc19
+1008	3	plant cell	loc19	loc19
+1008	4	plant cell	loc19	loc19
+1008	5	plant cell	null	null
+1007	1	material	null	null
+1007	2	material	null	null
+1007	3	material	null	loc19
+1007	4	material	loc19	null
+1007	5	material	null	null
+1007	6	material	null	null
+1007	1	plant	loc19	null
+1007	2	plant	null	null
+1007	3	plant	null	null
+1007	4	plant	null	null
+1007	5	plant	null	null
+1007	6	plant	null	null
+1007	1	microbe	null	null
+1007	2	microbe	null	loc19
+1007	3	microbe	loc19	loc19
+1007	4	microbe	loc19	null
+1007	5	microbe	null	null
+1007	6	microbe	null	null
+1002	1	laundry detergent	loc19	loc20
+1002	2	laundry detergent	loc20	loc21
+1002	3	laundry detergent	loc21	loc21
+1002	4	laundry detergent	loc21	loc21
+1002	5	laundry detergent	loc21	loc21
+1002	1	dirty laundry	loc21	loc22
+1002	2	dirty laundry	loc22	loc23
+1002	3	dirty laundry	loc23	loc23
+1002	4	dirty laundry	loc23	loc23
+1002	5	dirty laundry	loc23	loc23
+825	1	uranium atom	null	null
+825	2	uranium atom	null	null
+825	3	uranium atom	null	loc23
+825	4	uranium atom	loc23	null
+825	5	uranium atom	null	null
+825	6	uranium atom	null	null
+825	7	uranium atom	null	null
+825	8	uranium atom	null	null
+825	9	uranium atom	null	null
+825	10	uranium atom	null	null
+825	1	steam	null	null
+825	2	steam	null	null
+825	3	steam	null	null
+825	4	steam	null	null
+825	5	steam	null	null
+825	6	steam	null	loc23
+825	7	steam	loc23	loc24
+825	8	steam	loc24	loc24
+825	9	steam	loc24	loc24
+825	10	steam	loc24	null
+825	1	electricity	null	null
+825	2	electricity	null	null
+825	3	electricity	null	null
+825	4	electricity	null	null
+825	5	electricity	null	null
+825	6	electricity	null	null
+825	7	electricity	null	null
+825	8	electricity	null	null
+825	9	electricity	null	loc24
+825	10	electricity	loc24	loc24
+825	1	uranium	loc24	loc24
+825	2	uranium	loc24	loc25
+825	3	uranium	loc25	loc26
+825	4	uranium	loc26	loc26
+825	5	uranium	loc26	loc26
+825	6	uranium	loc26	loc26
+825	7	uranium	loc26	loc26
+825	8	uranium	loc26	loc26
+825	9	uranium	loc26	loc26
+825	10	uranium	loc26	loc26
+825	1	water	loc26	loc26
+825	2	water	loc26	loc26
+825	3	water	loc26	loc26
+825	4	water	loc26	loc26
+825	5	water	loc26	loc26
+825	6	water	loc26	null
+825	7	water	null	null
+825	8	water	null	null
+825	9	water	null	null
+825	10	water	null	null
+825	1	heat energy	null	null
+825	2	heat energy	null	null
+825	3	heat energy	null	null
+825	4	heat energy	null	null
+825	5	heat energy	null	loc26
+825	6	heat energy	loc26	loc27
+825	7	heat energy	null	null
+825	8	heat energy	null	null
+825	9	heat energy	null	null
+825	10	heat energy	null	null
+826	1	heat	null	loc27
+826	2	heat	loc27	null
+826	3	heat	null	null
+826	4	heat	null	null
+826	5	heat	null	null
+826	1	steam	null	null
+826	2	steam	null	loc27
+826	3	steam	loc27	loc28
+826	4	steam	loc28	loc28
+826	5	steam	loc28	loc28
+826	1	electricity	null	null
+826	2	electricity	null	null
+826	3	electricity	null	null
+826	4	electricity	null	loc28
+826	5	electricity	loc28	loc29
+708	1	rock	loc29	loc29
+708	2	rock	loc29	loc29
+708	3	rock	loc29	loc29
+708	4	rock	loc29	loc29
+708	5	rock	loc29	loc29
+708	6	rock	loc29	loc29
+708	7	rock	loc29	loc29
+708	8	rock	loc29	loc29
+708	9	rock	loc29	loc29
+708	10	rock	loc29	loc30
+708	1	melt rock	null	null
+708	2	melt rock	null	null
+708	3	melt rock	null	null
+708	4	melt rock	null	null
+708	5	melt rock	null	loc30
+708	6	melt rock	loc30	loc30
+708	7	melt rock	loc30	loc30
+708	8	melt rock	loc30	loc30
+708	9	melt rock	loc30	loc30
+708	10	melt rock	loc30	loc31
+708	1	metamorphic rock	null	null
+708	2	metamorphic rock	null	null
+708	3	metamorphic rock	null	null
+708	4	metamorphic rock	null	null
+708	5	metamorphic rock	null	null
+708	6	metamorphic rock	null	loc31
+708	7	metamorphic rock	loc31	loc31
+708	8	metamorphic rock	loc31	loc31
+708	9	metamorphic rock	null	null
+708	10	metamorphic rock	null	null
+708	1	sediment	null	null
+708	2	sediment	null	null
+708	3	sediment	null	loc31
+708	4	sediment	loc31	loc31
+708	5	sediment	loc31	loc31
+708	6	sediment	loc31	null
+708	7	sediment	null	null
+708	8	sediment	null	null
+708	9	sediment	null	null
+708	10	sediment	null	null
+1260	1	silk	null	null
+1260	2	silk	null	loc31
+1260	3	silk	loc31	loc31
+1260	4	silk	loc31	loc32
+1260	5	silk	loc32	loc32
+1260	1	web	null	null
+1260	2	web	null	null
+1260	3	web	null	loc32
+1260	4	web	loc32	loc32
+1260	5	web	loc32	loc33
+1259	1	web	loc33	loc33
+1259	2	web	loc33	loc33
+1259	3	web	loc33	loc33
+1259	4	web	loc33	loc33
+1259	5	web	loc33	loc33
+1259	1	thread	loc33	loc33
+1259	2	thread	loc33	loc34
+1259	3	thread	loc34	loc34
+1259	4	thread	loc34	loc34
+1259	5	thread	loc34	loc34
+716	1	waste	loc34	loc35
+716	2	waste	loc35	loc35
+716	3	waste	loc35	loc35
+716	4	waste	loc35	loc35
+716	5	waste	loc35	loc35
+716	6	waste	loc35	loc35
+716	1	kidney	loc35	loc35
+716	2	kidney	loc35	loc35
+716	3	kidney	loc35	loc35
+716	4	kidney	loc35	loc35
+716	5	kidney	loc35	loc35
+716	6	kidney	loc35	loc35
+716	1	urine	null	null
+716	2	urine	null	null
+716	3	urine	null	null
+716	4	urine	null	loc35
+716	5	urine	loc35	loc36
+716	6	urine	loc36	loc36
+716	1	blood	loc36	loc36
+716	2	blood	loc36	loc36
+716	3	blood	loc36	loc36
+716	4	blood	loc36	loc36
+716	5	blood	loc36	loc36
+716	6	blood	loc36	loc36
+716	1	clean blood	null	null
+716	2	clean blood	null	null
+716	3	clean blood	null	null
+716	4	clean blood	null	null
+716	5	clean blood	null	null
+716	6	clean blood	null	loc36
+608	1	explosion	null	null
+608	2	explosion	null	null
+608	3	explosion	null	null
+608	4	explosion	null	null
+608	5	explosion	null	loc36
+608	6	explosion	loc36	loc36
+608	7	explosion	loc36	loc36
+608	8	explosion	loc36	loc36
+608	9	explosion	loc36	loc36
+608	1	piston	null	null
+608	2	piston	null	loc36
+608	3	piston	loc36	loc36
+608	4	piston	loc36	loc36
+608	5	piston	loc36	loc36
+608	6	piston	loc36	loc36
+608	7	piston	loc36	loc36
+608	8	piston	loc36	loc36
+608	9	piston	loc36	loc36
+608	1	spark	null	null
+608	2	spark	null	null
+608	3	spark	null	null
+608	4	spark	null	loc36
+608	5	spark	loc36	loc36
+608	6	spark	loc36	loc36
+608	7	spark	loc36	loc36
+608	8	spark	loc36	loc36
+608	9	spark	loc36	loc36
+608	1	fuel	loc36	loc37
+608	2	fuel	loc37	loc38
+608	3	fuel	loc38	loc38
+608	4	fuel	loc38	loc38
+608	5	fuel	loc38	loc38
+608	6	fuel	loc38	loc38
+608	7	fuel	loc38	loc38
+608	8	fuel	loc38	loc38
+608	9	fuel	loc38	loc38
+608	1	air	loc38	loc38
+608	2	air	loc38	loc39
+608	3	air	loc39	loc39
+608	4	air	loc39	loc39
+608	5	air	loc39	loc39
+608	6	air	loc39	loc39
+608	7	air	loc39	loc39
+608	8	air	loc39	loc39
+608	9	air	loc39	loc39
+609	1	explosion	null	null
+609	2	explosion	null	null
+609	3	explosion	null	loc39
+609	4	explosion	loc39	loc39
+609	5	explosion	loc39	loc39
+609	6	explosion	loc39	loc39
+609	1	piston	loc39	loc39
+609	2	piston	loc39	loc39
+609	3	piston	loc39	loc39
+609	4	piston	loc39	loc39
+609	5	piston	loc39	loc40
+609	6	piston	loc40	loc40
+609	1	spark	null	null
+609	2	spark	null	null
+609	3	spark	null	null
+609	4	spark	null	loc40
+609	5	spark	loc40	loc40
+609	6	spark	loc40	loc40
+609	1	exhaust	loc40	loc40
+609	2	exhaust	loc40	loc40
+609	3	exhaust	loc40	loc40
+609	4	exhaust	loc40	loc40
+609	5	exhaust	loc40	loc40
+609	6	exhaust	loc40	loc41
+609	1	air	loc41	loc42
+609	2	air	loc42	loc42
+609	3	air	loc42	loc42
+609	4	air	loc42	loc42
+609	5	air	loc42	loc42
+609	6	air	loc42	loc42
+609	1	gasoline	loc42	loc43
+609	2	gasoline	loc43	loc43
+609	3	gasoline	loc43	loc43
+609	4	gasoline	loc43	loc43
+609	5	gasoline	loc43	null
+609	6	gasoline	null	null
+610	1	spark	null	null
+610	2	spark	null	null
+610	3	spark	null	null
+610	4	spark	null	null
+610	5	spark	null	loc43
+610	6	spark	loc43	loc43
+610	7	spark	loc43	loc43
+610	8	spark	loc43	loc43
+610	1	fuel	loc43	null
+610	2	fuel	null	null
+610	3	fuel	null	null
+610	4	fuel	null	null
+610	5	fuel	null	null
+610	6	fuel	null	null
+610	7	fuel	null	null
+610	8	fuel	null	null
+610	1	air	loc43	loc43
+610	2	air	loc43	loc43
+610	3	air	loc43	loc44
+610	4	air	loc44	loc44
+610	5	air	loc44	null
+610	6	air	null	null
+610	7	air	null	null
+610	8	air	null	null
+610	1	pressure	null	null
+610	2	pressure	null	null
+610	3	pressure	null	null
+610	4	pressure	null	null
+610	5	pressure	null	null
+610	6	pressure	null	loc44
+610	7	pressure	loc44	loc44
+610	8	pressure	loc44	loc44
+629	1	garbage can	loc44	loc44
+629	2	garbage can	loc44	loc44
+629	3	garbage can	loc44	loc45
+629	4	garbage can	loc45	loc46
+629	5	garbage can	loc46	loc47
+629	6	garbage can	loc47	loc47
+629	7	garbage can	loc47	loc47
+629	1	truck	loc47	loc47
+629	2	truck	loc47	loc47
+629	3	truck	loc47	loc47
+629	4	truck	loc47	loc48
+629	5	truck	loc48	loc48
+629	6	truck	loc48	loc49
+629	7	truck	loc49	loc49
+629	1	plastic bag	loc49	loc49
+629	2	plastic bag	loc49	loc50
+629	3	plastic bag	loc50	loc50
+629	4	plastic bag	loc50	loc50
+629	5	plastic bag	loc50	loc51
+629	6	plastic bag	loc51	loc51
+629	7	plastic bag	loc51	loc51
+629	1	trash	loc51	loc52
+629	2	trash	loc52	loc52
+629	3	trash	loc52	loc53
+629	4	trash	loc53	loc54
+629	5	trash	loc54	loc55
+629	6	trash	loc55	loc55
+629	7	trash	loc55	loc56
+629	1	garbage truck	loc56	loc56
+629	2	garbage truck	loc56	loc56
+629	3	garbage truck	loc56	loc56
+629	4	garbage truck	loc56	loc57
+629	5	garbage truck	loc57	loc57
+629	6	garbage truck	loc57	loc58
+629	7	garbage truck	loc58	loc58
+509	1	explosion	null	null
+509	2	explosion	null	null
+509	3	explosion	null	null
+509	4	explosion	null	loc58
+509	5	explosion	loc58	loc58
+509	6	explosion	loc58	loc58
+509	7	explosion	loc58	loc58
+509	8	explosion	loc58	loc58
+509	9	explosion	loc58	loc58
+509	10	explosion	loc58	loc58
+509	1	spend fuel	null	null
+509	2	spend fuel	null	null
+509	3	spend fuel	null	null
+509	4	spend fuel	null	loc58
+509	5	spend fuel	loc58	loc58
+509	6	spend fuel	loc58	loc58
+509	7	spend fuel	loc58	loc58
+509	8	spend fuel	loc58	loc59
+509	9	spend fuel	loc59	loc59
+509	10	spend fuel	loc59	loc59
+509	1	piston	loc59	loc59
+509	2	piston	loc59	loc59
+509	3	piston	loc59	loc59
+509	4	piston	loc59	loc59
+509	5	piston	loc59	loc59
+509	6	piston	loc59	loc59
+509	7	piston	loc59	loc59
+509	8	piston	loc59	loc59
+509	9	piston	loc59	loc59
+509	10	piston	loc59	loc59
+509	1	fuel	loc59	loc60
+509	2	fuel	loc60	loc60
+509	3	fuel	loc60	loc60
+509	4	fuel	loc60	null
+509	5	fuel	null	null
+509	6	fuel	null	null
+509	7	fuel	null	null
+509	8	fuel	null	null
+509	9	fuel	null	null
+509	10	fuel	null	null
+509	1	thermal energy	null	null
+509	2	thermal energy	null	null
+509	3	thermal energy	null	null
+509	4	thermal energy	null	null
+509	5	thermal energy	null	loc60
+509	6	thermal energy	loc60	loc60
+509	7	thermal energy	loc60	loc60
+509	8	thermal energy	loc60	loc60
+509	9	thermal energy	loc60	loc60
+509	10	thermal energy	loc60	loc60
+509	1	new fuel	null	null
+509	2	new fuel	null	null
+509	3	new fuel	null	null
+509	4	new fuel	null	null
+509	5	new fuel	null	loc60
+509	6	new fuel	loc60	loc60
+509	7	new fuel	loc60	loc60
+509	8	new fuel	loc60	loc60
+509	9	new fuel	loc60	loc61
+509	10	new fuel	loc61	loc61
+509	1	chemical energy	null	null
+509	2	chemical energy	null	null
+509	3	chemical energy	null	null
+509	4	chemical energy	null	null
+509	5	chemical energy	null	loc61
+509	6	chemical energy	loc61	loc61
+509	7	chemical energy	loc61	loc61
+509	8	chemical energy	loc61	loc61
+509	9	chemical energy	null	null
+509	10	chemical energy	null	null
+630	1	truck	loc61	loc61
+630	2	truck	loc61	loc61
+630	3	truck	loc61	loc61
+630	4	truck	loc61	loc61
+630	5	truck	loc61	loc62
+630	6	truck	loc62	loc62
+630	1	trash	loc62	loc63
+630	2	trash	loc63	loc64
+630	3	trash	loc64	loc65
+630	4	trash	loc65	loc66
+630	5	trash	loc66	loc66
+630	6	trash	loc66	loc67
+631	1	trashcan	loc67	loc67
+631	2	trashcan	loc67	loc67
+631	3	trashcan	loc67	loc68
+631	4	trashcan	loc68	loc69
+631	5	trashcan	loc69	loc69
+631	6	trashcan	loc69	loc69
+631	7	trashcan	loc69	loc69
+631	1	trash truck	loc69	loc69
+631	2	trash truck	loc69	loc69
+631	3	trash truck	loc69	loc69
+631	4	trash truck	loc69	loc69
+631	5	trash truck	loc69	loc69
+631	6	trash truck	loc69	loc69
+631	7	trash truck	loc69	loc69
+631	1	truck	loc69	loc69
+631	2	truck	loc69	loc69
+631	3	truck	loc69	loc69
+631	4	truck	loc69	loc69
+631	5	truck	loc69	loc69
+631	6	truck	loc69	loc69
+631	7	truck	loc69	loc69
+631	1	bag	loc69	loc69
+631	2	bag	loc69	loc70
+631	3	bag	loc70	loc70
+631	4	bag	loc70	loc70
+631	5	bag	loc70	loc70
+631	6	bag	loc70	loc70
+631	7	bag	loc70	loc70
+631	1	trash	loc70	loc71
+631	2	trash	loc71	loc71
+631	3	trash	loc71	loc71
+631	4	trash	loc71	loc72
+631	5	trash	loc72	loc72
+631	6	trash	loc72	loc72
+631	7	trash	loc72	loc72
+632	1	heat	null	null
+632	2	heat	null	null
+632	3	heat	null	null
+632	4	heat	null	loc72
+632	5	heat	loc72	loc72
+632	6	heat	loc72	loc72
+632	1	light	null	null
+632	2	light	null	null
+632	3	light	null	null
+632	4	light	null	null
+632	5	light	null	null
+632	6	light	null	loc72
+632	1	electricity	loc72	loc73
+632	2	electricity	loc73	loc73
+632	3	electricity	loc73	loc73
+632	4	electricity	loc73	loc73
+632	5	electricity	loc73	loc73
+632	6	electricity	loc73	loc73
+634	1	visual signal	null	null
+634	2	visual signal	null	null
+634	3	visual signal	null	null
+634	4	visual signal	null	null
+634	5	visual signal	null	loc73
+634	6	visual signal	loc73	loc73
+634	1	electricity	loc73	loc74
+634	2	electricity	loc74	loc75
+634	3	electricity	loc75	loc76
+634	4	electricity	loc76	loc76
+634	5	electricity	loc76	loc76
+634	6	electricity	loc76	loc76
+634	1	energy	null	null
+634	2	energy	null	null
+634	3	energy	null	null
+634	4	energy	null	null
+634	5	energy	null	loc76
+634	6	energy	loc76	loc76
+634	1	computation	null	null
+634	2	computation	null	null
+634	3	computation	null	loc76
+634	4	computation	loc76	loc76
+634	5	computation	loc76	loc76
+634	6	computation	loc76	loc76
+514	1	snow	null	loc76
+514	2	snow	loc76	loc76
+514	3	snow	loc76	loc76
+514	4	snow	loc76	null
+514	5	snow	null	null
+514	6	snow	null	null
+514	7	snow	null	null
+514	1	mass	null	null
+514	2	mass	null	null
+514	3	mass	null	null
+514	4	mass	null	loc76
+514	5	mass	loc76	loc76
+514	6	mass	loc76	null
+514	7	mass	null	null
+514	1	glacier	null	null
+514	2	glacier	null	null
+514	3	glacier	null	null
+514	4	glacier	null	null
+514	5	glacier	null	null
+514	6	glacier	null	loc76
+514	7	glacier	loc76	loc76
+758	1	fuel source	loc76	loc76
+758	2	fuel source	loc76	null
+758	3	fuel source	null	null
+758	4	fuel source	null	null
+758	5	fuel source	null	null
+758	6	fuel source	null	null
+758	1	mechanical energy	null	null
+758	2	mechanical energy	null	loc76
+758	3	mechanical energy	loc76	null
+758	4	mechanical energy	null	null
+758	5	mechanical energy	null	null
+758	6	mechanical energy	null	null
+758	1	gas	loc76	loc76
+758	2	gas	loc76	loc76
+758	3	gas	loc76	loc76
+758	4	gas	loc76	loc76
+758	5	gas	loc76	loc76
+758	6	gas	loc76	loc76
+758	1	electron	null	null
+758	2	electron	null	null
+758	3	electron	null	null
+758	4	electron	null	null
+758	5	electron	null	loc76
+758	6	electron	loc76	loc77
+758	1	electrical energy	null	null
+758	2	electrical energy	null	null
+758	3	electrical energy	null	loc77
+758	4	electrical energy	loc77	loc77
+758	5	electrical energy	loc77	loc78
+758	6	electrical energy	loc78	loc78
+1197	1	sugar	null	null
+1197	2	sugar	null	null
+1197	3	sugar	null	null
+1197	4	sugar	null	null
+1197	5	sugar	null	null
+1197	6	sugar	null	null
+1197	7	sugar	null	loc78
+1197	8	sugar	loc78	loc79
+1197	9	sugar	loc79	loc79
+1197	1	food	loc79	loc80
+1197	2	food	loc80	loc81
+1197	3	food	loc81	loc82
+1197	4	food	loc82	loc82
+1197	5	food	loc82	loc83
+1197	6	food	loc83	loc83
+1197	7	food	loc83	loc83
+1197	8	food	loc83	loc83
+1197	9	food	loc83	loc83
+1197	1	energy	null	null
+1197	2	energy	null	null
+1197	3	energy	null	null
+1197	4	energy	null	null
+1197	5	energy	null	null
+1197	6	energy	null	null
+1197	7	energy	null	null
+1197	8	energy	null	null
+1197	9	energy	null	loc83
+542	1	waste	null	loc83
+542	2	waste	loc83	loc83
+542	3	waste	loc83	loc83
+542	4	waste	loc83	loc84
+542	5	waste	loc84	loc84
+542	6	waste	loc84	null
+542	7	waste	null	null
+542	1	filter waste	loc84	loc84
+542	2	filter waste	loc84	loc84
+542	3	filter waste	loc84	loc84
+542	4	filter waste	loc84	loc85
+542	5	filter waste	loc85	loc85
+542	6	filter waste	loc85	loc85
+542	7	filter waste	null	null
+542	1	urine	null	null
+542	2	urine	null	null
+542	3	urine	null	null
+542	4	urine	null	null
+542	5	urine	null	null
+542	6	urine	null	loc85
+542	7	urine	loc85	loc86
+542	1	blood	loc86	loc86
+542	2	blood	loc86	loc87
+542	3	blood	loc87	loc87
+542	4	blood	loc87	loc87
+542	5	blood	loc87	loc87
+542	6	blood	loc87	loc87
+542	7	blood	loc87	loc87
+542	1	clean blood	null	null
+542	2	clean blood	null	null
+542	3	clean blood	null	null
+542	4	clean blood	null	loc87
+542	5	clean blood	loc87	loc88
+542	6	clean blood	loc88	loc88
+542	7	clean blood	loc88	loc88
+543	1	waste	null	null
+543	2	waste	null	loc88
+543	3	waste	loc88	loc89
+543	4	waste	loc89	null
+543	5	waste	null	null
+543	6	waste	null	null
+543	7	waste	null	null
+543	1	filter blood	null	null
+543	2	filter blood	null	loc89
+543	3	filter blood	loc89	loc89
+543	4	filter blood	loc89	loc89
+543	5	filter blood	loc89	loc89
+543	6	filter blood	loc89	loc89
+543	7	filter blood	loc89	loc90
+543	1	urine	null	null
+543	2	urine	null	null
+543	3	urine	null	null
+543	4	urine	null	loc90
+543	5	urine	loc90	loc91
+543	6	urine	loc91	loc92
+543	7	urine	loc92	loc92
+543	1	blood	loc92	loc93
+543	2	blood	loc93	loc93
+543	3	blood	loc93	loc93
+543	4	blood	loc93	loc93
+543	5	blood	loc93	loc93
+543	6	blood	loc93	loc93
+543	7	blood	loc93	loc94
+544	1	nutrient	null	null
+544	2	nutrient	null	null
+544	3	nutrient	null	null
+544	4	nutrient	null	null
+544	5	nutrient	null	null
+544	6	nutrient	null	loc94
+544	1	toxin	null	null
+544	2	toxin	null	null
+544	3	toxin	null	loc94
+544	4	toxin	loc94	null
+544	5	toxin	null	null
+544	6	toxin	null	null
+544	1	urine	null	null
+544	2	urine	null	null
+544	3	urine	null	null
+544	4	urine	null	loc94
+544	5	urine	loc94	loc95
+544	6	urine	loc95	loc95
+544	1	fluid	loc95	loc96
+544	2	fluid	loc96	loc96
+544	3	fluid	loc96	loc96
+544	4	fluid	loc96	loc96
+544	5	fluid	loc96	loc96
+544	6	fluid	loc96	loc96
+544	1	fluid and liquid	loc96	loc97
+544	2	fluid and liquid	loc97	loc97
+544	3	fluid and liquid	loc97	loc97
+544	4	fluid and liquid	loc97	loc97
+544	5	fluid and liquid	loc97	loc97
+544	6	fluid and liquid	loc97	loc97
+430	1	truck	loc97	loc97
+430	2	truck	loc97	loc97
+430	3	truck	loc97	loc97
+430	4	truck	loc97	loc97
+430	5	truck	loc97	loc97
+430	6	truck	loc97	loc97
+430	7	truck	loc97	loc98
+430	8	truck	loc98	loc98
+430	9	truck	loc98	loc98
+430	10	truck	loc98	loc98
+430	1	trash	loc98	loc99
+430	2	trash	loc99	loc100
+430	3	trash	loc100	loc100
+430	4	trash	loc100	loc101
+430	5	trash	loc101	loc102
+430	6	trash	loc102	loc103
+430	7	trash	loc103	loc104
+430	8	trash	loc104	loc105
+430	9	trash	loc105	loc105
+430	10	trash	loc105	loc106
+431	1	trash truck	loc106	loc107
+431	2	trash truck	loc107	loc107
+431	3	trash truck	loc107	loc107
+431	4	trash truck	loc107	loc108
+431	5	trash truck	loc108	loc108
+431	1	trashbag	loc108	loc108
+431	2	trashbag	loc108	loc109
+431	3	trashbag	loc109	loc109
+431	4	trashbag	loc109	loc109
+431	5	trashbag	loc109	loc109
+431	1	trash	loc109	loc110
+431	2	trash	loc110	loc110
+431	3	trash	loc110	loc111
+431	4	trash	loc111	loc112
+431	5	trash	loc112	loc113
+432	1	recycle	null	null
+432	2	recycle	null	null
+432	3	recycle	null	null
+432	4	recycle	null	null
+432	5	recycle	null	null
+432	6	recycle	null	null
+432	1	garbage	loc113	loc114
+432	2	garbage	loc114	loc115
+432	3	garbage	loc115	loc116
+432	4	garbage	loc116	loc116
+432	5	garbage	loc116	null
+432	6	garbage	null	null
+432	1	garbage truck	loc116	loc116
+432	2	garbage truck	loc116	loc116
+432	3	garbage truck	loc116	loc117
+432	4	garbage truck	loc117	loc117
+432	5	garbage truck	loc117	loc117
+432	6	garbage truck	loc117	loc117
+432	1	trash	loc117	loc118
+432	2	trash	loc118	loc119
+432	3	trash	loc119	loc120
+432	4	trash	loc120	loc120
+432	5	trash	loc120	loc120
+432	6	trash	loc120	loc121
+445	1	rock	loc121	loc121
+445	2	rock	loc121	loc121
+445	3	rock	loc121	loc121
+445	4	rock	loc121	loc121
+445	5	rock	loc121	loc121
+445	6	rock	loc121	loc121
+445	7	rock	loc121	loc121
+445	1	sedimentary rock	null	null
+445	2	sedimentary rock	null	null
+445	3	sedimentary rock	null	null
+445	4	sedimentary rock	null	loc121
+445	5	sedimentary rock	loc121	loc121
+445	6	sedimentary rock	loc121	loc121
+445	7	sedimentary rock	loc121	loc121
+445	1	magma	loc121	loc122
+445	2	magma	loc122	loc122
+445	3	magma	loc122	loc122
+445	4	magma	loc122	loc122
+445	5	magma	loc122	loc122
+445	6	magma	loc122	loc122
+445	7	magma	loc122	loc122
+445	1	third kind of rock	null	null
+445	2	third kind of rock	null	null
+445	3	third kind of rock	null	null
+445	4	third kind of rock	null	null
+445	5	third kind of rock	null	null
+445	6	third kind of rock	null	loc122
+445	7	third kind of rock	loc122	loc122
+446	1	sedimentary rock	null	null
+446	2	sedimentary rock	null	null
+446	3	sedimentary rock	null	null
+446	4	sedimentary rock	null	loc122
+446	5	sedimentary rock	loc122	loc122
+446	6	sedimentary rock	loc122	loc122
+446	1	crystal	null	null
+446	2	crystal	null	null
+446	3	crystal	null	loc122
+446	4	crystal	loc122	loc123
+446	5	crystal	loc123	loc124
+446	6	crystal	loc124	loc124
+446	1	magma	null	null
+446	2	magma	null	null
+446	3	magma	null	null
+446	4	magma	null	null
+446	5	magma	null	null
+446	6	magma	null	loc124
+446	1	metamorphic rock	null	null
+446	2	metamorphic rock	null	null
+446	3	metamorphic rock	null	null
+446	4	metamorphic rock	null	null
+446	5	metamorphic rock	null	loc124
+446	6	metamorphic rock	loc124	loc124
+446	1	igneous rock	null	null
+446	2	igneous rock	null	null
+446	3	igneous rock	null	loc124
+446	4	igneous rock	loc124	null
+446	5	igneous rock	null	null
+446	6	igneous rock	null	null
+349	1	sound	null	loc124
+349	2	sound	loc124	loc124
+349	3	sound	loc124	loc124
+349	4	sound	loc124	loc124
+349	5	sound	loc124	loc124
+349	6	sound	loc124	loc124
+349	7	sound	loc124	loc124
+349	1	sound wave	loc124	loc124
+349	2	sound wave	loc124	loc125
+349	3	sound wave	loc125	loc126
+349	4	sound wave	loc126	loc126
+349	5	sound wave	loc126	loc126
+349	6	sound wave	loc126	loc126
+349	7	sound wave	loc126	loc126
+349	1	echo	null	null
+349	2	echo	null	null
+349	3	echo	null	null
+349	4	echo	null	null
+349	5	echo	null	null
+349	6	echo	null	null
+349	7	echo	null	loc126
+375	1	heat	null	null
+375	2	heat	null	null
+375	3	heat	null	loc126
+375	4	heat	loc126	loc126
+375	5	heat	loc126	loc126
+375	1	motion	null	null
+375	2	motion	null	null
+375	3	motion	null	null
+375	4	motion	null	loc126
+375	5	motion	loc126	null
+375	1	light	null	null
+375	2	light	null	loc126
+375	3	light	loc126	loc126
+375	4	light	loc126	loc126
+375	5	light	loc126	loc126
+375	1	electricity	loc126	loc127
+375	2	electricity	loc127	null
+375	3	electricity	null	null
+375	4	electricity	null	null
+375	5	electricity	null	null
+375	1	motion energy	null	null
+375	2	motion energy	null	null
+375	3	motion energy	null	null
+375	4	motion energy	null	loc127
+375	5	motion energy	loc127	null
+388	1	turbine	loc127	loc127
+388	2	turbine	loc127	loc127
+388	3	turbine	loc127	loc127
+388	4	turbine	loc127	loc127
+388	5	turbine	loc127	loc127
+388	6	turbine	loc127	loc127
+388	1	generator	loc127	loc127
+388	2	generator	loc127	loc127
+388	3	generator	loc127	loc127
+388	4	generator	loc127	loc127
+388	5	generator	loc127	loc127
+388	6	generator	loc127	loc127
+388	1	electricity	null	null
+388	2	electricity	null	null
+388	3	electricity	null	null
+388	4	electricity	null	null
+388	5	electricity	null	loc127
+388	6	electricity	loc127	loc127
+388	1	water	loc127	loc127
+388	2	water	loc127	loc128
+388	3	water	loc128	loc128
+388	4	water	loc128	loc128
+388	5	water	loc128	loc128
+388	6	water	loc128	loc129
+390	1	turbine	loc129	loc129
+390	2	turbine	loc129	loc129
+390	3	turbine	loc129	loc129
+390	4	turbine	loc129	loc129
+390	5	turbine	loc129	loc129
+390	6	turbine	loc129	loc129
+390	7	turbine	loc129	loc129
+390	1	water 's energy	loc129	loc129
+390	2	water 's energy	loc129	loc130
+390	3	water 's energy	loc130	loc131
+390	4	water 's energy	loc131	loc131
+390	5	water 's energy	loc131	null
+390	6	water 's energy	null	null
+390	7	water 's energy	null	null
+390	1	generator	loc131	loc131
+390	2	generator	loc131	loc131
+390	3	generator	loc131	loc131
+390	4	generator	loc131	loc131
+390	5	generator	loc131	loc131
+390	6	generator	loc131	loc131
+390	7	generator	loc131	loc131
+390	1	high voltage	null	null
+390	2	high voltage	null	null
+390	3	high voltage	null	null
+390	4	high voltage	null	null
+390	5	high voltage	null	null
+390	6	high voltage	null	loc131
+390	7	high voltage	loc131	loc131
+390	1	electricity	null	null
+390	2	electricity	null	null
+390	3	electricity	null	null
+390	4	electricity	null	null
+390	5	electricity	null	loc131
+390	6	electricity	loc131	loc131
+390	7	electricity	loc131	loc132
+390	1	reservoir	null	loc132
+390	2	reservoir	loc132	loc132
+390	3	reservoir	loc132	loc132
+390	4	reservoir	loc132	loc132
+390	5	reservoir	loc132	loc132
+390	6	reservoir	loc132	loc132
+390	7	reservoir	loc132	loc132
+390	1	water	loc132	loc132
+390	2	water	loc132	loc132
+390	3	water	loc132	loc133
+390	4	water	loc133	loc133
+390	5	water	loc133	loc133
+390	6	water	loc133	loc133
+390	7	water	loc133	loc133
+390	1	electrical energy	null	null
+390	2	electrical energy	null	null
+390	3	electrical energy	null	null
+390	4	electrical energy	null	null
+390	5	electrical energy	null	loc133
+390	6	electrical energy	loc133	null
+390	7	electrical energy	null	null
+272	1	flow of electron	null	null
+272	2	flow of electron	null	null
+272	3	flow of electron	null	null
+272	4	flow of electron	null	loc133
+272	5	flow of electron	loc133	loc134
+272	6	flow of electron	loc134	loc134
+272	1	fuel	loc134	loc135
+272	2	fuel	loc135	loc135
+272	3	fuel	loc135	loc135
+272	4	fuel	loc135	loc135
+272	5	fuel	loc135	loc135
+272	6	fuel	loc135	loc135
+272	1	mechanical energy	null	null
+272	2	mechanical energy	null	loc135
+272	3	mechanical energy	null	null
+272	4	mechanical energy	null	null
+272	5	mechanical energy	null	null
+272	6	mechanical energy	null	null
+272	1	electricity	null	null
+272	2	electricity	null	loc135
+272	3	electricity	loc135	loc135
+272	4	electricity	loc135	loc135
+272	5	electricity	loc135	loc136
+272	6	electricity	loc136	loc137
+272	1	magnet	loc137	loc137
+272	2	magnet	loc137	loc137
+272	3	magnet	loc137	loc138
+272	4	magnet	loc138	loc138
+272	5	magnet	loc138	loc138
+272	6	magnet	loc138	loc138
+272	1	electrical energy	null	null
+272	2	electrical energy	null	loc138
+272	3	electrical energy	loc138	loc138
+272	4	electrical energy	loc138	loc138
+272	5	electrical energy	loc138	loc139
+272	6	electrical energy	loc139	loc139
+394	1	heat	null	loc139
+394	2	heat	loc139	loc139
+394	3	heat	loc139	loc139
+394	4	heat	loc139	loc139
+394	5	heat	loc139	loc139
+394	6	heat	loc139	loc139
+394	7	heat	loc139	loc139
+394	1	turbine	loc139	loc139
+394	2	turbine	loc139	loc139
+394	3	turbine	loc139	loc139
+394	4	turbine	loc139	loc139
+394	5	turbine	loc139	loc139
+394	6	turbine	loc139	loc139
+394	7	turbine	loc139	loc139
+394	1	fuel	loc139	null
+394	2	fuel	null	null
+394	3	fuel	null	null
+394	4	fuel	null	null
+394	5	fuel	null	null
+394	6	fuel	null	null
+394	7	fuel	null	null
+394	1	generator	loc139	loc139
+394	2	generator	loc139	loc139
+394	3	generator	loc139	loc139
+394	4	generator	loc139	loc140
+394	5	generator	loc140	loc140
+394	6	generator	loc140	loc140
+394	7	generator	loc140	loc140
+394	1	steam	null	null
+394	2	steam	null	loc140
+394	3	steam	loc140	loc141
+394	4	steam	loc141	loc141
+394	5	steam	loc141	loc141
+394	6	steam	loc141	loc141
+394	7	steam	loc141	loc141
+394	1	electricity	null	null
+394	2	electricity	null	null
+394	3	electricity	null	null
+394	4	electricity	null	null
+394	5	electricity	null	loc141
+394	6	electricity	loc141	loc142
+394	7	electricity	loc142	loc142
+394	1	water	loc142	loc142
+394	2	water	loc142	null
+394	3	water	null	null
+394	4	water	null	null
+394	5	water	null	null
+394	6	water	null	null
+394	7	water	null	null
+394	1	voltage	null	null
+394	2	voltage	null	null
+394	3	voltage	null	null
+394	4	voltage	null	null
+394	5	voltage	null	loc142
+394	6	voltage	loc142	loc142
+394	7	voltage	loc142	loc142
+396	1	heat	null	null
+396	2	heat	null	loc142
+396	3	heat	loc142	null
+396	4	heat	null	null
+396	5	heat	null	null
+396	6	heat	null	null
+396	1	uranium atom	loc142	loc142
+396	2	uranium atom	loc142	null
+396	3	uranium atom	null	null
+396	4	uranium atom	null	null
+396	5	uranium atom	null	null
+396	6	uranium atom	null	null
+396	1	uranium fuel	loc142	loc143
+396	2	uranium fuel	loc143	loc143
+396	3	uranium fuel	loc143	loc143
+396	4	uranium fuel	null	null
+396	5	uranium fuel	null	null
+396	6	uranium fuel	null	null
+396	1	steam	null	null
+396	2	steam	null	null
+396	3	steam	null	loc143
+396	4	steam	loc143	loc144
+396	5	steam	loc144	loc144
+396	6	steam	loc144	loc144
+396	1	electricity	null	null
+396	2	electricity	null	null
+396	3	electricity	null	null
+396	4	electricity	null	null
+396	5	electricity	null	null
+396	6	electricity	null	loc144
+396	1	water	loc144	loc144
+396	2	water	loc144	loc144
+396	3	water	loc144	null
+396	4	water	null	null
+396	5	water	null	null
+396	6	water	null	null
+1303	1	milk	loc144	loc145
+1303	2	milk	loc145	loc145
+1303	3	milk	loc145	loc145
+1303	4	milk	loc145	loc145
+1303	5	milk	loc145	loc145
+1303	1	microbe	null	null
+1303	2	microbe	null	null
+1303	3	microbe	null	loc145
+1303	4	microbe	loc145	loc145
+1303	5	microbe	loc145	loc145
+1303	1	food	loc145	loc146
+1303	2	food	loc146	loc146
+1303	3	food	loc146	loc146
+1303	4	food	loc146	loc146
+1303	5	food	loc146	loc146

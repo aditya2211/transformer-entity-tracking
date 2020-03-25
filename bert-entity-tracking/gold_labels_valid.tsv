@@ -1,0 +1,2564 @@
+1226	1	enyzme	before	null	1.0
+1226	1	enyzme	after	null	1.0
+1226	2	enyzme	before	null	1.0
+1226	2	enyzme	after	pancreas	1.0
+1226	3	enyzme	before	pancreas	1.0
+1226	3	enyzme	after	pancreas	1.0
+1226	4	enyzme	before	pancreas	1.0
+1226	4	enyzme	after	pancreas	1.0
+1226	5	enyzme	before	pancreas	1.0
+1226	5	enyzme	after	pancreas	1.0
+1226	6	enyzme	before	pancreas	1.0
+1226	6	enyzme	after	pancreas	1.0
+1226	1	fat	before	food	1.0
+1226	1	fat	after	food	1.0
+1226	2	fat	before	food	1.0
+1226	2	fat	after	food	1.0
+1226	3	fat	before	food	1.0
+1226	3	fat	after	null	1.0
+1226	4	fat	before	null	1.0
+1226	4	fat	after	null	1.0
+1226	5	fat	before	null	1.0
+1226	5	fat	after	null	1.0
+1226	6	fat	before	null	1.0
+1226	6	fat	after	null	1.0
+1226	1	food	before	unk	1.0
+1226	1	food	after	gut	1.0
+1226	2	food	before	gut	1.0
+1226	2	food	after	null	1.0
+1226	3	food	before	null	1.0
+1226	3	food	after	null	1.0
+1226	4	food	before	null	1.0
+1226	4	food	after	null	1.0
+1226	5	food	before	null	1.0
+1226	5	food	after	null	1.0
+1226	6	food	before	null	1.0
+1226	6	food	after	null	1.0
+1226	1	carbohydrate	before	food	1.0
+1226	1	carbohydrate	after	food	1.0
+1226	2	carbohydrate	before	food	1.0
+1226	2	carbohydrate	after	food	1.0
+1226	3	carbohydrate	before	food	1.0
+1226	3	carbohydrate	after	food	1.0
+1226	4	carbohydrate	before	food	1.0
+1226	4	carbohydrate	after	null	1.0
+1226	5	carbohydrate	before	null	1.0
+1226	5	carbohydrate	after	null	1.0
+1226	6	carbohydrate	before	null	1.0
+1226	6	carbohydrate	after	null	1.0
+4	1	bacterium	before	unk	1.0
+4	1	bacterium	after	unk	1.0
+4	2	bacterium	before	unk	1.0
+4	2	bacterium	after	unk	1.0
+4	3	bacterium	before	unk	1.0
+4	3	bacterium	after	sediment	1.0
+4	4	bacterium	before	sediment	1.0
+4	4	bacterium	after	sediment	1.0
+4	5	bacterium	before	sediment	1.0
+4	5	bacterium	after	sediment	1.0
+4	6	bacterium	before	sediment	1.0
+4	6	bacterium	after	sediment	1.0
+4	7	bacterium	before	sediment	1.0
+4	7	bacterium	after	sediment	1.0
+4	8	bacterium	before	sediment	1.0
+4	8	bacterium	after	sediment	1.0
+4	9	bacterium	before	sediment	1.0
+4	9	bacterium	after	sediment	1.0
+4	10	bacterium	before	sediment	1.0
+4	10	bacterium	after	null	1.0
+4	1	oil	before	null	1.0
+4	1	oil	after	null	1.0
+4	2	oil	before	null	1.0
+4	2	oil	after	null	1.0
+4	3	oil	before	null	1.0
+4	3	oil	after	null	1.0
+4	4	oil	before	null	1.0
+4	4	oil	after	null	1.0
+4	5	oil	before	null	1.0
+4	5	oil	after	null	1.0
+4	6	oil	before	null	1.0
+4	6	oil	after	null	1.0
+4	7	oil	before	null	1.0
+4	7	oil	after	null	1.0
+4	8	oil	before	null	1.0
+4	8	oil	after	null	1.0
+4	9	oil	before	null	1.0
+4	9	oil	after	null	1.0
+4	10	oil	before	null	1.0
+4	10	oil	after	underground	1.0
+4	1	plant	before	unk	1.0
+4	1	plant	after	unk	1.0
+4	2	plant	before	unk	1.0
+4	2	plant	after	sediment	1.0
+4	3	plant	before	sediment	1.0
+4	3	plant	after	sediment	1.0
+4	4	plant	before	sediment	1.0
+4	4	plant	after	sediment	1.0
+4	5	plant	before	sediment	1.0
+4	5	plant	after	sediment	1.0
+4	6	plant	before	sediment	1.0
+4	6	plant	after	sediment	1.0
+4	7	plant	before	sediment	1.0
+4	7	plant	after	sediment	1.0
+4	8	plant	before	sediment	1.0
+4	8	plant	after	underground	1.0
+4	9	plant	before	underground	1.0
+4	9	plant	after	underground	1.0
+4	10	plant	before	underground	1.0
+4	10	plant	after	null	1.0
+4	1	sediment	before	unk	1.0
+4	1	sediment	after	unk	1.0
+4	2	sediment	before	unk	1.0
+4	2	sediment	after	unk	1.0
+4	3	sediment	before	unk	1.0
+4	3	sediment	after	unk	1.0
+4	4	sediment	before	unk	1.0
+4	4	sediment	after	unk	1.0
+4	5	sediment	before	unk	1.0
+4	5	sediment	after	unk	1.0
+4	6	sediment	before	unk	1.0
+4	6	sediment	after	unk	1.0
+4	7	sediment	before	unk	1.0
+4	7	sediment	after	unk	1.0
+4	8	sediment	before	unk	1.0
+4	8	sediment	after	underground	1.0
+4	9	sediment	before	underground	1.0
+4	9	sediment	after	underground	1.0
+4	10	sediment	before	underground	1.0
+4	10	sediment	after	underground	1.0
+5	1	oil	before	null	1.0
+5	1	oil	after	null	1.0
+5	2	oil	before	null	1.0
+5	2	oil	after	null	1.0
+5	3	oil	before	null	1.0
+5	3	oil	after	null	1.0
+5	4	oil	before	null	1.0
+5	4	oil	after	null	1.0
+5	5	oil	before	null	1.0
+5	5	oil	after	null	1.0
+5	6	oil	before	null	1.0
+5	6	oil	after	null	1.0
+5	7	oil	before	null	1.0
+5	7	oil	after	rock	1.0
+5	8	oil	before	rock	1.0
+5	8	oil	after	rock	1.0
+5	9	oil	before	rock	1.0
+5	9	oil	after	rock	1.0
+5	1	material	before	null	1.0
+5	1	material	after	null	1.0
+5	2	material	before	null	1.0
+5	2	material	after	null	1.0
+5	3	material	before	null	1.0
+5	3	material	after	null	1.0
+5	4	material	before	null	1.0
+5	4	material	after	null	1.0
+5	5	material	before	null	1.0
+5	5	material	after	null	1.0
+5	6	material	before	null	1.0
+5	6	material	after	rock	1.0
+5	7	material	before	rock	1.0
+5	7	material	after	null	1.0
+5	8	material	before	null	1.0
+5	8	material	after	null	1.0
+5	9	material	before	null	1.0
+5	9	material	after	null	1.0
+5	1	algae	before	unk	1.0
+5	1	algae	after	seafloor	1.0
+5	2	algae	before	seafloor	1.0
+5	2	algae	after	null	1.0
+5	3	algae	before	null	1.0
+5	3	algae	after	null	1.0
+5	4	algae	before	null	1.0
+5	4	algae	after	null	1.0
+5	5	algae	before	null	1.0
+5	5	algae	after	null	1.0
+5	6	algae	before	null	1.0
+5	6	algae	after	null	1.0
+5	7	algae	before	null	1.0
+5	7	algae	after	null	1.0
+5	8	algae	before	null	1.0
+5	8	algae	after	null	1.0
+5	9	algae	before	null	1.0
+5	9	algae	after	null	1.0
+5	1	plankton	before	unk	1.0
+5	1	plankton	after	seafloor	1.0
+5	2	plankton	before	seafloor	1.0
+5	2	plankton	after	null	1.0
+5	3	plankton	before	null	1.0
+5	3	plankton	after	null	1.0
+5	4	plankton	before	null	1.0
+5	4	plankton	after	null	1.0
+5	5	plankton	before	null	1.0
+5	5	plankton	after	null	1.0
+5	6	plankton	before	null	1.0
+5	6	plankton	after	null	1.0
+5	7	plankton	before	null	1.0
+5	7	plankton	after	null	1.0
+5	8	plankton	before	null	1.0
+5	8	plankton	after	null	1.0
+5	9	plankton	before	null	1.0
+5	9	plankton	after	null	1.0
+5	1	sediment	before	seafloor	1.0
+5	1	sediment	after	seafloor	1.0
+5	2	sediment	before	seafloor	1.0
+5	2	sediment	after	seafloor	1.0
+5	3	sediment	before	seafloor	1.0
+5	3	sediment	after	seafloor	1.0
+5	4	sediment	before	seafloor	1.0
+5	4	sediment	after	seafloor	1.0
+5	5	sediment	before	seafloor	1.0
+5	5	sediment	after	seafloor	1.0
+5	6	sediment	before	seafloor	1.0
+5	6	sediment	after	null	1.0
+5	7	sediment	before	null	1.0
+5	7	sediment	after	null	1.0
+5	8	sediment	before	null	1.0
+5	8	sediment	after	null	1.0
+5	9	sediment	before	null	1.0
+5	9	sediment	after	null	1.0
+1114	1	cave	before	null	1.0
+1114	1	cave	after	null	1.0
+1114	2	cave	before	null	1.0
+1114	2	cave	after	null	1.0
+1114	3	cave	before	null	1.0
+1114	3	cave	after	null	1.0
+1114	4	cave	before	null	1.0
+1114	4	cave	after	null	1.0
+1114	5	cave	before	null	1.0
+1114	5	cave	after	null	1.0
+1114	6	cave	before	null	1.0
+1114	6	cave	after	null	1.0
+1114	7	cave	before	null	1.0
+1114	7	cave	after	null	1.0
+1114	1	bedrock	before	null	1.0
+1114	1	bedrock	after	soil	1.0
+1114	2	bedrock	before	soil	1.0
+1114	2	bedrock	after	soil	1.0
+1114	3	bedrock	before	soil	1.0
+1114	3	bedrock	after	soil	1.0
+1114	4	bedrock	before	soil	1.0
+1114	4	bedrock	after	soil	1.0
+1114	5	bedrock	before	soil	1.0
+1114	5	bedrock	after	null	1.0
+1114	6	bedrock	before	null	1.0
+1114	6	bedrock	after	null	1.0
+1114	7	bedrock	before	null	1.0
+1114	7	bedrock	after	null	1.0
+1114	1	funnel	before	null	1.0
+1114	1	funnel	after	null	1.0
+1114	2	funnel	before	null	1.0
+1114	2	funnel	after	null	1.0
+1114	3	funnel	before	null	1.0
+1114	3	funnel	after	null	1.0
+1114	4	funnel	before	null	1.0
+1114	4	funnel	after	null	1.0
+1114	5	funnel	before	null	1.0
+1114	5	funnel	after	bedrock	1.0
+1114	6	funnel	before	bedrock	1.0
+1114	6	funnel	after	bedrock	1.0
+1114	7	funnel	before	bedrock	1.0
+1114	7	funnel	after	null	1.0
+1114	1	rainwater	before	unk	1.0
+1114	1	rainwater	after	soil	1.0
+1114	2	rainwater	before	soil	1.0
+1114	2	rainwater	after	soil	1.0
+1114	3	rainwater	before	soil	1.0
+1114	3	rainwater	after	bedrock	1.0
+1114	4	rainwater	before	bedrock	1.0
+1114	4	rainwater	after	bedrock	1.0
+1114	5	rainwater	before	bedrock	1.0
+1114	5	rainwater	after	bedrock	1.0
+1114	6	rainwater	before	bedrock	1.0
+1114	6	rainwater	after	bedrock	1.0
+1114	7	rainwater	before	bedrock	1.0
+1114	7	rainwater	after	bedrock	1.0
+1114	1	water	before	unk	1.0
+1114	1	water	after	soil	1.0
+1114	2	water	before	soil	1.0
+1114	2	water	after	soil	1.0
+1114	3	water	before	soil	1.0
+1114	3	water	after	bedrock	1.0
+1114	4	water	before	bedrock	1.0
+1114	4	water	after	bedrock	1.0
+1114	5	water	before	bedrock	1.0
+1114	5	water	after	bedrock	1.0
+1114	6	water	before	bedrock	1.0
+1114	6	water	after	bedrock	1.0
+1114	7	water	before	bedrock	1.0
+1114	7	water	after	bedrock	1.0
+1113	1	carbon dioxide	before	air	1.0
+1113	1	carbon dioxide	after	rainwater	1.0
+1113	2	carbon dioxide	before	rainwater	1.0
+1113	2	carbon dioxide	after	rainwater	1.0
+1113	3	carbon dioxide	before	rainwater	1.0
+1113	3	carbon dioxide	after	rainwater	1.0
+1113	4	carbon dioxide	before	rainwater	1.0
+1113	4	carbon dioxide	after	rainwater	1.0
+1113	5	carbon dioxide	before	rainwater	1.0
+1113	5	carbon dioxide	after	rainwater	1.0
+1113	6	carbon dioxide	before	rainwater	1.0
+1113	6	carbon dioxide	after	rainwater	1.0
+1113	1	cave	before	null	1.0
+1113	1	cave	after	null	1.0
+1113	2	cave	before	null	1.0
+1113	2	cave	after	null	1.0
+1113	3	cave	before	null	1.0
+1113	3	cave	after	null	1.0
+1113	4	cave	before	null	1.0
+1113	4	cave	after	null	1.0
+1113	5	cave	before	null	1.0
+1113	5	cave	after	null	1.0
+1113	6	cave	before	null	1.0
+1113	6	cave	after	limestone	1.0
+1113	1	limestone	before	soil	1.0
+1113	1	limestone	after	soil	1.0
+1113	2	limestone	before	soil	1.0
+1113	2	limestone	after	soil	1.0
+1113	3	limestone	before	soil	1.0
+1113	3	limestone	after	soil	1.0
+1113	4	limestone	before	soil	1.0
+1113	4	limestone	after	soil	1.0
+1113	5	limestone	before	soil	1.0
+1113	5	limestone	after	null	1.0
+1113	6	limestone	before	null	1.0
+1113	6	limestone	after	null	1.0
+1113	1	rainwater	before	air	1.0
+1113	1	rainwater	after	air	1.0
+1113	2	rainwater	before	air	1.0
+1113	2	rainwater	after	soil	1.0
+1113	3	rainwater	before	soil	1.0
+1113	3	rainwater	after	soil	1.0
+1113	4	rainwater	before	soil	1.0
+1113	4	rainwater	after	soil	1.0
+1113	5	rainwater	before	soil	1.0
+1113	5	rainwater	after	limestone	1.0
+1113	6	rainwater	before	limestone	1.0
+1113	6	rainwater	after	limestone	1.0
+1113	1	weak acid	before	null	1.0
+1113	1	weak acid	after	null	1.0
+1113	2	weak acid	before	null	1.0
+1113	2	weak acid	after	null	1.0
+1113	3	weak acid	before	null	1.0
+1113	3	weak acid	after	null	1.0
+1113	4	weak acid	before	null	1.0
+1113	4	weak acid	after	soil	1.0
+1113	5	weak acid	before	soil	1.0
+1113	5	weak acid	after	limestone	1.0
+1113	6	weak acid	before	limestone	1.0
+1113	6	weak acid	after	limestone	1.0
+1113	1	water	before	air	1.0
+1113	1	water	after	air	1.0
+1113	2	water	before	air	1.0
+1113	2	water	after	soil	1.0
+1113	3	water	before	soil	1.0
+1113	3	water	after	soil	1.0
+1113	4	water	before	soil	1.0
+1113	4	water	after	null	1.0
+1113	5	water	before	null	1.0
+1113	5	water	after	null	1.0
+1113	6	water	before	null	1.0
+1113	6	water	after	null	1.0
+1112	1	acid	before	null	1.0
+1112	1	acid	after	null	1.0
+1112	2	acid	before	null	1.0
+1112	2	acid	after	null	1.0
+1112	3	acid	before	null	1.0
+1112	3	acid	after	soil	1.0
+1112	4	acid	before	soil	1.0
+1112	4	acid	after	soil	1.0
+1112	5	acid	before	soil	1.0
+1112	5	acid	after	cave	1.0
+1112	1	carbon dioxide	before	air	1.0
+1112	1	carbon dioxide	after	air	1.0
+1112	2	carbon dioxide	before	air	1.0
+1112	2	carbon dioxide	after	null	1.0
+1112	3	carbon dioxide	before	null	1.0
+1112	3	carbon dioxide	after	null	1.0
+1112	4	carbon dioxide	before	null	1.0
+1112	4	carbon dioxide	after	null	1.0
+1112	5	carbon dioxide	before	null	1.0
+1112	5	carbon dioxide	after	null	1.0
+1112	1	rain	before	air	1.0
+1112	1	rain	after	air	1.0
+1112	2	rain	before	air	1.0
+1112	2	rain	after	air	1.0
+1112	3	rain	before	air	1.0
+1112	3	rain	after	null	1.0
+1112	4	rain	before	null	1.0
+1112	4	rain	after	null	1.0
+1112	5	rain	before	null	1.0
+1112	5	rain	after	null	1.0
+1112	1	cave	before	null	1.0
+1112	1	cave	after	null	1.0
+1112	2	cave	before	null	1.0
+1112	2	cave	after	null	1.0
+1112	3	cave	before	null	1.0
+1112	3	cave	after	null	1.0
+1112	4	cave	before	null	1.0
+1112	4	cave	after	null	1.0
+1112	5	cave	before	null	1.0
+1112	5	cave	after	limestone	1.0
+1112	1	limestone	before	soil	1.0
+1112	1	limestone	after	soil	1.0
+1112	2	limestone	before	soil	1.0
+1112	2	limestone	after	soil	1.0
+1112	3	limestone	before	soil	1.0
+1112	3	limestone	after	soil	1.0
+1112	4	limestone	before	soil	1.0
+1112	4	limestone	after	null	1.0
+1112	5	limestone	before	null	1.0
+1112	5	limestone	after	null	1.0
+1008	1	bacterium	before	ground	1.0
+1008	1	bacterium	after	ground	1.0
+1008	2	bacterium	before	ground	1.0
+1008	2	bacterium	after	plant material	1.0
+1008	3	bacterium	before	plant material	1.0
+1008	3	bacterium	after	plant material	1.0
+1008	4	bacterium	before	plant material	1.0
+1008	4	bacterium	after	plant material	1.0
+1008	5	bacterium	before	plant material	1.0
+1008	5	bacterium	after	plant material	1.0
+1008	1	enzyme	before	bacterium	1.0
+1008	1	enzyme	after	bacterium	1.0
+1008	2	enzyme	before	bacterium	1.0
+1008	2	enzyme	after	bacterium	1.0
+1008	3	enzyme	before	bacterium	1.0
+1008	3	enzyme	after	plant material	1.0
+1008	4	enzyme	before	plant material	1.0
+1008	4	enzyme	after	plant material	1.0
+1008	5	enzyme	before	plant material	1.0
+1008	5	enzyme	after	plant material	1.0
+1008	1	component	before	null	1.0
+1008	1	component	after	null	1.0
+1008	2	component	before	null	1.0
+1008	2	component	after	null	1.0
+1008	3	component	before	null	1.0
+1008	3	component	after	null	1.0
+1008	4	component	before	null	1.0
+1008	4	component	after	plant	1.0
+1008	5	component	before	plant	1.0
+1008	5	component	after	null	1.0
+1008	1	plant cell	before	plant	1.0
+1008	1	plant cell	after	plant	1.0
+1008	2	plant cell	before	plant	1.0
+1008	2	plant cell	after	plant	1.0
+1008	3	plant cell	before	plant	1.0
+1008	3	plant cell	after	plant	1.0
+1008	4	plant cell	before	plant	1.0
+1008	4	plant cell	after	null	1.0
+1008	5	plant cell	before	null	1.0
+1008	5	plant cell	after	null	1.0
+1007	1	material	before	unk	1.0
+1007	1	material	after	unk	1.0
+1007	2	material	before	unk	1.0
+1007	2	material	after	unk	1.0
+1007	3	material	before	unk	1.0
+1007	3	material	after	unk	1.0
+1007	4	material	before	unk	1.0
+1007	4	material	after	unk	1.0
+1007	5	material	before	unk	1.0
+1007	5	material	after	null	1.0
+1007	6	material	before	null	1.0
+1007	6	material	after	null	1.0
+1007	1	plant	before	unk	1.0
+1007	1	plant	after	unk	1.0
+1007	2	plant	before	unk	1.0
+1007	2	plant	after	unk	1.0
+1007	3	plant	before	unk	1.0
+1007	3	plant	after	unk	1.0
+1007	4	plant	before	unk	1.0
+1007	4	plant	after	unk	1.0
+1007	5	plant	before	unk	1.0
+1007	5	plant	after	null	1.0
+1007	6	plant	before	null	1.0
+1007	6	plant	after	null	1.0
+1007	1	microbe	before	unk	1.0
+1007	1	microbe	after	dead plant	1.0
+1007	2	microbe	before	dead plant	1.0
+1007	2	microbe	after	dead plant	1.0
+1007	3	microbe	before	dead plant	1.0
+1007	3	microbe	after	dead plant	1.0
+1007	4	microbe	before	dead plant	1.0
+1007	4	microbe	after	dead plant	1.0
+1007	5	microbe	before	dead plant	1.0
+1007	5	microbe	after	soil	1.0
+1007	6	microbe	before	soil	1.0
+1007	6	microbe	after	soil	1.0
+1002	1	laundry detergent	before	unk	1.0
+1002	1	laundry detergent	after	unk	1.0
+1002	2	laundry detergent	before	unk	1.0
+1002	2	laundry detergent	after	wash machine	1.0
+1002	3	laundry detergent	before	wash machine	1.0
+1002	3	laundry detergent	after	wash machine	1.0
+1002	4	laundry detergent	before	wash machine	1.0
+1002	4	laundry detergent	after	wash machine	1.0
+1002	5	laundry detergent	before	wash machine	1.0
+1002	5	laundry detergent	after	wash machine	1.0
+1002	1	dirty laundry	before	unk	1.0
+1002	1	dirty laundry	after	wash machine	1.0
+1002	2	dirty laundry	before	wash machine	1.0
+1002	2	dirty laundry	after	wash machine	1.0
+1002	3	dirty laundry	before	wash machine	1.0
+1002	3	dirty laundry	after	wash machine	1.0
+1002	4	dirty laundry	before	wash machine	1.0
+1002	4	dirty laundry	after	wash machine	1.0
+1002	5	dirty laundry	before	wash machine	1.0
+1002	5	dirty laundry	after	wash machine	1.0
+825	1	uranium atom	before	underground	1.0
+825	1	uranium atom	after	underground	1.0
+825	2	uranium atom	before	underground	1.0
+825	2	uranium atom	after	unk	1.0
+825	3	uranium atom	before	unk	1.0
+825	3	uranium atom	after	nuclear power plant	1.0
+825	4	uranium atom	before	nuclear power plant	1.0
+825	4	uranium atom	after	null	1.0
+825	5	uranium atom	before	null	1.0
+825	5	uranium atom	after	null	1.0
+825	6	uranium atom	before	null	1.0
+825	6	uranium atom	after	null	1.0
+825	7	uranium atom	before	null	1.0
+825	7	uranium atom	after	null	1.0
+825	8	uranium atom	before	null	1.0
+825	8	uranium atom	after	null	1.0
+825	9	uranium atom	before	null	1.0
+825	9	uranium atom	after	null	1.0
+825	10	uranium atom	before	null	1.0
+825	10	uranium atom	after	null	1.0
+825	1	steam	before	null	1.0
+825	1	steam	after	null	1.0
+825	2	steam	before	null	1.0
+825	2	steam	after	null	1.0
+825	3	steam	before	null	1.0
+825	3	steam	after	null	1.0
+825	4	steam	before	null	1.0
+825	4	steam	after	null	1.0
+825	5	steam	before	null	1.0
+825	5	steam	after	null	1.0
+825	6	steam	before	null	1.0
+825	6	steam	after	nuclear reactor	1.0
+825	7	steam	before	nuclear reactor	1.0
+825	7	steam	after	nuclear reactor	1.0
+825	8	steam	before	nuclear reactor	1.0
+825	8	steam	after	nuclear reactor	1.0
+825	9	steam	before	nuclear reactor	1.0
+825	9	steam	after	nuclear reactor	1.0
+825	10	steam	before	nuclear reactor	1.0
+825	10	steam	after	null	1.0
+825	1	electricity	before	null	1.0
+825	1	electricity	after	null	1.0
+825	2	electricity	before	null	1.0
+825	2	electricity	after	null	1.0
+825	3	electricity	before	null	1.0
+825	3	electricity	after	null	1.0
+825	4	electricity	before	null	1.0
+825	4	electricity	after	null	1.0
+825	5	electricity	before	null	1.0
+825	5	electricity	after	null	1.0
+825	6	electricity	before	null	1.0
+825	6	electricity	after	null	1.0
+825	7	electricity	before	null	1.0
+825	7	electricity	after	null	1.0
+825	8	electricity	before	null	1.0
+825	8	electricity	after	null	1.0
+825	9	electricity	before	null	1.0
+825	9	electricity	after	generator	1.0
+825	10	electricity	before	generator	1.0
+825	10	electricity	after	generator	1.0
+825	1	uranium	before	underground	1.0
+825	1	uranium	after	underground	1.0
+825	2	uranium	before	underground	1.0
+825	2	uranium	after	unk	1.0
+825	3	uranium	before	unk	1.0
+825	3	uranium	after	nuclear power plant	1.0
+825	4	uranium	before	nuclear power plant	1.0
+825	4	uranium	after	null	1.0
+825	5	uranium	before	null	1.0
+825	5	uranium	after	null	1.0
+825	6	uranium	before	null	1.0
+825	6	uranium	after	null	1.0
+825	7	uranium	before	null	1.0
+825	7	uranium	after	null	1.0
+825	8	uranium	before	null	1.0
+825	8	uranium	after	null	1.0
+825	9	uranium	before	null	1.0
+825	9	uranium	after	null	1.0
+825	10	uranium	before	null	1.0
+825	10	uranium	after	null	1.0
+825	1	water	before	unk	1.0
+825	1	water	after	unk	1.0
+825	2	water	before	unk	1.0
+825	2	water	after	unk	1.0
+825	3	water	before	unk	1.0
+825	3	water	after	unk	1.0
+825	4	water	before	unk	1.0
+825	4	water	after	unk	1.0
+825	5	water	before	unk	1.0
+825	5	water	after	unk	1.0
+825	6	water	before	unk	1.0
+825	6	water	after	null	1.0
+825	7	water	before	null	1.0
+825	7	water	after	null	1.0
+825	8	water	before	null	1.0
+825	8	water	after	null	1.0
+825	9	water	before	null	1.0
+825	9	water	after	null	1.0
+825	10	water	before	null	1.0
+825	10	water	after	nuclear power plant	1.0
+825	1	heat energy	before	null	1.0
+825	1	heat energy	after	null	1.0
+825	2	heat energy	before	null	1.0
+825	2	heat energy	after	null	1.0
+825	3	heat energy	before	null	1.0
+825	3	heat energy	after	null	1.0
+825	4	heat energy	before	null	1.0
+825	4	heat energy	after	unk	1.0
+825	5	heat energy	before	unk	1.0
+825	5	heat energy	after	uranium	1.0
+825	6	heat energy	before	uranium	1.0
+825	6	heat energy	after	uranium	1.0
+825	7	heat energy	before	uranium	1.0
+825	7	heat energy	after	nuclear reactor	1.0
+825	8	heat energy	before	nuclear reactor	1.0
+825	8	heat energy	after	nuclear reactor	1.0
+825	9	heat energy	before	nuclear reactor	1.0
+825	9	heat energy	after	nuclear reactor	1.0
+825	10	heat energy	before	nuclear reactor	1.0
+825	10	heat energy	after	nuclear reactor	1.0
+826	1	heat	before	nuclear reactor	1.0
+826	1	heat	after	nuclear reactor	1.0
+826	2	heat	before	nuclear reactor	1.0
+826	2	heat	after	nuclear reactor	1.0
+826	3	heat	before	nuclear reactor	1.0
+826	3	heat	after	nuclear reactor	1.0
+826	4	heat	before	nuclear reactor	1.0
+826	4	heat	after	nuclear reactor	1.0
+826	5	heat	before	nuclear reactor	1.0
+826	5	heat	after	nuclear reactor	1.0
+826	1	steam	before	null	1.0
+826	1	steam	after	null	1.0
+826	2	steam	before	null	1.0
+826	2	steam	after	nuclear reactor	1.0
+826	3	steam	before	nuclear reactor	1.0
+826	3	steam	after	turbine	1.0
+826	4	steam	before	turbine	1.0
+826	4	steam	after	turbine	1.0
+826	5	steam	before	turbine	1.0
+826	5	steam	after	turbine	1.0
+826	1	electricity	before	null	1.0
+826	1	electricity	after	null	1.0
+826	2	electricity	before	null	1.0
+826	2	electricity	after	null	1.0
+826	3	electricity	before	null	1.0
+826	3	electricity	after	null	1.0
+826	4	electricity	before	null	1.0
+826	4	electricity	after	turbine	1.0
+826	5	electricity	before	turbine	1.0
+826	5	electricity	after	turbine	1.0
+708	1	rock	before	unk	1.0
+708	1	rock	after	unk	1.0
+708	2	rock	before	unk	1.0
+708	2	rock	after	unk	1.0
+708	3	rock	before	unk	1.0
+708	3	rock	after	null	1.0
+708	4	rock	before	null	1.0
+708	4	rock	after	null	1.0
+708	5	rock	before	null	1.0
+708	5	rock	after	null	1.0
+708	6	rock	before	null	1.0
+708	6	rock	after	null	1.0
+708	7	rock	before	null	1.0
+708	7	rock	after	null	1.0
+708	8	rock	before	null	1.0
+708	8	rock	after	null	1.0
+708	9	rock	before	null	1.0
+708	9	rock	after	null	1.0
+708	10	rock	before	null	1.0
+708	10	rock	after	null	1.0
+708	1	melt rock	before	null	1.0
+708	1	melt rock	after	null	1.0
+708	2	melt rock	before	null	1.0
+708	2	melt rock	after	null	1.0
+708	3	melt rock	before	null	1.0
+708	3	melt rock	after	null	1.0
+708	4	melt rock	before	null	1.0
+708	4	melt rock	after	null	1.0
+708	5	melt rock	before	null	1.0
+708	5	melt rock	after	null	1.0
+708	6	melt rock	before	null	1.0
+708	6	melt rock	after	null	1.0
+708	7	melt rock	before	null	1.0
+708	7	melt rock	after	null	1.0
+708	8	melt rock	before	null	1.0
+708	8	melt rock	after	unk	1.0
+708	9	melt rock	before	unk	1.0
+708	9	melt rock	after	unk	1.0
+708	10	melt rock	before	unk	1.0
+708	10	melt rock	after	null	1.0
+708	1	metamorphic rock	before	null	1.0
+708	1	metamorphic rock	after	null	1.0
+708	2	metamorphic rock	before	null	1.0
+708	2	metamorphic rock	after	null	1.0
+708	3	metamorphic rock	before	null	1.0
+708	3	metamorphic rock	after	null	1.0
+708	4	metamorphic rock	before	null	1.0
+708	4	metamorphic rock	after	null	1.0
+708	5	metamorphic rock	before	null	1.0
+708	5	metamorphic rock	after	null	1.0
+708	6	metamorphic rock	before	null	1.0
+708	6	metamorphic rock	after	unk	1.0
+708	7	metamorphic rock	before	unk	1.0
+708	7	metamorphic rock	after	bury	1.0
+708	8	metamorphic rock	before	bury	1.0
+708	8	metamorphic rock	after	null	1.0
+708	9	metamorphic rock	before	null	1.0
+708	9	metamorphic rock	after	null	1.0
+708	10	metamorphic rock	before	null	1.0
+708	10	metamorphic rock	after	null	1.0
+708	1	sediment	before	null	1.0
+708	1	sediment	after	null	1.0
+708	2	sediment	before	null	1.0
+708	2	sediment	after	null	1.0
+708	3	sediment	before	null	1.0
+708	3	sediment	after	unk	1.0
+708	4	sediment	before	unk	1.0
+708	4	sediment	after	unk	1.0
+708	5	sediment	before	unk	1.0
+708	5	sediment	after	unk	1.0
+708	6	sediment	before	unk	1.0
+708	6	sediment	after	null	1.0
+708	7	sediment	before	null	1.0
+708	7	sediment	after	null	1.0
+708	8	sediment	before	null	1.0
+708	8	sediment	after	null	1.0
+708	9	sediment	before	null	1.0
+708	9	sediment	after	null	1.0
+708	10	sediment	before	null	1.0
+708	10	sediment	after	null	1.0
+1260	1	silk	before	null	1.0
+1260	1	silk	after	null	1.0
+1260	2	silk	before	null	1.0
+1260	2	silk	after	abdomen	1.0
+1260	3	silk	before	abdomen	1.0
+1260	3	silk	after	object	1.0
+1260	4	silk	before	object	1.0
+1260	4	silk	after	object	1.0
+1260	5	silk	before	object	1.0
+1260	5	silk	after	null	1.0
+1260	1	web	before	null	1.0
+1260	1	web	after	null	1.0
+1260	2	web	before	null	1.0
+1260	2	web	after	null	1.0
+1260	3	web	before	null	1.0
+1260	3	web	after	null	1.0
+1260	4	web	before	null	1.0
+1260	4	web	after	null	1.0
+1260	5	web	before	null	1.0
+1260	5	web	after	object	1.0
+1259	1	web	before	null	1.0
+1259	1	web	after	null	1.0
+1259	2	web	before	null	1.0
+1259	2	web	after	null	1.0
+1259	3	web	before	null	1.0
+1259	3	web	after	null	1.0
+1259	4	web	before	null	1.0
+1259	4	web	after	suitable place	1.0
+1259	5	web	before	suitable place	1.0
+1259	5	web	after	suitable place	1.0
+1259	1	thread	before	null	1.0
+1259	1	thread	after	null	1.0
+1259	2	thread	before	null	1.0
+1259	2	thread	after	gland	1.0
+1259	3	thread	before	gland	1.0
+1259	3	thread	after	several point	1.0
+1259	4	thread	before	several point	1.0
+1259	4	thread	after	web	1.0
+1259	5	thread	before	web	1.0
+1259	5	thread	after	web	1.0
+716	1	waste	before	unk	1.0
+716	1	waste	after	kidney	1.0
+716	2	waste	before	kidney	1.0
+716	2	waste	after	kidney	1.0
+716	3	waste	before	kidney	1.0
+716	3	waste	after	kidney	1.0
+716	4	waste	before	kidney	1.0
+716	4	waste	after	unk	1.0
+716	5	waste	before	unk	1.0
+716	5	waste	after	unk	1.0
+716	6	waste	before	unk	1.0
+716	6	waste	after	unk	1.0
+716	1	kidney	before	unk	1.0
+716	1	kidney	after	body	1.0
+716	2	kidney	before	body	1.0
+716	2	kidney	after	body	1.0
+716	3	kidney	before	body	1.0
+716	3	kidney	after	body	1.0
+716	4	kidney	before	body	1.0
+716	4	kidney	after	body	1.0
+716	5	kidney	before	body	1.0
+716	5	kidney	after	body	1.0
+716	6	kidney	before	body	1.0
+716	6	kidney	after	body	1.0
+716	1	urine	before	null	1.0
+716	1	urine	after	null	1.0
+716	2	urine	before	null	1.0
+716	2	urine	after	null	1.0
+716	3	urine	before	null	1.0
+716	3	urine	after	null	1.0
+716	4	urine	before	null	1.0
+716	4	urine	after	kidney	1.0
+716	5	urine	before	kidney	1.0
+716	5	urine	after	unk	1.0
+716	6	urine	before	unk	1.0
+716	6	urine	after	unk	1.0
+716	1	blood	before	unk	1.0
+716	1	blood	after	kidney	1.0
+716	2	blood	before	kidney	1.0
+716	2	blood	after	kidney	1.0
+716	3	blood	before	kidney	1.0
+716	3	blood	after	kidney	1.0
+716	4	blood	before	kidney	1.0
+716	4	blood	after	kidney	1.0
+716	5	blood	before	kidney	1.0
+716	5	blood	after	kidney	1.0
+716	6	blood	before	kidney	1.0
+716	6	blood	after	body	1.0
+716	1	clean blood	before	unk	1.0
+716	1	clean blood	after	unk	1.0
+716	2	clean blood	before	unk	1.0
+716	2	clean blood	after	unk	1.0
+716	3	clean blood	before	unk	1.0
+716	3	clean blood	after	unk	1.0
+716	4	clean blood	before	unk	1.0
+716	4	clean blood	after	unk	1.0
+716	5	clean blood	before	unk	1.0
+716	5	clean blood	after	unk	1.0
+716	6	clean blood	before	unk	1.0
+716	6	clean blood	after	body	1.0
+608	1	explosion	before	null	1.0
+608	1	explosion	after	null	1.0
+608	2	explosion	before	null	1.0
+608	2	explosion	after	null	1.0
+608	3	explosion	before	null	1.0
+608	3	explosion	after	null	1.0
+608	4	explosion	before	null	1.0
+608	4	explosion	after	null	1.0
+608	5	explosion	before	null	1.0
+608	5	explosion	after	engine	1.0
+608	6	explosion	before	engine	1.0
+608	6	explosion	after	null	1.0
+608	7	explosion	before	null	1.0
+608	7	explosion	after	null	1.0
+608	8	explosion	before	null	1.0
+608	8	explosion	after	null	1.0
+608	9	explosion	before	null	1.0
+608	9	explosion	after	null	1.0
+608	1	piston	before	engine	1.0
+608	1	piston	after	engine	1.0
+608	2	piston	before	engine	1.0
+608	2	piston	after	engine	1.0
+608	3	piston	before	engine	1.0
+608	3	piston	after	engine	1.0
+608	4	piston	before	engine	1.0
+608	4	piston	after	engine	1.0
+608	5	piston	before	engine	1.0
+608	5	piston	after	engine	1.0
+608	6	piston	before	engine	1.0
+608	6	piston	after	engine	1.0
+608	7	piston	before	engine	1.0
+608	7	piston	after	engine	1.0
+608	8	piston	before	engine	1.0
+608	8	piston	after	engine	1.0
+608	9	piston	before	engine	1.0
+608	9	piston	after	engine	1.0
+608	1	spark	before	null	1.0
+608	1	spark	after	null	1.0
+608	2	spark	before	null	1.0
+608	2	spark	after	null	1.0
+608	3	spark	before	null	1.0
+608	3	spark	after	null	1.0
+608	4	spark	before	null	1.0
+608	4	spark	after	engine	1.0
+608	5	spark	before	engine	1.0
+608	5	spark	after	null	1.0
+608	6	spark	before	null	1.0
+608	6	spark	after	null	1.0
+608	7	spark	before	null	1.0
+608	7	spark	after	null	1.0
+608	8	spark	before	null	1.0
+608	8	spark	after	null	1.0
+608	9	spark	before	null	1.0
+608	9	spark	after	null	1.0
+608	1	fuel	before	carburetor	1.0
+608	1	fuel	after	engine	1.0
+608	2	fuel	before	engine	1.0
+608	2	fuel	after	engine	1.0
+608	3	fuel	before	engine	1.0
+608	3	fuel	after	engine	1.0
+608	4	fuel	before	engine	1.0
+608	4	fuel	after	engine	1.0
+608	5	fuel	before	engine	1.0
+608	5	fuel	after	engine	1.0
+608	6	fuel	before	engine	1.0
+608	6	fuel	after	engine	1.0
+608	7	fuel	before	engine	1.0
+608	7	fuel	after	engine	1.0
+608	8	fuel	before	engine	1.0
+608	8	fuel	after	engine	1.0
+608	9	fuel	before	engine	1.0
+608	9	fuel	after	engine	1.0
+608	1	air	before	unk	1.0
+608	1	air	after	unk	1.0
+608	2	air	before	unk	1.0
+608	2	air	after	engine	1.0
+608	3	air	before	engine	1.0
+608	3	air	after	engine	1.0
+608	4	air	before	engine	1.0
+608	4	air	after	engine	1.0
+608	5	air	before	engine	1.0
+608	5	air	after	engine	1.0
+608	6	air	before	engine	1.0
+608	6	air	after	engine	1.0
+608	7	air	before	engine	1.0
+608	7	air	after	engine	1.0
+608	8	air	before	engine	1.0
+608	8	air	after	engine	1.0
+608	9	air	before	engine	1.0
+608	9	air	after	engine	1.0
+609	1	explosion	before	null	1.0
+609	1	explosion	after	null	1.0
+609	2	explosion	before	null	1.0
+609	2	explosion	after	null	1.0
+609	3	explosion	before	null	1.0
+609	3	explosion	after	null	1.0
+609	4	explosion	before	null	1.0
+609	4	explosion	after	null	1.0
+609	5	explosion	before	null	1.0
+609	5	explosion	after	cylinder	1.0
+609	6	explosion	before	cylinder	1.0
+609	6	explosion	after	cylinder	1.0
+609	1	piston	before	engine	1.0
+609	1	piston	after	engine	1.0
+609	2	piston	before	engine	1.0
+609	2	piston	after	engine	1.0
+609	3	piston	before	engine	1.0
+609	3	piston	after	engine	1.0
+609	4	piston	before	engine	1.0
+609	4	piston	after	engine	1.0
+609	5	piston	before	engine	1.0
+609	5	piston	after	engine	1.0
+609	6	piston	before	engine	1.0
+609	6	piston	after	engine	1.0
+609	1	spark	before	null	1.0
+609	1	spark	after	null	1.0
+609	2	spark	before	null	1.0
+609	2	spark	after	null	1.0
+609	3	spark	before	null	1.0
+609	3	spark	after	null	1.0
+609	4	spark	before	null	1.0
+609	4	spark	after	cylinder	1.0
+609	5	spark	before	cylinder	1.0
+609	5	spark	after	null	1.0
+609	6	spark	before	null	1.0
+609	6	spark	after	null	1.0
+609	1	exhaust	before	null	1.0
+609	1	exhaust	after	null	1.0
+609	2	exhaust	before	null	1.0
+609	2	exhaust	after	null	1.0
+609	3	exhaust	before	null	1.0
+609	3	exhaust	after	null	1.0
+609	4	exhaust	before	null	1.0
+609	4	exhaust	after	null	1.0
+609	5	exhaust	before	null	1.0
+609	5	exhaust	after	cylinder	1.0
+609	6	exhaust	before	cylinder	1.0
+609	6	exhaust	after	tailpipe	1.0
+609	1	air	before	unk	1.0
+609	1	air	after	cylinder	1.0
+609	2	air	before	cylinder	1.0
+609	2	air	after	cylinder	1.0
+609	3	air	before	cylinder	1.0
+609	3	air	after	cylinder	1.0
+609	4	air	before	cylinder	1.0
+609	4	air	after	cylinder	1.0
+609	5	air	before	cylinder	1.0
+609	5	air	after	null	1.0
+609	6	air	before	null	1.0
+609	6	air	after	null	1.0
+609	1	gasoline	before	unk	1.0
+609	1	gasoline	after	cylinder	1.0
+609	2	gasoline	before	cylinder	1.0
+609	2	gasoline	after	cylinder	1.0
+609	3	gasoline	before	cylinder	1.0
+609	3	gasoline	after	cylinder	1.0
+609	4	gasoline	before	cylinder	1.0
+609	4	gasoline	after	cylinder	1.0
+609	5	gasoline	before	cylinder	1.0
+609	5	gasoline	after	null	1.0
+609	6	gasoline	before	null	1.0
+609	6	gasoline	after	null	1.0
+610	1	spark	before	null	1.0
+610	1	spark	after	null	1.0
+610	2	spark	before	null	1.0
+610	2	spark	after	null	1.0
+610	3	spark	before	null	1.0
+610	3	spark	after	null	1.0
+610	4	spark	before	null	1.0
+610	4	spark	after	null	1.0
+610	5	spark	before	null	1.0
+610	5	spark	after	cylinder	1.0
+610	6	spark	before	cylinder	1.0
+610	6	spark	after	null	1.0
+610	7	spark	before	null	1.0
+610	7	spark	after	null	1.0
+610	8	spark	before	null	1.0
+610	8	spark	after	null	1.0
+610	1	fuel	before	combustion chamber	1.0
+610	1	fuel	after	combustion chamber	1.0
+610	2	fuel	before	combustion chamber	1.0
+610	2	fuel	after	combustion chamber	1.0
+610	3	fuel	before	combustion chamber	1.0
+610	3	fuel	after	combustion chamber	1.0
+610	4	fuel	before	combustion chamber	1.0
+610	4	fuel	after	combustion chamber	1.0
+610	5	fuel	before	combustion chamber	1.0
+610	5	fuel	after	combustion chamber	1.0
+610	6	fuel	before	combustion chamber	1.0
+610	6	fuel	after	combustion chamber	1.0
+610	7	fuel	before	combustion chamber	1.0
+610	7	fuel	after	combustion chamber	1.0
+610	8	fuel	before	combustion chamber	1.0
+610	8	fuel	after	combustion chamber	1.0
+610	1	air	before	unk	1.0
+610	1	air	after	unk	1.0
+610	2	air	before	unk	1.0
+610	2	air	after	unk	1.0
+610	3	air	before	unk	1.0
+610	3	air	after	cylinder	1.0
+610	4	air	before	cylinder	1.0
+610	4	air	after	cylinder	1.0
+610	5	air	before	cylinder	1.0
+610	5	air	after	cylinder	1.0
+610	6	air	before	cylinder	1.0
+610	6	air	after	cylinder	1.0
+610	7	air	before	cylinder	1.0
+610	7	air	after	cylinder	1.0
+610	8	air	before	cylinder	1.0
+610	8	air	after	unk	1.0
+610	1	pressure	before	null	1.0
+610	1	pressure	after	null	1.0
+610	2	pressure	before	null	1.0
+610	2	pressure	after	null	1.0
+610	3	pressure	before	null	1.0
+610	3	pressure	after	null	1.0
+610	4	pressure	before	null	1.0
+610	4	pressure	after	null	1.0
+610	5	pressure	before	null	1.0
+610	5	pressure	after	cylinder	1.0
+610	6	pressure	before	cylinder	1.0
+610	6	pressure	after	cylinder	1.0
+610	7	pressure	before	cylinder	1.0
+610	7	pressure	after	cylinder	1.0
+610	8	pressure	before	cylinder	1.0
+610	8	pressure	after	cylinder	1.0
+629	1	garbage can	before	unk	1.0
+629	1	garbage can	after	unk	1.0
+629	2	garbage can	before	unk	1.0
+629	2	garbage can	after	unk	1.0
+629	3	garbage can	before	unk	1.0
+629	3	garbage can	after	outside	1.0
+629	4	garbage can	before	outside	1.0
+629	4	garbage can	after	outside	1.0
+629	5	garbage can	before	outside	1.0
+629	5	garbage can	after	outside	1.0
+629	6	garbage can	before	outside	1.0
+629	6	garbage can	after	outside	1.0
+629	7	garbage can	before	outside	1.0
+629	7	garbage can	after	outside	1.0
+629	1	truck	before	unk	1.0
+629	1	truck	after	unk	1.0
+629	2	truck	before	unk	1.0
+629	2	truck	after	unk	1.0
+629	3	truck	before	unk	1.0
+629	3	truck	after	unk	1.0
+629	4	truck	before	unk	1.0
+629	4	truck	after	house	1.0
+629	5	truck	before	house	1.0
+629	5	truck	after	house	1.0
+629	6	truck	before	house	1.0
+629	6	truck	after	landfill	1.0
+629	7	truck	before	landfill	1.0
+629	7	truck	after	landfill	1.0
+629	1	plastic bag	before	unk	1.0
+629	1	plastic bag	after	unk	1.0
+629	2	plastic bag	before	unk	1.0
+629	2	plastic bag	after	garbage can	1.0
+629	3	plastic bag	before	garbage can	1.0
+629	3	plastic bag	after	garbage can	1.0
+629	4	plastic bag	before	garbage can	1.0
+629	4	plastic bag	after	garbage can	1.0
+629	5	plastic bag	before	garbage can	1.0
+629	5	plastic bag	after	truck	1.0
+629	6	plastic bag	before	truck	1.0
+629	6	plastic bag	after	truck	1.0
+629	7	plastic bag	before	truck	1.0
+629	7	plastic bag	after	landfill	1.0
+629	1	trash	before	unk	1.0
+629	1	trash	after	plastic bag	1.0
+629	2	trash	before	plastic bag	1.0
+629	2	trash	after	plastic bag	1.0
+629	3	trash	before	plastic bag	1.0
+629	3	trash	after	plastic bag	1.0
+629	4	trash	before	plastic bag	1.0
+629	4	trash	after	plastic bag	1.0
+629	5	trash	before	plastic bag	1.0
+629	5	trash	after	plastic bag	1.0
+629	6	trash	before	plastic bag	1.0
+629	6	trash	after	plastic bag	1.0
+629	7	trash	before	plastic bag	1.0
+629	7	trash	after	plastic bag	1.0
+629	1	garbage truck	before	unk	1.0
+629	1	garbage truck	after	unk	1.0
+629	2	garbage truck	before	unk	1.0
+629	2	garbage truck	after	unk	1.0
+629	3	garbage truck	before	unk	1.0
+629	3	garbage truck	after	unk	1.0
+629	4	garbage truck	before	unk	1.0
+629	4	garbage truck	after	house	1.0
+629	5	garbage truck	before	house	1.0
+629	5	garbage truck	after	house	1.0
+629	6	garbage truck	before	house	1.0
+629	6	garbage truck	after	landfill	1.0
+629	7	garbage truck	before	landfill	1.0
+629	7	garbage truck	after	landfill	1.0
+509	1	explosion	before	unk	1.0
+509	1	explosion	after	unk	1.0
+509	2	explosion	before	unk	1.0
+509	2	explosion	after	unk	1.0
+509	3	explosion	before	unk	1.0
+509	3	explosion	after	unk	1.0
+509	4	explosion	before	unk	1.0
+509	4	explosion	after	chamber	1.0
+509	5	explosion	before	chamber	1.0
+509	5	explosion	after	chamber	1.0
+509	6	explosion	before	chamber	1.0
+509	6	explosion	after	chamber	1.0
+509	7	explosion	before	chamber	1.0
+509	7	explosion	after	unk	1.0
+509	8	explosion	before	unk	1.0
+509	8	explosion	after	unk	1.0
+509	9	explosion	before	unk	1.0
+509	9	explosion	after	unk	1.0
+509	10	explosion	before	unk	1.0
+509	10	explosion	after	unk	1.0
+509	1	spend fuel	before	unk	1.0
+509	1	spend fuel	after	chamber	1.0
+509	2	spend fuel	before	chamber	1.0
+509	2	spend fuel	after	chamber	1.0
+509	3	spend fuel	before	chamber	1.0
+509	3	spend fuel	after	chamber	1.0
+509	4	spend fuel	before	chamber	1.0
+509	4	spend fuel	after	chamber	1.0
+509	5	spend fuel	before	chamber	1.0
+509	5	spend fuel	after	chamber	1.0
+509	6	spend fuel	before	chamber	1.0
+509	6	spend fuel	after	chamber	1.0
+509	7	spend fuel	before	chamber	1.0
+509	7	spend fuel	after	chamber	1.0
+509	8	spend fuel	before	chamber	1.0
+509	8	spend fuel	after	null	1.0
+509	9	spend fuel	before	null	1.0
+509	9	spend fuel	after	null	1.0
+509	10	spend fuel	before	null	1.0
+509	10	spend fuel	after	null	1.0
+509	1	piston	before	unk	1.0
+509	1	piston	after	unk	1.0
+509	2	piston	before	unk	1.0
+509	2	piston	after	unk	1.0
+509	3	piston	before	unk	1.0
+509	3	piston	after	unk	1.0
+509	4	piston	before	unk	1.0
+509	4	piston	after	unk	1.0
+509	5	piston	before	unk	1.0
+509	5	piston	after	unk	1.0
+509	6	piston	before	unk	1.0
+509	6	piston	after	unk	1.0
+509	7	piston	before	unk	1.0
+509	7	piston	after	unk	1.0
+509	8	piston	before	unk	1.0
+509	8	piston	after	unk	1.0
+509	9	piston	before	unk	1.0
+509	9	piston	after	unk	1.0
+509	10	piston	before	unk	1.0
+509	10	piston	after	unk	1.0
+509	1	fuel	before	unk	1.0
+509	1	fuel	after	chamber	1.0
+509	2	fuel	before	chamber	1.0
+509	2	fuel	after	chamber	1.0
+509	3	fuel	before	chamber	1.0
+509	3	fuel	after	chamber	1.0
+509	4	fuel	before	chamber	1.0
+509	4	fuel	after	chamber	1.0
+509	5	fuel	before	chamber	1.0
+509	5	fuel	after	chamber	1.0
+509	6	fuel	before	chamber	1.0
+509	6	fuel	after	chamber	1.0
+509	7	fuel	before	chamber	1.0
+509	7	fuel	after	chamber	1.0
+509	8	fuel	before	chamber	1.0
+509	8	fuel	after	null	1.0
+509	9	fuel	before	null	1.0
+509	9	fuel	after	null	1.0
+509	10	fuel	before	null	1.0
+509	10	fuel	after	null	1.0
+509	1	thermal energy	before	null	1.0
+509	1	thermal energy	after	null	1.0
+509	2	thermal energy	before	null	1.0
+509	2	thermal energy	after	null	1.0
+509	3	thermal energy	before	null	1.0
+509	3	thermal energy	after	null	1.0
+509	4	thermal energy	before	null	1.0
+509	4	thermal energy	after	null	1.0
+509	5	thermal energy	before	null	1.0
+509	5	thermal energy	after	chamber	1.0
+509	6	thermal energy	before	chamber	1.0
+509	6	thermal energy	after	chamber	1.0
+509	7	thermal energy	before	chamber	1.0
+509	7	thermal energy	after	chamber	1.0
+509	8	thermal energy	before	chamber	1.0
+509	8	thermal energy	after	chamber	1.0
+509	9	thermal energy	before	chamber	1.0
+509	9	thermal energy	after	chamber	1.0
+509	10	thermal energy	before	chamber	1.0
+509	10	thermal energy	after	chamber	1.0
+509	1	new fuel	before	null	1.0
+509	1	new fuel	after	null	1.0
+509	2	new fuel	before	null	1.0
+509	2	new fuel	after	null	1.0
+509	3	new fuel	before	null	1.0
+509	3	new fuel	after	null	1.0
+509	4	new fuel	before	null	1.0
+509	4	new fuel	after	null	1.0
+509	5	new fuel	before	null	1.0
+509	5	new fuel	after	null	1.0
+509	6	new fuel	before	null	1.0
+509	6	new fuel	after	null	1.0
+509	7	new fuel	before	null	1.0
+509	7	new fuel	after	null	1.0
+509	8	new fuel	before	null	1.0
+509	8	new fuel	after	null	1.0
+509	9	new fuel	before	null	1.0
+509	9	new fuel	after	chamber	1.0
+509	10	new fuel	before	chamber	1.0
+509	10	new fuel	after	chamber	1.0
+509	1	chemical energy	before	fuel	1.0
+509	1	chemical energy	after	fuel	1.0
+509	2	chemical energy	before	fuel	1.0
+509	2	chemical energy	after	fuel	1.0
+509	3	chemical energy	before	fuel	1.0
+509	3	chemical energy	after	fuel	1.0
+509	4	chemical energy	before	fuel	1.0
+509	4	chemical energy	after	fuel	1.0
+509	5	chemical energy	before	fuel	1.0
+509	5	chemical energy	after	null	1.0
+509	6	chemical energy	before	null	1.0
+509	6	chemical energy	after	null	1.0
+509	7	chemical energy	before	null	1.0
+509	7	chemical energy	after	null	1.0
+509	8	chemical energy	before	null	1.0
+509	8	chemical energy	after	null	1.0
+509	9	chemical energy	before	null	1.0
+509	9	chemical energy	after	null	1.0
+509	10	chemical energy	before	null	1.0
+509	10	chemical energy	after	null	1.0
+630	1	truck	before	unk	1.0
+630	1	truck	after	unk	1.0
+630	2	truck	before	unk	1.0
+630	2	truck	after	unk	1.0
+630	3	truck	before	unk	1.0
+630	3	truck	after	unk	1.0
+630	4	truck	before	unk	1.0
+630	4	truck	after	unk	1.0
+630	5	truck	before	unk	1.0
+630	5	truck	after	landfill	1.0
+630	6	truck	before	landfill	1.0
+630	6	truck	after	landfill	1.0
+630	1	trash	before	unk	1.0
+630	1	trash	after	garbage container	1.0
+630	2	trash	before	garbage container	1.0
+630	2	trash	after	unk	1.0
+630	3	trash	before	unk	1.0
+630	3	trash	after	truck	1.0
+630	4	trash	before	truck	1.0
+630	4	trash	after	truck	1.0
+630	5	trash	before	truck	1.0
+630	5	trash	after	truck	1.0
+630	6	trash	before	truck	1.0
+630	6	trash	after	landfill	1.0
+631	1	trashcan	before	unk	1.0
+631	1	trashcan	after	unk	1.0
+631	2	trashcan	before	unk	1.0
+631	2	trashcan	after	unk	1.0
+631	3	trashcan	before	unk	1.0
+631	3	trashcan	after	curb	1.0
+631	4	trashcan	before	curb	1.0
+631	4	trashcan	after	curb	1.0
+631	5	trashcan	before	curb	1.0
+631	5	trashcan	after	curb	1.0
+631	6	trashcan	before	curb	1.0
+631	6	trashcan	after	curb	1.0
+631	7	trashcan	before	curb	1.0
+631	7	trashcan	after	curb	1.0
+631	1	trash truck	before	unk	1.0
+631	1	trash truck	after	unk	1.0
+631	2	trash truck	before	unk	1.0
+631	2	trash truck	after	unk	1.0
+631	3	trash truck	before	unk	1.0
+631	3	trash truck	after	unk	1.0
+631	4	trash truck	before	unk	1.0
+631	4	trash truck	after	curb	1.0
+631	5	trash truck	before	curb	1.0
+631	5	trash truck	after	unk	1.0
+631	6	trash truck	before	unk	1.0
+631	6	trash truck	after	landfill	1.0
+631	7	trash truck	before	landfill	1.0
+631	7	trash truck	after	unk	1.0
+631	1	truck	before	unk	1.0
+631	1	truck	after	unk	1.0
+631	2	truck	before	unk	1.0
+631	2	truck	after	unk	1.0
+631	3	truck	before	unk	1.0
+631	3	truck	after	unk	1.0
+631	4	truck	before	unk	1.0
+631	4	truck	after	curb	1.0
+631	5	truck	before	curb	1.0
+631	5	truck	after	unk	1.0
+631	6	truck	before	unk	1.0
+631	6	truck	after	landfill	1.0
+631	7	truck	before	landfill	1.0
+631	7	truck	after	unk	1.0
+631	1	bag	before	unk	1.0
+631	1	bag	after	unk	1.0
+631	2	bag	before	unk	1.0
+631	2	bag	after	trashcan	1.0
+631	3	bag	before	trashcan	1.0
+631	3	bag	after	trashcan	1.0
+631	4	bag	before	trashcan	1.0
+631	4	bag	after	trash truck	1.0
+631	5	bag	before	trash truck	1.0
+631	5	bag	after	trash truck	1.0
+631	6	bag	before	trash truck	1.0
+631	6	bag	after	trash truck	1.0
+631	7	bag	before	trash truck	1.0
+631	7	bag	after	landfill	1.0
+631	1	trash	before	unk	1.0
+631	1	trash	after	bag	1.0
+631	2	trash	before	bag	1.0
+631	2	trash	after	bag	1.0
+631	3	trash	before	bag	1.0
+631	3	trash	after	bag	1.0
+631	4	trash	before	bag	1.0
+631	4	trash	after	bag	1.0
+631	5	trash	before	bag	1.0
+631	5	trash	after	bag	1.0
+631	6	trash	before	bag	1.0
+631	6	trash	after	bag	1.0
+631	7	trash	before	bag	1.0
+631	7	trash	after	bag	1.0
+632	1	heat	before	null	1.0
+632	1	heat	after	null	1.0
+632	2	heat	before	null	1.0
+632	2	heat	after	computer	1.0
+632	3	heat	before	computer	1.0
+632	3	heat	after	computer	1.0
+632	4	heat	before	computer	1.0
+632	4	heat	after	computer	1.0
+632	5	heat	before	computer	1.0
+632	5	heat	after	computer	1.0
+632	6	heat	before	computer	1.0
+632	6	heat	after	computer	1.0
+632	1	light	before	null	1.0
+632	1	light	after	null	1.0
+632	2	light	before	null	1.0
+632	2	light	after	null	1.0
+632	3	light	before	null	1.0
+632	3	light	after	null	1.0
+632	4	light	before	null	1.0
+632	4	light	after	null	1.0
+632	5	light	before	null	1.0
+632	5	light	after	electricity	1.0
+632	6	light	before	electricity	1.0
+632	6	light	after	electricity	1.0
+632	1	electricity	before	plug	1.0
+632	1	electricity	after	computer	1.0
+632	2	electricity	before	computer	1.0
+632	2	electricity	after	component	1.0
+632	3	electricity	before	component	1.0
+632	3	electricity	after	fan	1.0
+632	4	electricity	before	fan	1.0
+632	4	electricity	after	fan	1.0
+632	5	electricity	before	fan	1.0
+632	5	electricity	after	display	1.0
+632	6	electricity	before	display	1.0
+632	6	electricity	after	display	1.0
+634	1	visual signal	before	null	1.0
+634	1	visual signal	after	null	1.0
+634	2	visual signal	before	null	1.0
+634	2	visual signal	after	null	1.0
+634	3	visual signal	before	null	1.0
+634	3	visual signal	after	null	1.0
+634	4	visual signal	before	null	1.0
+634	4	visual signal	after	null	1.0
+634	5	visual signal	before	null	1.0
+634	5	visual signal	after	cpu	1.0
+634	6	visual signal	before	cpu	1.0
+634	6	visual signal	after	cpu	1.0
+634	1	electricity	before	unk	1.0
+634	1	electricity	after	power supply unit	1.0
+634	2	electricity	before	power supply unit	1.0
+634	2	electricity	after	transistor	1.0
+634	3	electricity	before	transistor	1.0
+634	3	electricity	after	cpu	1.0
+634	4	electricity	before	cpu	1.0
+634	4	electricity	after	cpu	1.0
+634	5	electricity	before	cpu	1.0
+634	5	electricity	after	cpu	1.0
+634	6	electricity	before	cpu	1.0
+634	6	electricity	after	null	1.0
+634	1	energy	before	unk	1.0
+634	1	energy	after	power supply unit	1.0
+634	2	energy	before	power supply unit	1.0
+634	2	energy	after	transistor	1.0
+634	3	energy	before	transistor	1.0
+634	3	energy	after	cpu	1.0
+634	4	energy	before	cpu	1.0
+634	4	energy	after	cpu	1.0
+634	5	energy	before	cpu	1.0
+634	5	energy	after	cpu	1.0
+634	6	energy	before	cpu	1.0
+634	6	energy	after	null	1.0
+634	1	computation	before	null	1.0
+634	1	computation	after	null	1.0
+634	2	computation	before	null	1.0
+634	2	computation	after	null	1.0
+634	3	computation	before	null	1.0
+634	3	computation	after	null	1.0
+634	4	computation	before	null	1.0
+634	4	computation	after	null	1.0
+634	5	computation	before	null	1.0
+634	5	computation	after	null	1.0
+634	6	computation	before	null	1.0
+634	6	computation	after	cpu	1.0
+514	1	snow	before	unk	1.0
+514	1	snow	after	area	1.0
+514	2	snow	before	area	1.0
+514	2	snow	after	area	1.0
+514	3	snow	before	area	1.0
+514	3	snow	after	area	1.0
+514	4	snow	before	area	1.0
+514	4	snow	after	null	1.0
+514	5	snow	before	null	1.0
+514	5	snow	after	null	1.0
+514	6	snow	before	null	1.0
+514	6	snow	after	null	1.0
+514	7	snow	before	null	1.0
+514	7	snow	after	null	1.0
+514	1	mass	before	null	1.0
+514	1	mass	after	null	1.0
+514	2	mass	before	null	1.0
+514	2	mass	after	null	1.0
+514	3	mass	before	null	1.0
+514	3	mass	after	null	1.0
+514	4	mass	before	null	1.0
+514	4	mass	after	null	1.0
+514	5	mass	before	null	1.0
+514	5	mass	after	area	1.0
+514	6	mass	before	area	1.0
+514	6	mass	after	area	1.0
+514	7	mass	before	area	1.0
+514	7	mass	after	area	1.0
+514	1	glacier	before	null	1.0
+514	1	glacier	after	null	1.0
+514	2	glacier	before	null	1.0
+514	2	glacier	after	null	1.0
+514	3	glacier	before	null	1.0
+514	3	glacier	after	null	1.0
+514	4	glacier	before	null	1.0
+514	4	glacier	after	null	1.0
+514	5	glacier	before	null	1.0
+514	5	glacier	after	null	1.0
+514	6	glacier	before	null	1.0
+514	6	glacier	after	area	1.0
+514	7	glacier	before	area	1.0
+514	7	glacier	after	area	1.0
+758	1	fuel source	before	unk	1.0
+758	1	fuel source	after	engine	1.0
+758	2	fuel source	before	engine	1.0
+758	2	fuel source	after	null	1.0
+758	3	fuel source	before	null	1.0
+758	3	fuel source	after	null	1.0
+758	4	fuel source	before	null	1.0
+758	4	fuel source	after	null	1.0
+758	5	fuel source	before	null	1.0
+758	5	fuel source	after	null	1.0
+758	6	fuel source	before	null	1.0
+758	6	fuel source	after	null	1.0
+758	1	mechanical energy	before	null	1.0
+758	1	mechanical energy	after	null	1.0
+758	2	mechanical energy	before	null	1.0
+758	2	mechanical energy	after	alternator	1.0
+758	3	mechanical energy	before	alternator	1.0
+758	3	mechanical energy	after	null	1.0
+758	4	mechanical energy	before	null	1.0
+758	4	mechanical energy	after	null	1.0
+758	5	mechanical energy	before	null	1.0
+758	5	mechanical energy	after	null	1.0
+758	6	mechanical energy	before	null	1.0
+758	6	mechanical energy	after	null	1.0
+758	1	gas	before	unk	1.0
+758	1	gas	after	engine	1.0
+758	2	gas	before	engine	1.0
+758	2	gas	after	null	1.0
+758	3	gas	before	null	1.0
+758	3	gas	after	null	1.0
+758	4	gas	before	null	1.0
+758	4	gas	after	null	1.0
+758	5	gas	before	null	1.0
+758	5	gas	after	null	1.0
+758	6	gas	before	null	1.0
+758	6	gas	after	null	1.0
+758	1	electron	before	null	1.0
+758	1	electron	after	null	1.0
+758	2	electron	before	null	1.0
+758	2	electron	after	null	1.0
+758	3	electron	before	null	1.0
+758	3	electron	after	alternator	1.0
+758	4	electron	before	alternator	1.0
+758	4	electron	after	alternator	1.0
+758	5	electron	before	alternator	1.0
+758	5	electron	after	generator	1.0
+758	6	electron	before	generator	1.0
+758	6	electron	after	unk	1.0
+758	1	electrical energy	before	null	1.0
+758	1	electrical energy	after	null	1.0
+758	2	electrical energy	before	null	1.0
+758	2	electrical energy	after	null	1.0
+758	3	electrical energy	before	null	1.0
+758	3	electrical energy	after	alternator	1.0
+758	4	electrical energy	before	alternator	1.0
+758	4	electrical energy	after	alternator	1.0
+758	5	electrical energy	before	alternator	1.0
+758	5	electrical energy	after	generator	1.0
+758	6	electrical energy	before	generator	1.0
+758	6	electrical energy	after	unk	1.0
+1197	1	sugar	before	null	1.0
+1197	1	sugar	after	null	1.0
+1197	2	sugar	before	null	1.0
+1197	2	sugar	after	null	1.0
+1197	3	sugar	before	null	1.0
+1197	3	sugar	after	null	1.0
+1197	4	sugar	before	null	1.0
+1197	4	sugar	after	null	1.0
+1197	5	sugar	before	null	1.0
+1197	5	sugar	after	null	1.0
+1197	6	sugar	before	null	1.0
+1197	6	sugar	after	null	1.0
+1197	7	sugar	before	null	1.0
+1197	7	sugar	after	blood	1.0
+1197	8	sugar	before	blood	1.0
+1197	8	sugar	after	body	1.0
+1197	9	sugar	before	body	1.0
+1197	9	sugar	after	null	1.0
+1197	1	food	before	unk	1.0
+1197	1	food	after	mouth	1.0
+1197	2	food	before	mouth	1.0
+1197	2	food	after	mouth	1.0
+1197	3	food	before	mouth	1.0
+1197	3	food	after	stomach	1.0
+1197	4	food	before	stomach	1.0
+1197	4	food	after	null	1.0
+1197	5	food	before	null	1.0
+1197	5	food	after	null	1.0
+1197	6	food	before	null	1.0
+1197	6	food	after	null	1.0
+1197	7	food	before	null	1.0
+1197	7	food	after	null	1.0
+1197	8	food	before	null	1.0
+1197	8	food	after	null	1.0
+1197	9	food	before	null	1.0
+1197	9	food	after	null	1.0
+1197	1	energy	before	null	1.0
+1197	1	energy	after	null	1.0
+1197	2	energy	before	null	1.0
+1197	2	energy	after	null	1.0
+1197	3	energy	before	null	1.0
+1197	3	energy	after	null	1.0
+1197	4	energy	before	null	1.0
+1197	4	energy	after	null	1.0
+1197	5	energy	before	null	1.0
+1197	5	energy	after	null	1.0
+1197	6	energy	before	null	1.0
+1197	6	energy	after	null	1.0
+1197	7	energy	before	null	1.0
+1197	7	energy	after	null	1.0
+1197	8	energy	before	null	1.0
+1197	8	energy	after	null	1.0
+1197	9	energy	before	null	1.0
+1197	9	energy	after	muscle	1.0
+542	1	waste	before	blood	1.0
+542	1	waste	after	blood	1.0
+542	2	waste	before	blood	1.0
+542	2	waste	after	blood	1.0
+542	3	waste	before	blood	1.0
+542	3	waste	after	blood	1.0
+542	4	waste	before	blood	1.0
+542	4	waste	after	kidney	1.0
+542	5	waste	before	kidney	1.0
+542	5	waste	after	kidney	1.0
+542	6	waste	before	kidney	1.0
+542	6	waste	after	urine	1.0
+542	7	waste	before	urine	1.0
+542	7	waste	after	bladder	1.0
+542	1	filter waste	before	null	1.0
+542	1	filter waste	after	null	1.0
+542	2	filter waste	before	null	1.0
+542	2	filter waste	after	null	1.0
+542	3	filter waste	before	null	1.0
+542	3	filter waste	after	null	1.0
+542	4	filter waste	before	null	1.0
+542	4	filter waste	after	kidney	1.0
+542	5	filter waste	before	kidney	1.0
+542	5	filter waste	after	kidney	1.0
+542	6	filter waste	before	kidney	1.0
+542	6	filter waste	after	null	1.0
+542	7	filter waste	before	null	1.0
+542	7	filter waste	after	null	1.0
+542	1	urine	before	null	1.0
+542	1	urine	after	null	1.0
+542	2	urine	before	null	1.0
+542	2	urine	after	null	1.0
+542	3	urine	before	null	1.0
+542	3	urine	after	null	1.0
+542	4	urine	before	null	1.0
+542	4	urine	after	null	1.0
+542	5	urine	before	null	1.0
+542	5	urine	after	null	1.0
+542	6	urine	before	null	1.0
+542	6	urine	after	kidney	1.0
+542	7	urine	before	kidney	1.0
+542	7	urine	after	bladder	1.0
+542	1	blood	before	unk	1.0
+542	1	blood	after	unk	1.0
+542	2	blood	before	unk	1.0
+542	2	blood	after	kidney	1.0
+542	3	blood	before	kidney	1.0
+542	3	blood	after	kidney	1.0
+542	4	blood	before	kidney	1.0
+542	4	blood	after	null	1.0
+542	5	blood	before	null	1.0
+542	5	blood	after	null	1.0
+542	6	blood	before	null	1.0
+542	6	blood	after	null	1.0
+542	7	blood	before	null	1.0
+542	7	blood	after	null	1.0
+542	1	clean blood	before	null	1.0
+542	1	clean blood	after	null	1.0
+542	2	clean blood	before	null	1.0
+542	2	clean blood	after	null	1.0
+542	3	clean blood	before	null	1.0
+542	3	clean blood	after	null	1.0
+542	4	clean blood	before	null	1.0
+542	4	clean blood	after	kidney	1.0
+542	5	clean blood	before	kidney	1.0
+542	5	clean blood	after	unk	1.0
+542	6	clean blood	before	unk	1.0
+542	6	clean blood	after	unk	1.0
+542	7	clean blood	before	unk	1.0
+542	7	clean blood	after	unk	1.0
+543	1	waste	before	blood	1.0
+543	1	waste	after	blood	1.0
+543	2	waste	before	blood	1.0
+543	2	waste	after	blood	1.0
+543	3	waste	before	blood	1.0
+543	3	waste	after	kidney	1.0
+543	4	waste	before	kidney	1.0
+543	4	waste	after	null	1.0
+543	5	waste	before	null	1.0
+543	5	waste	after	null	1.0
+543	6	waste	before	null	1.0
+543	6	waste	after	null	1.0
+543	7	waste	before	null	1.0
+543	7	waste	after	null	1.0
+543	1	filter blood	before	null	1.0
+543	1	filter blood	after	null	1.0
+543	2	filter blood	before	null	1.0
+543	2	filter blood	after	null	1.0
+543	3	filter blood	before	null	1.0
+543	3	filter blood	after	kidney	1.0
+543	4	filter blood	before	kidney	1.0
+543	4	filter blood	after	kidney	1.0
+543	5	filter blood	before	kidney	1.0
+543	5	filter blood	after	kidney	1.0
+543	6	filter blood	before	kidney	1.0
+543	6	filter blood	after	kidney	1.0
+543	7	filter blood	before	kidney	1.0
+543	7	filter blood	after	body	1.0
+543	1	urine	before	null	1.0
+543	1	urine	after	null	1.0
+543	2	urine	before	null	1.0
+543	2	urine	after	null	1.0
+543	3	urine	before	null	1.0
+543	3	urine	after	null	1.0
+543	4	urine	before	null	1.0
+543	4	urine	after	kidney	1.0
+543	5	urine	before	kidney	1.0
+543	5	urine	after	ureter	1.0
+543	6	urine	before	ureter	1.0
+543	6	urine	after	bladder	1.0
+543	7	urine	before	bladder	1.0
+543	7	urine	after	bladder	1.0
+543	1	blood	before	renal artery	1.0
+543	1	blood	after	kidney	1.0
+543	2	blood	before	kidney	1.0
+543	2	blood	after	kidney	1.0
+543	3	blood	before	kidney	1.0
+543	3	blood	after	null	1.0
+543	4	blood	before	null	1.0
+543	4	blood	after	null	1.0
+543	5	blood	before	null	1.0
+543	5	blood	after	null	1.0
+543	6	blood	before	null	1.0
+543	6	blood	after	null	1.0
+543	7	blood	before	null	1.0
+543	7	blood	after	null	1.0
+544	1	nutrient	before	unk	1.0
+544	1	nutrient	after	unk	1.0
+544	2	nutrient	before	unk	1.0
+544	2	nutrient	after	unk	1.0
+544	3	nutrient	before	unk	1.0
+544	3	nutrient	after	unk	1.0
+544	4	nutrient	before	unk	1.0
+544	4	nutrient	after	urine	1.0
+544	5	nutrient	before	urine	1.0
+544	5	nutrient	after	unk	1.0
+544	6	nutrient	before	unk	1.0
+544	6	nutrient	after	unk	1.0
+544	1	toxin	before	fluid	1.0
+544	1	toxin	after	fluid	1.0
+544	2	toxin	before	fluid	1.0
+544	2	toxin	after	fluid	1.0
+544	3	toxin	before	fluid	1.0
+544	3	toxin	after	unk	1.0
+544	4	toxin	before	unk	1.0
+544	4	toxin	after	null	1.0
+544	5	toxin	before	null	1.0
+544	5	toxin	after	null	1.0
+544	6	toxin	before	null	1.0
+544	6	toxin	after	null	1.0
+544	1	urine	before	null	1.0
+544	1	urine	after	null	1.0
+544	2	urine	before	null	1.0
+544	2	urine	after	null	1.0
+544	3	urine	before	null	1.0
+544	3	urine	after	null	1.0
+544	4	urine	before	null	1.0
+544	4	urine	after	unk	1.0
+544	5	urine	before	unk	1.0
+544	5	urine	after	unk	1.0
+544	6	urine	before	unk	1.0
+544	6	urine	after	unk	1.0
+544	1	fluid	before	unk	1.0
+544	1	fluid	after	unk	1.0
+544	2	fluid	before	unk	1.0
+544	2	fluid	after	unk	1.0
+544	3	fluid	before	unk	1.0
+544	3	fluid	after	unk	1.0
+544	4	fluid	before	unk	1.0
+544	4	fluid	after	urine	1.0
+544	5	fluid	before	urine	1.0
+544	5	fluid	after	unk	1.0
+544	6	fluid	before	unk	1.0
+544	6	fluid	after	unk	1.0
+544	1	fluid and liquid	before	unk	1.0
+544	1	fluid and liquid	after	unk	1.0
+544	2	fluid and liquid	before	unk	1.0
+544	2	fluid and liquid	after	unk	1.0
+544	3	fluid and liquid	before	unk	1.0
+544	3	fluid and liquid	after	unk	1.0
+544	4	fluid and liquid	before	unk	1.0
+544	4	fluid and liquid	after	urine	1.0
+544	5	fluid and liquid	before	urine	1.0
+544	5	fluid and liquid	after	unk	1.0
+544	6	fluid and liquid	before	unk	1.0
+544	6	fluid and liquid	after	unk	1.0
+430	1	truck	before	unk	1.0
+430	1	truck	after	unk	1.0
+430	2	truck	before	unk	1.0
+430	2	truck	after	unk	1.0
+430	3	truck	before	unk	1.0
+430	3	truck	after	unk	1.0
+430	4	truck	before	unk	1.0
+430	4	truck	after	unk	1.0
+430	5	truck	before	unk	1.0
+430	5	truck	after	unk	1.0
+430	6	truck	before	unk	1.0
+430	6	truck	after	unk	1.0
+430	7	truck	before	unk	1.0
+430	7	truck	after	landfill	1.0
+430	8	truck	before	landfill	1.0
+430	8	truck	after	landfill	1.0
+430	9	truck	before	landfill	1.0
+430	9	truck	after	unk	1.0
+430	10	truck	before	unk	1.0
+430	10	truck	after	unk	1.0
+430	1	trash	before	null	1.0
+430	1	trash	after	house	1.0
+430	2	trash	before	house	1.0
+430	2	trash	after	house	1.0
+430	3	trash	before	house	1.0
+430	3	trash	after	house	1.0
+430	4	trash	before	house	1.0
+430	4	trash	after	curbside	1.0
+430	5	trash	before	curbside	1.0
+430	5	trash	after	curbside	1.0
+430	6	trash	before	curbside	1.0
+430	6	trash	after	truck	1.0
+430	7	trash	before	truck	1.0
+430	7	trash	after	landfill	1.0
+430	8	trash	before	landfill	1.0
+430	8	trash	after	landfill	1.0
+430	9	trash	before	landfill	1.0
+430	9	trash	after	landfill	1.0
+430	10	trash	before	landfill	1.0
+430	10	trash	after	landfill	1.0
+431	1	trash truck	before	unk	1.0
+431	1	trash truck	after	unk	1.0
+431	2	trash truck	before	unk	1.0
+431	2	trash truck	after	unk	1.0
+431	3	trash truck	before	unk	1.0
+431	3	trash truck	after	unk	1.0
+431	4	trash truck	before	unk	1.0
+431	4	trash truck	after	landfill	1.0
+431	5	trash truck	before	landfill	1.0
+431	5	trash truck	after	landfill	1.0
+431	1	trashbag	before	house	1.0
+431	1	trashbag	after	house	1.0
+431	2	trashbag	before	house	1.0
+431	2	trashbag	after	trashcan	1.0
+431	3	trashbag	before	trashcan	1.0
+431	3	trashbag	after	trash truck	1.0
+431	4	trashbag	before	trash truck	1.0
+431	4	trashbag	after	landfill	1.0
+431	5	trashbag	before	landfill	1.0
+431	5	trashbag	after	landfill	1.0
+431	1	trash	before	house	1.0
+431	1	trash	after	trashbag	1.0
+431	2	trash	before	trashbag	1.0
+431	2	trash	after	trashcan	1.0
+431	3	trash	before	trashcan	1.0
+431	3	trash	after	trash truck	1.0
+431	4	trash	before	trash truck	1.0
+431	4	trash	after	landfill	1.0
+431	5	trash	before	landfill	1.0
+431	5	trash	after	landfill	1.0
+432	1	recycle	before	null	1.0
+432	1	recycle	after	null	1.0
+432	2	recycle	before	null	1.0
+432	2	recycle	after	null	1.0
+432	3	recycle	before	null	1.0
+432	3	recycle	after	null	1.0
+432	4	recycle	before	null	1.0
+432	4	recycle	after	null	1.0
+432	5	recycle	before	null	1.0
+432	5	recycle	after	sort center	1.0
+432	6	recycle	before	sort center	1.0
+432	6	recycle	after	unk	1.0
+432	1	garbage	before	unk	1.0
+432	1	garbage	after	can or in bag	1.0
+432	2	garbage	before	can or in bag	1.0
+432	2	garbage	after	truck	1.0
+432	3	garbage	before	truck	1.0
+432	3	garbage	after	sort center	1.0
+432	4	garbage	before	sort center	1.0
+432	4	garbage	after	sort center	1.0
+432	5	garbage	before	sort center	1.0
+432	5	garbage	after	sort center	1.0
+432	6	garbage	before	sort center	1.0
+432	6	garbage	after	landfill	1.0
+432	1	garbage truck	before	unk	1.0
+432	1	garbage truck	after	unk	1.0
+432	2	garbage truck	before	unk	1.0
+432	2	garbage truck	after	house	1.0
+432	3	garbage truck	before	house	1.0
+432	3	garbage truck	after	sort center	1.0
+432	4	garbage truck	before	sort center	1.0
+432	4	garbage truck	after	unk	1.0
+432	5	garbage truck	before	unk	1.0
+432	5	garbage truck	after	unk	1.0
+432	6	garbage truck	before	unk	1.0
+432	6	garbage truck	after	unk	1.0
+432	1	trash	before	unk	1.0
+432	1	trash	after	can or in bag	1.0
+432	2	trash	before	can or in bag	1.0
+432	2	trash	after	truck	1.0
+432	3	trash	before	truck	1.0
+432	3	trash	after	sort center	1.0
+432	4	trash	before	sort center	1.0
+432	4	trash	after	sort center	1.0
+432	5	trash	before	sort center	1.0
+432	5	trash	after	sort center	1.0
+432	6	trash	before	sort center	1.0
+432	6	trash	after	landfill	1.0
+445	1	rock	before	null	1.0
+445	1	rock	after	null	1.0
+445	2	rock	before	null	1.0
+445	2	rock	after	unk	1.0
+445	3	rock	before	unk	1.0
+445	3	rock	after	null	1.0
+445	4	rock	before	null	1.0
+445	4	rock	after	null	1.0
+445	5	rock	before	null	1.0
+445	5	rock	after	null	1.0
+445	6	rock	before	null	1.0
+445	6	rock	after	null	1.0
+445	7	rock	before	null	1.0
+445	7	rock	after	null	1.0
+445	1	sedimentary rock	before	null	1.0
+445	1	sedimentary rock	after	null	1.0
+445	2	sedimentary rock	before	null	1.0
+445	2	sedimentary rock	after	null	1.0
+445	3	sedimentary rock	before	null	1.0
+445	3	sedimentary rock	after	unk	1.0
+445	4	sedimentary rock	before	unk	1.0
+445	4	sedimentary rock	after	unk	1.0
+445	5	sedimentary rock	before	unk	1.0
+445	5	sedimentary rock	after	unk	1.0
+445	6	sedimentary rock	before	unk	1.0
+445	6	sedimentary rock	after	null	1.0
+445	7	sedimentary rock	before	null	1.0
+445	7	sedimentary rock	after	null	1.0
+445	1	magma	before	null	1.0
+445	1	magma	after	volcano	1.0
+445	2	magma	before	volcano	1.0
+445	2	magma	after	null	1.0
+445	3	magma	before	null	1.0
+445	3	magma	after	null	1.0
+445	4	magma	before	null	1.0
+445	4	magma	after	null	1.0
+445	5	magma	before	null	1.0
+445	5	magma	after	null	1.0
+445	6	magma	before	null	1.0
+445	6	magma	after	null	1.0
+445	7	magma	before	null	1.0
+445	7	magma	after	null	1.0
+445	1	third kind of rock	before	null	1.0
+445	1	third kind of rock	after	null	1.0
+445	2	third kind of rock	before	null	1.0
+445	2	third kind of rock	after	null	1.0
+445	3	third kind of rock	before	null	1.0
+445	3	third kind of rock	after	null	1.0
+445	4	third kind of rock	before	null	1.0
+445	4	third kind of rock	after	null	1.0
+445	5	third kind of rock	before	null	1.0
+445	5	third kind of rock	after	null	1.0
+445	6	third kind of rock	before	null	1.0
+445	6	third kind of rock	after	unk	1.0
+445	7	third kind of rock	before	unk	1.0
+445	7	third kind of rock	after	unk	1.0
+446	1	sedimentary rock	before	null	1.0
+446	1	sedimentary rock	after	null	1.0
+446	2	sedimentary rock	before	null	1.0
+446	2	sedimentary rock	after	null	1.0
+446	3	sedimentary rock	before	null	1.0
+446	3	sedimentary rock	after	null	1.0
+446	4	sedimentary rock	before	null	1.0
+446	4	sedimentary rock	after	unk	1.0
+446	5	sedimentary rock	before	unk	1.0
+446	5	sedimentary rock	after	null	1.0
+446	6	sedimentary rock	before	null	1.0
+446	6	sedimentary rock	after	null	1.0
+446	1	crystal	before	null	1.0
+446	1	crystal	after	null	1.0
+446	2	crystal	before	null	1.0
+446	2	crystal	after	null	1.0
+446	3	crystal	before	null	1.0
+446	3	crystal	after	igneous rock	1.0
+446	4	crystal	before	igneous rock	1.0
+446	4	crystal	after	sedimentary rock	1.0
+446	5	crystal	before	sedimentary rock	1.0
+446	5	crystal	after	metamorphic rock	1.0
+446	6	crystal	before	metamorphic rock	1.0
+446	6	crystal	after	magma	1.0
+446	1	magma	before	volcano	1.0
+446	1	magma	after	volcano	1.0
+446	2	magma	before	volcano	1.0
+446	2	magma	after	volcano	1.0
+446	3	magma	before	volcano	1.0
+446	3	magma	after	null	1.0
+446	4	magma	before	null	1.0
+446	4	magma	after	null	1.0
+446	5	magma	before	null	1.0
+446	5	magma	after	null	1.0
+446	6	magma	before	null	1.0
+446	6	magma	after	null	1.0
+446	1	metamorphic rock	before	null	1.0
+446	1	metamorphic rock	after	null	1.0
+446	2	metamorphic rock	before	null	1.0
+446	2	metamorphic rock	after	null	1.0
+446	3	metamorphic rock	before	null	1.0
+446	3	metamorphic rock	after	null	1.0
+446	4	metamorphic rock	before	null	1.0
+446	4	metamorphic rock	after	null	1.0
+446	5	metamorphic rock	before	null	1.0
+446	5	metamorphic rock	after	unk	1.0
+446	6	metamorphic rock	before	unk	1.0
+446	6	metamorphic rock	after	null	1.0
+446	1	igneous rock	before	null	1.0
+446	1	igneous rock	after	null	1.0
+446	2	igneous rock	before	null	1.0
+446	2	igneous rock	after	null	1.0
+446	3	igneous rock	before	null	1.0
+446	3	igneous rock	after	volcano	1.0
+446	4	igneous rock	before	volcano	1.0
+446	4	igneous rock	after	null	1.0
+446	5	igneous rock	before	null	1.0
+446	5	igneous rock	after	null	1.0
+446	6	igneous rock	before	null	1.0
+446	6	igneous rock	after	null	1.0
+349	1	sound	before	null	1.0
+349	1	sound	after	unk	1.0
+349	2	sound	before	unk	1.0
+349	2	sound	after	unk	1.0
+349	3	sound	before	unk	1.0
+349	3	sound	after	object	1.0
+349	4	sound	before	object	1.0
+349	4	sound	after	object	1.0
+349	5	sound	before	object	1.0
+349	5	sound	after	unk	1.0
+349	6	sound	before	unk	1.0
+349	6	sound	after	unk	1.0
+349	7	sound	before	unk	1.0
+349	7	sound	after	null	1.0
+349	1	sound wave	before	null	1.0
+349	1	sound wave	after	unk	1.0
+349	2	sound wave	before	unk	1.0
+349	2	sound wave	after	unk	1.0
+349	3	sound wave	before	unk	1.0
+349	3	sound wave	after	object	1.0
+349	4	sound wave	before	object	1.0
+349	4	sound wave	after	object	1.0
+349	5	sound wave	before	object	1.0
+349	5	sound wave	after	unk	1.0
+349	6	sound wave	before	unk	1.0
+349	6	sound wave	after	unk	1.0
+349	7	sound wave	before	unk	1.0
+349	7	sound wave	after	null	1.0
+349	1	echo	before	null	1.0
+349	1	echo	after	null	1.0
+349	2	echo	before	null	1.0
+349	2	echo	after	null	1.0
+349	3	echo	before	null	1.0
+349	3	echo	after	null	1.0
+349	4	echo	before	null	1.0
+349	4	echo	after	null	1.0
+349	5	echo	before	null	1.0
+349	5	echo	after	null	1.0
+349	6	echo	before	null	1.0
+349	6	echo	after	null	1.0
+349	7	echo	before	null	1.0
+349	7	echo	after	unk	1.0
+375	1	heat	before	null	1.0
+375	1	heat	after	null	1.0
+375	2	heat	before	null	1.0
+375	2	heat	after	null	1.0
+375	3	heat	before	null	1.0
+375	3	heat	after	computer	1.0
+375	4	heat	before	computer	1.0
+375	4	heat	after	computer	1.0
+375	5	heat	before	computer	1.0
+375	5	heat	after	computer	1.0
+375	1	motion	before	null	1.0
+375	1	motion	after	null	1.0
+375	2	motion	before	null	1.0
+375	2	motion	after	null	1.0
+375	3	motion	before	null	1.0
+375	3	motion	after	null	1.0
+375	4	motion	before	null	1.0
+375	4	motion	after	hard drive , dvd drive or fan	1.0
+375	5	motion	before	hard drive , dvd drive or fan	1.0
+375	5	motion	after	hard drive , dvd drive or fan	1.0
+375	1	light	before	null	1.0
+375	1	light	after	null	1.0
+375	2	light	before	null	1.0
+375	2	light	after	computer	1.0
+375	3	light	before	computer	1.0
+375	3	light	after	computer	1.0
+375	4	light	before	computer	1.0
+375	4	light	after	computer	1.0
+375	5	light	before	computer	1.0
+375	5	light	after	computer	1.0
+375	1	electricity	before	unk	1.0
+375	1	electricity	after	computer	1.0
+375	2	electricity	before	computer	1.0
+375	2	electricity	after	computer	1.0
+375	3	electricity	before	computer	1.0
+375	3	electricity	after	computer	1.0
+375	4	electricity	before	computer	1.0
+375	4	electricity	after	computer	1.0
+375	5	electricity	before	computer	1.0
+375	5	electricity	after	computer	1.0
+375	1	motion energy	before	null	1.0
+375	1	motion energy	after	null	1.0
+375	2	motion energy	before	null	1.0
+375	2	motion energy	after	null	1.0
+375	3	motion energy	before	null	1.0
+375	3	motion energy	after	null	1.0
+375	4	motion energy	before	null	1.0
+375	4	motion energy	after	hard drive , dvd drive or fan	1.0
+375	5	motion energy	before	hard drive , dvd drive or fan	1.0
+375	5	motion energy	after	null	1.0
+388	1	turbine	before	power plant	1.0
+388	1	turbine	after	power plant	1.0
+388	2	turbine	before	power plant	1.0
+388	2	turbine	after	power plant	1.0
+388	3	turbine	before	power plant	1.0
+388	3	turbine	after	power plant	1.0
+388	4	turbine	before	power plant	1.0
+388	4	turbine	after	power plant	1.0
+388	5	turbine	before	power plant	1.0
+388	5	turbine	after	power plant	1.0
+388	6	turbine	before	power plant	1.0
+388	6	turbine	after	power plant	1.0
+388	1	generator	before	power plant	1.0
+388	1	generator	after	power plant	1.0
+388	2	generator	before	power plant	1.0
+388	2	generator	after	power plant	1.0
+388	3	generator	before	power plant	1.0
+388	3	generator	after	power plant	1.0
+388	4	generator	before	power plant	1.0
+388	4	generator	after	power plant	1.0
+388	5	generator	before	power plant	1.0
+388	5	generator	after	power plant	1.0
+388	6	generator	before	power plant	1.0
+388	6	generator	after	power plant	1.0
+388	1	electricity	before	null	1.0
+388	1	electricity	after	null	1.0
+388	2	electricity	before	null	1.0
+388	2	electricity	after	null	1.0
+388	3	electricity	before	null	1.0
+388	3	electricity	after	null	1.0
+388	4	electricity	before	null	1.0
+388	4	electricity	after	null	1.0
+388	5	electricity	before	null	1.0
+388	5	electricity	after	generator	1.0
+388	6	electricity	before	generator	1.0
+388	6	electricity	after	generator	1.0
+388	1	water	before	unk	1.0
+388	1	water	after	unk	1.0
+388	2	water	before	unk	1.0
+388	2	water	after	dam	1.0
+388	3	water	before	dam	1.0
+388	3	water	after	turbine	1.0
+388	4	water	before	turbine	1.0
+388	4	water	after	turbine	1.0
+388	5	water	before	turbine	1.0
+388	5	water	after	turbine	1.0
+388	6	water	before	turbine	1.0
+388	6	water	after	unk	1.0
+390	1	turbine	before	unk	1.0
+390	1	turbine	after	unk	1.0
+390	2	turbine	before	unk	1.0
+390	2	turbine	after	unk	1.0
+390	3	turbine	before	unk	1.0
+390	3	turbine	after	reservoir	1.0
+390	4	turbine	before	reservoir	1.0
+390	4	turbine	after	reservoir	1.0
+390	5	turbine	before	reservoir	1.0
+390	5	turbine	after	reservoir	1.0
+390	6	turbine	before	reservoir	1.0
+390	6	turbine	after	reservoir	1.0
+390	7	turbine	before	reservoir	1.0
+390	7	turbine	after	reservoir	1.0
+390	1	water 's energy	before	null	1.0
+390	1	water 's energy	after	null	1.0
+390	2	water 's energy	before	null	1.0
+390	2	water 's energy	after	null	1.0
+390	3	water 's energy	before	null	1.0
+390	3	water 's energy	after	null	1.0
+390	4	water 's energy	before	null	1.0
+390	4	water 's energy	after	turbine	1.0
+390	5	water 's energy	before	turbine	1.0
+390	5	water 's energy	after	null	1.0
+390	6	water 's energy	before	null	1.0
+390	6	water 's energy	after	null	1.0
+390	7	water 's energy	before	null	1.0
+390	7	water 's energy	after	null	1.0
+390	1	generator	before	unk	1.0
+390	1	generator	after	unk	1.0
+390	2	generator	before	unk	1.0
+390	2	generator	after	unk	1.0
+390	3	generator	before	unk	1.0
+390	3	generator	after	unk	1.0
+390	4	generator	before	unk	1.0
+390	4	generator	after	reservoir	1.0
+390	5	generator	before	reservoir	1.0
+390	5	generator	after	reservoir	1.0
+390	6	generator	before	reservoir	1.0
+390	6	generator	after	reservoir	1.0
+390	7	generator	before	reservoir	1.0
+390	7	generator	after	reservoir	1.0
+390	1	high voltage	before	null	1.0
+390	1	high voltage	after	null	1.0
+390	2	high voltage	before	null	1.0
+390	2	high voltage	after	null	1.0
+390	3	high voltage	before	null	1.0
+390	3	high voltage	after	null	1.0
+390	4	high voltage	before	null	1.0
+390	4	high voltage	after	null	1.0
+390	5	high voltage	before	null	1.0
+390	5	high voltage	after	null	1.0
+390	6	high voltage	before	null	1.0
+390	6	high voltage	after	generator	1.0
+390	7	high voltage	before	generator	1.0
+390	7	high voltage	after	power line	1.0
+390	1	electricity	before	null	1.0
+390	1	electricity	after	null	1.0
+390	2	electricity	before	null	1.0
+390	2	electricity	after	null	1.0
+390	3	electricity	before	null	1.0
+390	3	electricity	after	null	1.0
+390	4	electricity	before	null	1.0
+390	4	electricity	after	null	1.0
+390	5	electricity	before	null	1.0
+390	5	electricity	after	null	1.0
+390	6	electricity	before	null	1.0
+390	6	electricity	after	generator	1.0
+390	7	electricity	before	generator	1.0
+390	7	electricity	after	power line	1.0
+390	1	reservoir	before	null	1.0
+390	1	reservoir	after	unk	1.0
+390	2	reservoir	before	unk	1.0
+390	2	reservoir	after	unk	1.0
+390	3	reservoir	before	unk	1.0
+390	3	reservoir	after	unk	1.0
+390	4	reservoir	before	unk	1.0
+390	4	reservoir	after	unk	1.0
+390	5	reservoir	before	unk	1.0
+390	5	reservoir	after	unk	1.0
+390	6	reservoir	before	unk	1.0
+390	6	reservoir	after	unk	1.0
+390	7	reservoir	before	unk	1.0
+390	7	reservoir	after	unk	1.0
+390	1	water	before	unk	1.0
+390	1	water	after	reservoir	1.0
+390	2	water	before	reservoir	1.0
+390	2	water	after	reservoir	1.0
+390	3	water	before	reservoir	1.0
+390	3	water	after	turbine	1.0
+390	4	water	before	turbine	1.0
+390	4	water	after	unk	1.0
+390	5	water	before	unk	1.0
+390	5	water	after	unk	1.0
+390	6	water	before	unk	1.0
+390	6	water	after	unk	1.0
+390	7	water	before	unk	1.0
+390	7	water	after	unk	1.0
+390	1	electrical energy	before	null	1.0
+390	1	electrical energy	after	null	1.0
+390	2	electrical energy	before	null	1.0
+390	2	electrical energy	after	null	1.0
+390	3	electrical energy	before	null	1.0
+390	3	electrical energy	after	null	1.0
+390	4	electrical energy	before	null	1.0
+390	4	electrical energy	after	null	1.0
+390	5	electrical energy	before	null	1.0
+390	5	electrical energy	after	generator	1.0
+390	6	electrical energy	before	generator	1.0
+390	6	electrical energy	after	null	1.0
+390	7	electrical energy	before	null	1.0
+390	7	electrical energy	after	null	1.0
+272	1	flow of electron	before	null	1.0
+272	1	flow of electron	after	null	1.0
+272	2	flow of electron	before	null	1.0
+272	2	flow of electron	after	null	1.0
+272	3	flow of electron	before	null	1.0
+272	3	flow of electron	after	null	1.0
+272	4	flow of electron	before	null	1.0
+272	4	flow of electron	after	unk	1.0
+272	5	flow of electron	before	unk	1.0
+272	5	flow of electron	after	wire	1.0
+272	6	flow of electron	before	wire	1.0
+272	6	flow of electron	after	generator	1.0
+272	1	fuel	before	unk	1.0
+272	1	fuel	after	generator	1.0
+272	2	fuel	before	generator	1.0
+272	2	fuel	after	null	1.0
+272	3	fuel	before	null	1.0
+272	3	fuel	after	null	1.0
+272	4	fuel	before	null	1.0
+272	4	fuel	after	null	1.0
+272	5	fuel	before	null	1.0
+272	5	fuel	after	null	1.0
+272	6	fuel	before	null	1.0
+272	6	fuel	after	null	1.0
+272	1	mechanical energy	before	unk	1.0
+272	1	mechanical energy	after	generator	1.0
+272	2	mechanical energy	before	generator	1.0
+272	2	mechanical energy	after	null	1.0
+272	3	mechanical energy	before	null	1.0
+272	3	mechanical energy	after	null	1.0
+272	4	mechanical energy	before	null	1.0
+272	4	mechanical energy	after	null	1.0
+272	5	mechanical energy	before	null	1.0
+272	5	mechanical energy	after	null	1.0
+272	6	mechanical energy	before	null	1.0
+272	6	mechanical energy	after	null	1.0
+272	1	electricity	before	null	1.0
+272	1	electricity	after	null	1.0
+272	2	electricity	before	null	1.0
+272	2	electricity	after	null	1.0
+272	3	electricity	before	null	1.0
+272	3	electricity	after	null	1.0
+272	4	electricity	before	null	1.0
+272	4	electricity	after	unk	1.0
+272	5	electricity	before	unk	1.0
+272	5	electricity	after	wire	1.0
+272	6	electricity	before	wire	1.0
+272	6	electricity	after	generator	1.0
+272	1	magnet	before	unk	1.0
+272	1	magnet	after	unk	1.0
+272	2	magnet	before	unk	1.0
+272	2	magnet	after	unk	1.0
+272	3	magnet	before	unk	1.0
+272	3	magnet	after	near a wire	1.0
+272	4	magnet	before	near a wire	1.0
+272	4	magnet	after	unk	1.0
+272	5	magnet	before	unk	1.0
+272	5	magnet	after	unk	1.0
+272	6	magnet	before	unk	1.0
+272	6	magnet	after	unk	1.0
+272	1	electrical energy	before	null	1.0
+272	1	electrical energy	after	null	1.0
+272	2	electrical energy	before	null	1.0
+272	2	electrical energy	after	generator	1.0
+272	3	electrical energy	before	generator	1.0
+272	3	electrical energy	after	generator	1.0
+272	4	electrical energy	before	generator	1.0
+272	4	electrical energy	after	generator	1.0
+272	5	electrical energy	before	generator	1.0
+272	5	electrical energy	after	generator	1.0
+272	6	electrical energy	before	generator	1.0
+272	6	electrical energy	after	generator	1.0
+394	1	heat	before	null	1.0
+394	1	heat	after	unk	1.0
+394	2	heat	before	unk	1.0
+394	2	heat	after	null	1.0
+394	3	heat	before	null	1.0
+394	3	heat	after	null	1.0
+394	4	heat	before	null	1.0
+394	4	heat	after	null	1.0
+394	5	heat	before	null	1.0
+394	5	heat	after	null	1.0
+394	6	heat	before	null	1.0
+394	6	heat	after	null	1.0
+394	7	heat	before	null	1.0
+394	7	heat	after	null	1.0
+394	1	turbine	before	generator	1.0
+394	1	turbine	after	generator	1.0
+394	2	turbine	before	generator	1.0
+394	2	turbine	after	generator	1.0
+394	3	turbine	before	generator	1.0
+394	3	turbine	after	generator	1.0
+394	4	turbine	before	generator	1.0
+394	4	turbine	after	generator	1.0
+394	5	turbine	before	generator	1.0
+394	5	turbine	after	generator	1.0
+394	6	turbine	before	generator	1.0
+394	6	turbine	after	generator	1.0
+394	7	turbine	before	generator	1.0
+394	7	turbine	after	generator	1.0
+394	1	fuel	before	unk	1.0
+394	1	fuel	after	null	1.0
+394	2	fuel	before	null	1.0
+394	2	fuel	after	null	1.0
+394	3	fuel	before	null	1.0
+394	3	fuel	after	null	1.0
+394	4	fuel	before	null	1.0
+394	4	fuel	after	null	1.0
+394	5	fuel	before	null	1.0
+394	5	fuel	after	null	1.0
+394	6	fuel	before	null	1.0
+394	6	fuel	after	null	1.0
+394	7	fuel	before	null	1.0
+394	7	fuel	after	null	1.0
+394	1	generator	before	unk	1.0
+394	1	generator	after	unk	1.0
+394	2	generator	before	unk	1.0
+394	2	generator	after	unk	1.0
+394	3	generator	before	unk	1.0
+394	3	generator	after	unk	1.0
+394	4	generator	before	unk	1.0
+394	4	generator	after	unk	1.0
+394	5	generator	before	unk	1.0
+394	5	generator	after	unk	1.0
+394	6	generator	before	unk	1.0
+394	6	generator	after	unk	1.0
+394	7	generator	before	unk	1.0
+394	7	generator	after	unk	1.0
+394	1	steam	before	null	1.0
+394	1	steam	after	null	1.0
+394	2	steam	before	null	1.0
+394	2	steam	after	turbine	1.0
+394	3	steam	before	turbine	1.0
+394	3	steam	after	unk	1.0
+394	4	steam	before	unk	1.0
+394	4	steam	after	unk	1.0
+394	5	steam	before	unk	1.0
+394	5	steam	after	unk	1.0
+394	6	steam	before	unk	1.0
+394	6	steam	after	unk	1.0
+394	7	steam	before	unk	1.0
+394	7	steam	after	unk	1.0
+394	1	electricity	before	null	1.0
+394	1	electricity	after	null	1.0
+394	2	electricity	before	null	1.0
+394	2	electricity	after	null	1.0
+394	3	electricity	before	null	1.0
+394	3	electricity	after	null	1.0
+394	4	electricity	before	null	1.0
+394	4	electricity	after	null	1.0
+394	5	electricity	before	null	1.0
+394	5	electricity	after	generator	1.0
+394	6	electricity	before	generator	1.0
+394	6	electricity	after	transformer	1.0
+394	7	electricity	before	transformer	1.0
+394	7	electricity	after	transformer	1.0
+394	1	water	before	unk	1.0
+394	1	water	after	unk	1.0
+394	2	water	before	unk	1.0
+394	2	water	after	null	1.0
+394	3	water	before	null	1.0
+394	3	water	after	null	1.0
+394	4	water	before	null	1.0
+394	4	water	after	null	1.0
+394	5	water	before	null	1.0
+394	5	water	after	null	1.0
+394	6	water	before	null	1.0
+394	6	water	after	null	1.0
+394	7	water	before	null	1.0
+394	7	water	after	null	1.0
+394	1	voltage	before	null	1.0
+394	1	voltage	after	null	1.0
+394	2	voltage	before	null	1.0
+394	2	voltage	after	null	1.0
+394	3	voltage	before	null	1.0
+394	3	voltage	after	null	1.0
+394	4	voltage	before	null	1.0
+394	4	voltage	after	null	1.0
+394	5	voltage	before	null	1.0
+394	5	voltage	after	null	1.0
+394	6	voltage	before	null	1.0
+394	6	voltage	after	null	1.0
+394	7	voltage	before	null	1.0
+394	7	voltage	after	transformer	1.0
+396	1	heat	before	null	1.0
+396	1	heat	after	null	1.0
+396	2	heat	before	null	1.0
+396	2	heat	after	uranium atom	1.0
+396	3	heat	before	uranium atom	1.0
+396	3	heat	after	null	1.0
+396	4	heat	before	null	1.0
+396	4	heat	after	null	1.0
+396	5	heat	before	null	1.0
+396	5	heat	after	null	1.0
+396	6	heat	before	null	1.0
+396	6	heat	after	null	1.0
+396	1	uranium atom	before	null	1.0
+396	1	uranium atom	after	unk	1.0
+396	2	uranium atom	before	unk	1.0
+396	2	uranium atom	after	null	1.0
+396	3	uranium atom	before	null	1.0
+396	3	uranium atom	after	null	1.0
+396	4	uranium atom	before	null	1.0
+396	4	uranium atom	after	null	1.0
+396	5	uranium atom	before	null	1.0
+396	5	uranium atom	after	null	1.0
+396	6	uranium atom	before	null	1.0
+396	6	uranium atom	after	null	1.0
+396	1	uranium fuel	before	nuclear reactor	1.0
+396	1	uranium fuel	after	null	1.0
+396	2	uranium fuel	before	null	1.0
+396	2	uranium fuel	after	null	1.0
+396	3	uranium fuel	before	null	1.0
+396	3	uranium fuel	after	null	1.0
+396	4	uranium fuel	before	null	1.0
+396	4	uranium fuel	after	null	1.0
+396	5	uranium fuel	before	null	1.0
+396	5	uranium fuel	after	null	1.0
+396	6	uranium fuel	before	null	1.0
+396	6	uranium fuel	after	null	1.0
+396	1	steam	before	null	1.0
+396	1	steam	after	null	1.0
+396	2	steam	before	null	1.0
+396	2	steam	after	null	1.0
+396	3	steam	before	null	1.0
+396	3	steam	after	turbine	1.0
+396	4	steam	before	turbine	1.0
+396	4	steam	after	turbine	1.0
+396	5	steam	before	turbine	1.0
+396	5	steam	after	turbine	1.0
+396	6	steam	before	turbine	1.0
+396	6	steam	after	turbine	1.0
+396	1	electricity	before	null	1.0
+396	1	electricity	after	null	1.0
+396	2	electricity	before	null	1.0
+396	2	electricity	after	null	1.0
+396	3	electricity	before	null	1.0
+396	3	electricity	after	null	1.0
+396	4	electricity	before	null	1.0
+396	4	electricity	after	null	1.0
+396	5	electricity	before	null	1.0
+396	5	electricity	after	null	1.0
+396	6	electricity	before	null	1.0
+396	6	electricity	after	spin generator	1.0
+396	1	water	before	unk	1.0
+396	1	water	after	unk	1.0
+396	2	water	before	unk	1.0
+396	2	water	after	unk	1.0
+396	3	water	before	unk	1.0
+396	3	water	after	null	1.0
+396	4	water	before	null	1.0
+396	4	water	after	null	1.0
+396	5	water	before	null	1.0
+396	5	water	after	null	1.0
+396	6	water	before	null	1.0
+396	6	water	after	null	1.0
+1303	1	milk	before	unk	1.0
+1303	1	milk	after	unk	1.0
+1303	2	milk	before	unk	1.0
+1303	2	milk	after	unk	1.0
+1303	3	milk	before	unk	1.0
+1303	3	milk	after	unk	1.0
+1303	4	milk	before	unk	1.0
+1303	4	milk	after	unk	1.0
+1303	5	milk	before	unk	1.0
+1303	5	milk	after	unk	1.0
+1303	1	microbe	before	food or milk	1.0
+1303	1	microbe	after	food or milk	1.0
+1303	2	microbe	before	food or milk	1.0
+1303	2	microbe	after	food or milk	1.0
+1303	3	microbe	before	food or milk	1.0
+1303	3	microbe	after	null	1.0
+1303	4	microbe	before	null	1.0
+1303	4	microbe	after	null	1.0
+1303	5	microbe	before	null	1.0
+1303	5	microbe	after	null	1.0
+1303	1	food	before	unk	1.0
+1303	1	food	after	unk	1.0
+1303	2	food	before	unk	1.0
+1303	2	food	after	unk	1.0
+1303	3	food	before	unk	1.0
+1303	3	food	after	unk	1.0
+1303	4	food	before	unk	1.0
+1303	4	food	after	unk	1.0
+1303	5	food	before	unk	1.0
+1303	5	food	after	unk	1.0

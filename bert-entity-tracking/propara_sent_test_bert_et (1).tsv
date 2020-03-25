@@ -1,0 +1,1820 @@
+927	1	rain	loc0	loc0
+927	2	rain	loc0	loc0
+927	3	rain	loc0	loc0
+927	4	rain	null	null
+927	5	rain	null	null
+927	6	rain	null	null
+927	1	plant	loc0	loc0
+927	2	plant	loc0	loc0
+927	3	plant	loc0	loc0
+927	4	plant	loc0	loc0
+927	5	plant	loc0	loc0
+927	6	plant	loc0	loc0
+927	1	tree	loc0	loc0
+927	2	tree	loc0	loc0
+927	3	tree	loc0	loc0
+927	4	tree	loc0	loc0
+927	5	tree	loc0	loc0
+927	6	tree	loc0	loc0
+927	1	land	loc0	loc0
+927	2	land	loc0	loc0
+927	3	land	loc0	loc0
+927	4	land	loc0	loc0
+927	5	land	loc0	loc0
+927	6	land	loc0	loc0
+927	1	rain water	loc0	loc0
+927	2	rain water	loc0	loc0
+927	3	rain water	loc0	loc1
+927	4	rain water	loc1	loc2
+927	5	rain water	loc2	loc2
+927	6	rain water	loc2	loc2
+927	1	water	loc0	loc0
+927	2	water	loc0	loc1
+927	3	water	loc1	loc1
+927	4	water	loc1	loc2
+927	5	water	loc2	loc2
+927	6	water	loc2	loc2
+1240	1	heat	loc0	loc0
+1240	2	heat	loc0	loc1
+1240	3	heat	loc1	loc1
+1240	4	heat	loc1	loc1
+1240	5	heat	loc1	loc1
+1240	6	heat	loc1	loc1
+1240	7	heat	loc1	loc2
+1240	8	heat	loc2	loc2
+1240	1	liquid	null	null
+1240	2	liquid	null	null
+1240	3	liquid	null	loc0
+1240	4	liquid	loc0	loc0
+1240	5	liquid	loc0	loc0
+1240	6	liquid	loc0	loc0
+1240	7	liquid	loc0	loc0
+1240	8	liquid	loc0	loc1
+1240	1	air	loc0	loc1
+1240	2	air	loc1	loc1
+1240	3	air	loc1	loc1
+1240	4	air	loc1	loc1
+1240	5	air	loc1	loc1
+1240	6	air	loc1	loc1
+1240	7	air	loc1	loc1
+1240	8	air	loc1	loc1
+932	1	rock	loc0	loc0
+932	2	rock	loc0	loc0
+932	3	rock	loc0	loc0
+932	4	rock	loc0	loc0
+932	5	rock	loc0	loc0
+932	6	rock	loc0	loc0
+932	1	chemical	null	null
+932	2	chemical	null	null
+932	3	chemical	null	loc0
+932	4	chemical	loc0	loc0
+932	5	chemical	null	null
+932	6	chemical	null	null
+932	1	water	loc0	loc0
+932	2	water	loc0	loc0
+932	3	water	loc0	loc0
+932	4	water	loc0	loc0
+932	5	water	loc0	loc0
+932	6	water	loc0	loc0
+932	1	oxygen	null	null
+932	2	oxygen	null	null
+932	3	oxygen	null	null
+932	4	oxygen	null	null
+932	5	oxygen	null	loc0
+932	6	oxygen	loc0	loc0
+933	1	rock	loc0	loc0
+933	2	rock	loc0	loc0
+933	3	rock	loc0	loc0
+933	4	rock	loc0	loc0
+933	5	rock	loc0	loc0
+933	1	carbon dioxide	loc0	loc0
+933	2	carbon dioxide	loc0	loc0
+933	3	carbon dioxide	loc0	loc0
+933	4	carbon dioxide	loc0	loc0
+933	5	carbon dioxide	loc0	loc0
+933	1	mineral base material	null	null
+933	2	mineral base material	null	null
+933	3	mineral base material	null	loc0
+933	4	mineral base material	loc0	loc0
+933	5	mineral base material	loc0	loc0
+933	1	water	loc0	loc0
+933	2	water	loc0	loc0
+933	3	water	loc0	loc1
+933	4	water	loc1	loc1
+933	5	water	loc1	loc1
+1033	1	rock	null	null
+1033	2	rock	null	null
+1033	3	rock	null	null
+1033	4	rock	null	loc0
+1033	5	rock	loc0	loc0
+1033	6	rock	loc0	loc0
+1033	1	skeleton	null	null
+1033	2	skeleton	null	null
+1033	3	skeleton	null	loc0
+1033	4	skeleton	loc0	null
+1033	5	skeleton	null	null
+1033	6	skeleton	null	null
+1033	1	animal	loc0	null
+1033	2	animal	null	null
+1033	3	animal	null	null
+1033	4	animal	null	null
+1033	5	animal	null	null
+1033	6	animal	null	null
+1033	1	mold	loc0	loc0
+1033	2	mold	loc0	loc0
+1033	3	mold	loc0	loc0
+1033	4	mold	loc0	loc0
+1033	5	mold	loc0	loc0
+1033	6	mold	loc0	loc0
+1032	1	rock	loc0	loc0
+1032	2	rock	loc0	loc0
+1032	3	rock	loc0	loc0
+1032	4	rock	loc0	loc0
+1032	5	rock	loc0	loc0
+1032	6	rock	loc0	loc0
+1032	1	plant	loc0	loc1
+1032	2	plant	loc1	loc2
+1032	3	plant	loc2	loc2
+1032	4	plant	loc2	loc2
+1032	5	plant	loc2	loc2
+1032	6	plant	null	null
+1032	1	animal	loc0	loc1
+1032	2	animal	loc1	loc2
+1032	3	animal	loc2	loc2
+1032	4	animal	loc2	loc2
+1032	5	animal	loc2	loc2
+1032	6	animal	null	null
+1032	1	remains	loc0	loc0
+1032	2	remains	loc0	loc1
+1032	3	remains	loc1	loc1
+1032	4	remains	loc1	loc2
+1032	5	remains	loc2	loc2
+1032	6	remains	loc2	loc2
+1032	1	bone and hard tissue	loc0	loc0
+1032	2	bone and hard tissue	loc0	loc0
+1032	3	bone and hard tissue	loc0	loc0
+1032	4	bone and hard tissue	loc0	loc0
+1032	5	bone and hard tissue	loc0	loc0
+1032	6	bone and hard tissue	loc0	loc0
+1032	1	sediment	null	null
+1032	2	sediment	null	null
+1032	3	sediment	null	null
+1032	4	sediment	null	null
+1032	5	sediment	null	loc0
+1032	6	sediment	loc0	null
+1031	1	rock	null	null
+1031	2	rock	null	null
+1031	3	rock	null	null
+1031	4	rock	null	loc0
+1031	5	rock	loc0	null
+1031	1	bone	null	null
+1031	2	bone	null	loc0
+1031	3	bone	loc0	loc0
+1031	4	bone	loc0	loc0
+1031	5	bone	null	null
+1031	1	plant or animal	loc0	null
+1031	2	plant or animal	null	null
+1031	3	plant or animal	null	null
+1031	4	plant or animal	null	null
+1031	5	plant or animal	null	null
+1031	1	fossil	null	null
+1031	2	fossil	null	null
+1031	3	fossil	null	null
+1031	4	fossil	null	null
+1031	5	fossil	null	loc0
+1031	1	sediment	null	null
+1031	2	sediment	null	null
+1031	3	sediment	null	loc0
+1031	4	sediment	loc0	null
+1031	5	sediment	null	null
+1147	1	star	loc0	loc0
+1147	2	star	loc0	loc0
+1147	3	star	loc0	loc0
+1147	4	star	loc0	loc0
+1147	5	star	loc0	loc0
+1147	6	star	loc0	loc0
+1147	1	helium atom	null	loc0
+1147	2	helium atom	loc0	loc0
+1147	3	helium atom	loc0	loc0
+1147	4	helium atom	loc0	null
+1147	5	helium atom	null	null
+1147	6	helium atom	null	null
+1147	1	hydrogen	null	loc0
+1147	2	hydrogen	loc0	null
+1147	3	hydrogen	null	null
+1147	4	hydrogen	null	null
+1147	5	hydrogen	null	null
+1147	6	hydrogen	null	null
+1147	1	helium	null	loc0
+1147	2	helium	loc0	loc1
+1147	3	helium	loc1	loc1
+1147	4	helium	loc1	null
+1147	5	helium	null	null
+1147	6	helium	null	null
+1147	1	hydrogen atom	null	loc0
+1147	2	hydrogen atom	loc0	null
+1147	3	hydrogen atom	null	null
+1147	4	hydrogen atom	null	null
+1147	5	hydrogen atom	null	null
+1147	6	hydrogen atom	null	null
+1147	1	carbon atom	loc0	loc0
+1147	2	carbon atom	loc0	loc0
+1147	3	carbon atom	loc0	loc0
+1147	4	carbon atom	loc0	loc0
+1147	5	carbon atom	loc0	loc0
+1147	6	carbon atom	loc0	loc0
+1146	1	star	loc0	loc0
+1146	2	star	loc0	loc0
+1146	3	star	loc0	loc0
+1146	4	star	loc0	loc0
+1146	5	star	loc0	loc0
+1146	6	star	loc0	loc0
+1146	7	star	loc0	loc0
+1146	8	star	loc0	loc0
+1146	9	star	loc0	loc0
+1146	10	star	loc0	loc0
+1146	1	hydrogen fuel	loc0	loc0
+1146	2	hydrogen fuel	loc0	loc1
+1146	3	hydrogen fuel	loc1	null
+1146	4	hydrogen fuel	null	null
+1146	5	hydrogen fuel	null	null
+1146	6	hydrogen fuel	null	null
+1146	7	hydrogen fuel	null	null
+1146	8	hydrogen fuel	null	null
+1146	9	hydrogen fuel	null	null
+1146	10	hydrogen fuel	null	null
+1146	1	hydrogen	loc0	loc0
+1146	2	hydrogen	loc0	loc0
+1146	3	hydrogen	loc0	null
+1146	4	hydrogen	null	null
+1146	5	hydrogen	null	null
+1146	6	hydrogen	null	null
+1146	7	hydrogen	null	null
+1146	8	hydrogen	null	null
+1146	9	hydrogen	null	null
+1146	10	hydrogen	null	null
+1146	1	helium	loc0	loc0
+1146	2	helium	loc0	loc0
+1146	3	helium	loc0	loc0
+1146	4	helium	loc0	loc0
+1146	5	helium	loc0	loc0
+1146	6	helium	loc0	loc0
+1146	7	helium	loc0	null
+1146	8	helium	null	null
+1146	9	helium	null	null
+1146	10	helium	null	null
+1146	1	energy	null	null
+1146	2	energy	null	null
+1146	3	energy	null	null
+1146	4	energy	null	loc0
+1146	5	energy	loc0	loc0
+1146	6	energy	loc0	loc0
+1146	7	energy	null	null
+1146	8	energy	null	null
+1146	9	energy	null	null
+1146	10	energy	null	null
+1146	1	carbon atom	loc0	loc0
+1146	2	carbon atom	loc0	loc0
+1146	3	carbon atom	loc0	loc0
+1146	4	carbon atom	loc0	loc0
+1146	5	carbon atom	loc0	loc0
+1146	6	carbon atom	loc0	loc0
+1146	7	carbon atom	loc0	loc1
+1146	8	carbon atom	loc1	loc1
+1146	9	carbon atom	loc1	loc1
+1146	10	carbon atom	loc1	loc1
+600	1	hot gas	null	null
+600	2	hot gas	null	null
+600	3	hot gas	null	loc0
+600	4	hot gas	loc0	loc0
+600	5	hot gas	loc0	loc0
+600	6	hot gas	loc0	loc0
+600	1	petrol	null	loc0
+600	2	petrol	loc0	null
+600	3	petrol	null	null
+600	4	petrol	null	null
+600	5	petrol	null	null
+600	6	petrol	null	null
+600	1	fuel	loc0	null
+600	2	fuel	null	null
+600	3	fuel	null	null
+600	4	fuel	null	null
+600	5	fuel	null	null
+600	6	fuel	null	null
+600	1	air	loc0	loc0
+600	2	air	loc0	null
+600	3	air	null	null
+600	4	air	null	null
+600	5	air	null	null
+600	6	air	null	null
+600	1	energy	null	loc0
+600	2	energy	loc0	loc0
+600	3	energy	loc0	loc0
+600	4	energy	loc0	loc1
+600	5	energy	loc1	loc1
+600	6	energy	null	null
+1145	1	red giant star	null	loc0
+1145	2	red giant star	loc0	loc0
+1145	3	red giant star	loc0	loc0
+1145	4	red giant star	loc0	loc0
+1145	5	red giant star	loc0	loc0
+1145	1	hydrogen fuel	null	null
+1145	2	hydrogen fuel	null	loc0
+1145	3	hydrogen fuel	loc0	null
+1145	4	hydrogen fuel	null	null
+1145	5	hydrogen fuel	null	null
+1145	1	helium atom	null	null
+1145	2	helium atom	null	null
+1145	3	helium atom	null	loc0
+1145	4	helium atom	loc0	loc0
+1145	5	helium atom	loc0	loc0
+1145	1	hydrogen atom	null	null
+1145	2	hydrogen atom	null	loc0
+1145	3	hydrogen atom	loc0	null
+1145	4	hydrogen atom	null	null
+1145	5	hydrogen atom	null	null
+725	1	rock	null	null
+725	2	rock	null	null
+725	3	rock	null	loc0
+725	4	rock	loc0	loc0
+725	5	rock	loc0	loc0
+725	6	rock	loc0	loc0
+725	1	soft tissue	loc0	loc0
+725	2	soft tissue	loc0	loc0
+725	3	soft tissue	loc0	loc0
+725	4	soft tissue	loc0	loc0
+725	5	soft tissue	loc0	loc0
+725	6	soft tissue	loc0	loc0
+725	1	plant	loc0	loc1
+725	2	plant	loc1	loc1
+725	3	plant	loc1	loc1
+725	4	plant	null	null
+725	5	plant	null	null
+725	6	plant	null	null
+725	1	stone replica	null	null
+725	2	stone replica	null	null
+725	3	stone replica	null	null
+725	4	stone replica	null	null
+725	5	stone replica	null	null
+725	6	stone replica	null	loc0
+725	1	animal	loc0	loc1
+725	2	animal	loc1	loc1
+725	3	animal	loc1	loc1
+725	4	animal	loc1	loc1
+725	5	animal	loc1	loc1
+725	6	animal	loc1	loc1
+725	1	bone	loc0	loc0
+725	2	bone	loc0	loc0
+725	3	bone	loc0	loc0
+725	4	bone	loc0	loc0
+725	5	bone	loc0	null
+725	6	bone	null	null
+725	1	mineral	null	null
+725	2	mineral	null	null
+725	3	mineral	null	null
+725	4	mineral	null	loc0
+725	5	mineral	loc0	loc0
+725	6	mineral	loc0	loc1
+725	1	fossil	null	loc0
+725	2	fossil	loc0	loc0
+725	3	fossil	loc0	loc0
+725	4	fossil	loc0	loc0
+725	5	fossil	loc0	loc0
+725	6	fossil	loc0	loc0
+725	1	sediment	null	null
+725	2	sediment	null	loc0
+725	3	sediment	loc0	null
+725	4	sediment	null	null
+725	5	sediment	null	null
+725	6	sediment	null	null
+726	1	rock	null	null
+726	2	rock	null	null
+726	3	rock	null	null
+726	4	rock	null	null
+726	5	rock	null	null
+726	6	rock	null	null
+726	7	rock	null	null
+726	8	rock	null	loc0
+726	9	rock	loc0	loc0
+726	10	rock	loc0	loc0
+726	1	hole	null	null
+726	2	hole	null	null
+726	3	hole	null	null
+726	4	hole	null	null
+726	5	hole	null	null
+726	6	hole	null	null
+726	7	hole	null	null
+726	8	hole	null	null
+726	9	hole	null	null
+726	10	hole	null	loc0
+726	1	sand	null	null
+726	2	sand	null	null
+726	3	sand	null	null
+726	4	sand	null	null
+726	5	sand	null	null
+726	6	sand	null	loc0
+726	7	sand	loc0	loc0
+726	8	sand	loc0	null
+726	9	sand	null	null
+726	10	sand	null	null
+726	1	animal 's skeleton	null	null
+726	2	animal 's skeleton	null	null
+726	3	animal 's skeleton	null	loc0
+726	4	animal 's skeleton	loc0	loc1
+726	5	animal 's skeleton	loc1	loc2
+726	6	animal 's skeleton	loc2	loc2
+726	7	animal 's skeleton	loc2	loc2
+726	8	animal 's skeleton	loc2	loc2
+726	9	animal 's skeleton	loc2	loc2
+726	10	animal 's skeleton	loc2	loc2
+726	1	animal	loc0	loc0
+726	2	animal	loc0	loc0
+726	3	animal	loc0	null
+726	4	animal	null	null
+726	5	animal	null	null
+726	6	animal	null	null
+726	7	animal	null	null
+726	8	animal	null	null
+726	9	animal	null	null
+726	10	animal	null	null
+726	1	mud	null	null
+726	2	mud	null	null
+726	3	mud	null	null
+726	4	mud	null	loc0
+726	5	mud	loc0	loc0
+726	6	mud	loc0	loc1
+726	7	mud	loc1	loc1
+726	8	mud	loc1	null
+726	9	mud	null	null
+726	10	mud	null	null
+727	1	rock	null	null
+727	2	rock	null	null
+727	3	rock	null	null
+727	4	rock	null	null
+727	5	rock	null	null
+727	6	rock	null	loc0
+727	7	rock	loc0	loc0
+727	8	rock	loc0	loc0
+727	9	rock	loc0	loc0
+727	10	rock	loc0	loc0
+727	1	soft tissue	loc0	loc0
+727	2	soft tissue	loc0	loc0
+727	3	soft tissue	loc0	loc0
+727	4	soft tissue	loc0	null
+727	5	soft tissue	null	null
+727	6	soft tissue	null	null
+727	7	soft tissue	null	null
+727	8	soft tissue	null	null
+727	9	soft tissue	null	null
+727	10	soft tissue	null	null
+727	1	animal	loc0	null
+727	2	animal	null	null
+727	3	animal	null	null
+727	4	animal	null	null
+727	5	animal	null	null
+727	6	animal	null	null
+727	7	animal	null	null
+727	8	animal	null	null
+727	9	animal	null	null
+727	10	animal	null	null
+727	1	bone	loc0	loc0
+727	2	bone	loc0	loc0
+727	3	bone	loc0	loc0
+727	4	bone	loc0	loc0
+727	5	bone	loc0	loc0
+727	6	bone	loc0	loc0
+727	7	bone	loc0	loc0
+727	8	bone	loc0	loc0
+727	9	bone	loc0	loc0
+727	10	bone	loc0	loc0
+727	1	silt	null	null
+727	2	silt	null	null
+727	3	silt	null	null
+727	4	silt	null	loc0
+727	5	silt	loc0	loc0
+727	6	silt	loc0	null
+727	7	silt	null	null
+727	8	silt	null	null
+727	9	silt	null	null
+727	10	silt	null	null
+727	1	mineral	null	null
+727	2	mineral	null	null
+727	3	mineral	null	null
+727	4	mineral	null	null
+727	5	mineral	null	null
+727	6	mineral	null	null
+727	7	mineral	null	null
+727	8	mineral	null	loc0
+727	9	mineral	loc0	loc0
+727	10	mineral	loc0	loc1
+727	1	fossil	null	null
+727	2	fossil	null	null
+727	3	fossil	null	null
+727	4	fossil	null	null
+727	5	fossil	null	null
+727	6	fossil	null	null
+727	7	fossil	null	null
+727	8	fossil	null	null
+727	9	fossil	null	null
+727	10	fossil	null	loc0
+727	1	mud	loc0	loc0
+727	2	mud	loc0	loc0
+727	3	mud	loc0	loc0
+727	4	mud	loc0	loc0
+727	5	mud	loc0	loc0
+727	6	mud	loc0	null
+727	7	mud	null	null
+727	8	mud	null	null
+727	9	mud	null	null
+727	10	mud	null	null
+502	1	diesel	loc0	loc1
+502	2	diesel	loc1	loc1
+502	3	diesel	loc1	loc1
+502	4	diesel	loc1	loc1
+502	5	diesel	loc1	loc1
+502	1	rotary motion	null	null
+502	2	rotary motion	null	null
+502	3	rotary motion	null	loc0
+502	4	rotary motion	loc0	loc0
+502	5	rotary motion	loc0	loc0
+502	1	petrol	loc0	loc1
+502	2	petrol	loc1	loc1
+502	3	petrol	loc1	loc1
+502	4	petrol	loc1	loc1
+502	5	petrol	loc1	loc1
+502	1	piston	loc0	loc0
+502	2	piston	loc0	loc0
+502	3	piston	loc0	loc0
+502	4	piston	loc0	loc0
+502	5	piston	loc0	loc0
+502	1	car	loc0	loc0
+502	2	car	loc0	loc0
+502	3	car	loc0	loc0
+502	4	car	loc0	loc0
+502	5	car	loc0	loc0
+502	1	piston motion	null	null
+502	2	piston motion	null	loc0
+502	3	piston motion	loc0	null
+502	4	piston motion	null	null
+502	5	piston motion	null	null
+502	1	energy	null	loc0
+502	2	energy	loc0	loc1
+502	3	energy	loc1	loc1
+502	4	energy	loc1	loc1
+502	5	energy	loc1	loc1
+503	1	crankshaft	loc0	loc0
+503	2	crankshaft	loc0	loc0
+503	3	crankshaft	loc0	loc0
+503	4	crankshaft	loc0	loc0
+503	5	crankshaft	loc0	loc0
+503	6	crankshaft	loc0	loc0
+503	7	crankshaft	loc0	loc0
+503	8	crankshaft	loc0	loc0
+503	9	crankshaft	loc0	loc0
+503	1	car	loc0	loc0
+503	2	car	loc0	loc0
+503	3	car	loc0	loc0
+503	4	car	loc0	loc0
+503	5	car	loc0	loc0
+503	6	car	loc0	loc0
+503	7	car	loc0	loc0
+503	8	car	loc0	loc0
+503	9	car	loc0	loc0
+503	1	spark	null	null
+503	2	spark	null	null
+503	3	spark	null	loc0
+503	4	spark	loc0	loc0
+503	5	spark	loc0	loc0
+503	6	spark	loc0	loc0
+503	7	spark	loc0	loc0
+503	8	spark	loc0	loc0
+503	9	spark	loc0	loc0
+503	1	piston	loc0	loc0
+503	2	piston	loc0	loc0
+503	3	piston	loc0	loc0
+503	4	piston	loc0	loc0
+503	5	piston	loc0	loc0
+503	6	piston	loc0	loc1
+503	7	piston	loc1	loc1
+503	8	piston	loc1	loc1
+503	9	piston	loc1	loc1
+503	1	wheel	loc0	loc0
+503	2	wheel	loc0	loc0
+503	3	wheel	loc0	loc0
+503	4	wheel	loc0	loc0
+503	5	wheel	loc0	loc0
+503	6	wheel	loc0	loc0
+503	7	wheel	loc0	loc0
+503	8	wheel	loc0	loc0
+503	9	wheel	loc0	loc0
+503	1	gas	loc0	loc1
+503	2	gas	loc1	loc1
+503	3	gas	loc1	loc1
+503	4	gas	loc1	loc1
+503	5	gas	loc1	loc1
+503	6	gas	loc1	loc2
+503	7	gas	loc2	loc2
+503	8	gas	loc2	loc2
+503	9	gas	loc2	loc2
+503	1	gasoline	loc0	loc1
+503	2	gasoline	loc1	loc1
+503	3	gasoline	loc1	loc1
+503	4	gasoline	loc1	loc1
+503	5	gasoline	loc1	loc1
+503	6	gasoline	loc1	loc1
+503	7	gasoline	loc1	loc1
+503	8	gasoline	loc1	loc1
+503	9	gasoline	loc1	loc1
+503	1	battery	null	null
+503	2	battery	null	null
+503	3	battery	null	loc0
+503	4	battery	loc0	loc0
+503	5	battery	loc0	loc0
+503	6	battery	loc0	loc0
+503	7	battery	loc0	loc0
+503	8	battery	loc0	loc0
+503	9	battery	loc0	loc0
+1190	1	oxygenate blood	null	null
+1190	2	oxygenate blood	null	null
+1190	3	oxygenate blood	null	null
+1190	4	oxygenate blood	null	null
+1190	5	oxygenate blood	null	loc0
+1190	6	oxygenate blood	loc0	loc1
+1190	7	oxygenate blood	loc1	loc2
+1190	8	oxygenate blood	loc2	loc2
+1190	9	oxygenate blood	loc2	loc3
+1190	10	oxygenate blood	loc3	loc3
+1190	1	deoxygenate blood	null	null
+1190	2	deoxygenate blood	null	null
+1190	3	deoxygenate blood	null	null
+1190	4	deoxygenate blood	null	null
+1190	5	deoxygenate blood	null	null
+1190	6	deoxygenate blood	null	loc0
+1190	7	deoxygenate blood	loc0	loc0
+1190	8	deoxygenate blood	loc0	loc0
+1190	9	deoxygenate blood	loc0	loc1
+1190	10	deoxygenate blood	loc1	loc2
+1190	1	oxygen	loc0	loc0
+1190	2	oxygen	loc0	loc0
+1190	3	oxygen	loc0	loc0
+1190	4	oxygen	loc0	loc0
+1190	5	oxygen	loc0	loc0
+1190	6	oxygen	loc0	loc1
+1190	7	oxygen	loc1	loc2
+1190	8	oxygen	loc2	loc2
+1190	9	oxygen	loc2	loc2
+1190	10	oxygen	loc2	loc2
+400	1	electricity	null	null
+400	2	electricity	null	null
+400	3	electricity	null	null
+400	4	electricity	null	null
+400	5	electricity	null	loc0
+400	1	energy	null	null
+400	2	energy	null	null
+400	3	energy	null	null
+400	4	energy	null	loc0
+400	5	energy	loc0	null
+401	1	sunlight	loc0	loc0
+401	2	sunlight	loc0	loc0
+401	3	sunlight	loc0	loc1
+401	4	sunlight	loc1	loc2
+401	5	sunlight	loc2	loc2
+401	6	sunlight	loc2	loc2
+401	7	sunlight	loc2	loc2
+401	1	direct current	null	null
+401	2	direct current	null	null
+401	3	direct current	null	null
+401	4	direct current	null	null
+401	5	direct current	null	loc0
+401	6	direct current	loc0	null
+401	7	direct current	null	null
+401	1	alternate current	null	null
+401	2	alternate current	null	null
+401	3	alternate current	null	null
+401	4	alternate current	null	null
+401	5	alternate current	null	loc0
+401	6	alternate current	loc0	loc0
+401	7	alternate current	loc0	loc0
+1189	1	crater	null	null
+1189	2	crater	null	null
+1189	3	crater	null	null
+1189	4	crater	null	null
+1189	5	crater	null	loc0
+1189	6	crater	loc0	loc0
+1189	1	chunk of rock	null	loc0
+1189	2	chunk of rock	loc0	loc0
+1189	3	chunk of rock	loc0	loc0
+1189	4	chunk of rock	loc0	loc1
+1189	5	chunk of rock	loc1	loc1
+1189	6	chunk of rock	loc1	loc1
+1188	1	hole	null	null
+1188	2	hole	null	null
+1188	3	hole	null	null
+1188	4	hole	null	null
+1188	5	hole	null	loc0
+1188	1	comet	loc0	loc0
+1188	2	comet	loc0	loc1
+1188	3	comet	loc1	loc2
+1188	4	comet	loc2	loc3
+1188	5	comet	loc3	loc3
+409	1	image	null	loc0
+409	2	image	loc0	loc0
+409	3	image	loc0	loc0
+409	4	image	loc0	loc1
+409	5	image	loc1	null
+409	6	image	null	null
+409	7	image	null	null
+409	1	electrical impulse	null	null
+409	2	electrical impulse	null	null
+409	3	electrical impulse	null	null
+409	4	electrical impulse	null	null
+409	5	electrical impulse	null	loc0
+409	6	electrical impulse	loc0	loc1
+409	7	electrical impulse	loc1	loc1
+410	1	electric signal	null	null
+410	2	electric signal	null	null
+410	3	electric signal	null	null
+410	4	electric signal	null	loc0
+410	5	electric signal	loc0	loc1
+410	6	electric signal	loc1	loc2
+410	1	light	loc0	loc0
+410	2	light	loc0	loc1
+410	3	light	loc1	loc2
+410	4	light	loc2	null
+410	5	light	null	null
+410	6	light	null	null
+411	1	light	loc0	loc1
+411	2	light	loc1	null
+411	3	light	null	null
+411	4	light	null	null
+411	5	light	null	null
+411	6	light	null	null
+411	7	light	null	null
+411	8	light	null	null
+411	1	electrochemical signal	null	null
+411	2	electrochemical signal	null	loc0
+411	3	electrochemical signal	loc0	loc0
+411	4	electrochemical signal	loc0	loc1
+411	5	electrochemical signal	loc1	loc1
+411	6	electrochemical signal	loc1	loc1
+411	7	electrochemical signal	loc1	loc1
+411	8	electrochemical signal	loc1	loc1
+653	1	seed	null	null
+653	2	seed	null	null
+653	3	seed	null	null
+653	4	seed	null	null
+653	5	seed	null	null
+653	6	seed	null	null
+653	1	fruit	null	null
+653	2	fruit	null	null
+653	3	fruit	null	null
+653	4	fruit	null	null
+653	5	fruit	null	loc0
+653	6	fruit	loc0	loc0
+653	1	tree	null	null
+653	2	tree	null	null
+653	3	tree	null	loc0
+653	4	tree	loc0	loc0
+653	5	tree	loc0	loc0
+653	6	tree	loc0	loc0
+653	1	flower	null	null
+653	2	flower	null	null
+653	3	flower	null	null
+653	4	flower	null	loc0
+653	5	flower	loc0	loc0
+653	6	flower	loc0	loc0
+533	1	seed	loc0	loc1
+533	2	seed	loc1	loc2
+533	3	seed	loc2	null
+533	4	seed	null	null
+533	5	seed	null	null
+533	6	seed	null	null
+533	7	seed	null	null
+533	1	sprout	null	null
+533	2	sprout	null	loc0
+533	3	sprout	loc0	loc0
+533	4	sprout	loc0	loc0
+533	5	sprout	loc0	loc0
+533	6	sprout	loc0	loc0
+533	7	sprout	loc0	loc0
+533	1	sapling	null	null
+533	2	sapling	null	null
+533	3	sapling	null	loc0
+533	4	sapling	loc0	loc0
+533	5	sapling	loc0	loc0
+533	6	sapling	loc0	loc0
+533	7	sapling	loc0	loc0
+533	1	tree	loc0	loc0
+533	2	tree	loc0	loc0
+533	3	tree	loc0	loc0
+533	4	tree	loc0	loc0
+533	5	tree	loc0	loc0
+533	6	tree	loc0	loc0
+533	7	tree	loc0	loc0
+654	1	tree	null	null
+654	2	tree	null	null
+654	3	tree	null	loc0
+654	4	tree	loc0	loc0
+654	5	tree	loc0	loc0
+654	6	tree	loc0	null
+654	1	root system	null	null
+654	2	root system	null	loc0
+654	3	root system	loc0	loc0
+654	4	root system	loc0	loc0
+654	5	root system	loc0	loc0
+654	6	root system	loc0	loc0
+654	1	material for new growth	null	null
+654	2	material for new growth	null	null
+654	3	material for new growth	null	null
+654	4	material for new growth	null	null
+654	5	material for new growth	null	null
+654	6	material for new growth	null	loc0
+896	1	oxygenate blood	loc0	loc1
+896	2	oxygenate blood	loc1	loc1
+896	3	oxygenate blood	loc1	loc2
+896	4	oxygenate blood	loc2	loc2
+896	5	oxygenate blood	loc2	loc2
+896	6	oxygenate blood	loc2	loc3
+896	7	oxygenate blood	loc3	loc3
+896	8	oxygenate blood	loc3	loc4
+896	9	oxygenate blood	loc4	loc5
+896	1	oxygen-depleted blood	loc0	loc1
+896	2	oxygen-depleted blood	loc1	loc1
+896	3	oxygen-depleted blood	loc1	loc2
+896	4	oxygen-depleted blood	loc2	loc2
+896	5	oxygen-depleted blood	loc2	loc2
+896	6	oxygen-depleted blood	loc2	loc3
+896	7	oxygen-depleted blood	loc3	loc3
+896	8	oxygen-depleted blood	loc3	loc4
+896	9	oxygen-depleted blood	loc4	loc4
+896	1	blood	loc0	loc1
+896	2	blood	loc1	loc1
+896	3	blood	loc1	loc2
+896	4	blood	loc2	loc2
+896	5	blood	loc2	loc2
+896	6	blood	loc2	loc3
+896	7	blood	loc3	loc3
+896	8	blood	loc3	loc4
+896	9	blood	loc4	loc5
+534	1	seed	null	null
+534	2	seed	null	loc0
+534	3	seed	null	null
+534	4	seed	null	null
+534	5	seed	null	null
+534	6	seed	null	null
+534	7	seed	null	null
+534	1	fruit	null	null
+534	2	fruit	null	null
+534	3	fruit	null	null
+534	4	fruit	null	loc0
+534	5	fruit	loc0	loc0
+534	6	fruit	loc0	loc0
+534	7	fruit	loc0	loc0
+534	1	tree	null	null
+534	2	tree	null	loc0
+534	3	tree	loc0	loc0
+534	4	tree	loc0	loc0
+534	5	tree	loc0	loc0
+534	6	tree	loc0	loc0
+534	7	tree	loc0	null
+534	1	small tree	null	null
+534	2	small tree	null	loc0
+534	3	small tree	loc0	loc0
+534	4	small tree	loc0	loc0
+534	5	small tree	loc0	loc0
+534	6	small tree	loc0	loc0
+534	7	small tree	loc0	null
+534	1	flower	null	null
+534	2	flower	null	null
+534	3	flower	null	null
+534	4	flower	null	null
+534	5	flower	null	loc0
+534	6	flower	loc0	loc0
+534	7	flower	loc0	loc0
+659	1	nitrogen	loc0	null
+659	2	nitrogen	null	null
+659	3	nitrogen	null	null
+659	4	nitrogen	null	null
+659	5	nitrogen	null	null
+659	6	nitrogen	null	null
+659	1	plant	loc0	loc0
+659	2	plant	loc0	loc0
+659	3	plant	loc0	loc0
+659	4	plant	loc0	null
+659	5	plant	null	null
+659	6	plant	null	null
+659	1	ammonium	null	loc0
+659	2	ammonium	loc0	null
+659	3	ammonium	null	null
+659	4	ammonium	null	null
+659	5	ammonium	null	null
+659	6	ammonium	null	null
+659	1	extra nitrogen	null	null
+659	2	extra nitrogen	null	null
+659	3	extra nitrogen	null	null
+659	4	extra nitrogen	null	loc0
+659	5	extra nitrogen	loc0	loc1
+659	6	extra nitrogen	loc1	loc1
+659	1	nitrate	null	loc0
+659	2	nitrate	loc0	loc0
+659	3	nitrate	loc0	loc1
+659	4	nitrate	loc1	loc1
+659	5	nitrate	loc1	loc1
+659	6	nitrate	loc1	loc1
+660	1	waste	null	null
+660	2	waste	null	null
+660	3	waste	null	null
+660	4	waste	null	loc0
+660	5	waste	loc0	loc1
+660	6	waste	loc1	loc1
+660	7	waste	loc1	loc1
+660	8	waste	loc1	loc1
+660	9	waste	loc1	loc1
+660	1	organic nitrogen	null	loc0
+660	2	organic nitrogen	loc0	loc1
+660	3	organic nitrogen	loc1	loc1
+660	4	organic nitrogen	loc1	loc1
+660	5	organic nitrogen	loc1	loc1
+660	6	organic nitrogen	loc1	null
+660	7	organic nitrogen	null	null
+660	8	organic nitrogen	null	null
+660	9	organic nitrogen	null	null
+660	1	plant	loc0	loc0
+660	2	plant	loc0	loc0
+660	3	plant	loc0	loc1
+660	4	plant	loc1	null
+660	5	plant	null	null
+660	6	plant	null	null
+660	7	plant	null	null
+660	8	plant	null	null
+660	9	plant	null	null
+660	1	atmospheric nitrogen	loc0	null
+660	2	atmospheric nitrogen	null	null
+660	3	atmospheric nitrogen	null	null
+660	4	atmospheric nitrogen	null	null
+660	5	atmospheric nitrogen	null	null
+660	6	atmospheric nitrogen	null	null
+660	7	atmospheric nitrogen	null	null
+660	8	atmospheric nitrogen	null	null
+660	9	atmospheric nitrogen	null	null
+660	1	ammonium	null	null
+660	2	ammonium	null	null
+660	3	ammonium	null	null
+660	4	ammonium	null	null
+660	5	ammonium	null	null
+660	6	ammonium	null	loc0
+660	7	ammonium	loc0	null
+660	8	ammonium	null	null
+660	9	ammonium	null	null
+660	1	animal	loc0	loc0
+660	2	animal	loc0	loc0
+660	3	animal	loc0	loc1
+660	4	animal	loc1	null
+660	5	animal	null	null
+660	6	animal	null	null
+660	7	animal	null	null
+660	8	animal	null	null
+660	9	animal	null	null
+660	1	nitrate	null	null
+660	2	nitrate	null	null
+660	3	nitrate	null	null
+660	4	nitrate	null	null
+660	5	nitrate	null	null
+660	6	nitrate	null	null
+660	7	nitrate	null	loc0
+660	8	nitrate	loc0	null
+660	9	nitrate	null	null
+660	1	nitrogen gas	null	loc0
+660	2	nitrogen gas	loc0	loc1
+660	3	nitrogen gas	loc1	loc2
+660	4	nitrogen gas	loc2	loc3
+660	5	nitrogen gas	loc3	loc3
+660	6	nitrogen gas	loc3	loc3
+660	7	nitrogen gas	loc3	loc3
+660	8	nitrogen gas	loc3	loc4
+660	9	nitrogen gas	loc4	loc5
+661	1	nitrogen	loc0	null
+661	2	nitrogen	null	null
+661	3	nitrogen	null	null
+661	4	nitrogen	null	null
+661	5	nitrogen	null	null
+661	6	nitrogen	null	null
+661	7	nitrogen	null	null
+661	8	nitrogen	null	null
+661	9	nitrogen	null	null
+661	1	plant	loc0	loc0
+661	2	plant	loc0	loc0
+661	3	plant	loc0	loc0
+661	4	plant	loc0	loc0
+661	5	plant	loc0	loc0
+661	6	plant	loc0	loc0
+661	7	plant	loc0	loc1
+661	8	plant	loc1	loc2
+661	9	plant	loc2	null
+661	1	ammonium	null	loc0
+661	2	ammonium	loc0	null
+661	3	ammonium	null	null
+661	4	ammonium	null	null
+661	5	ammonium	null	null
+661	6	ammonium	null	null
+661	7	ammonium	null	null
+661	8	ammonium	null	null
+661	9	ammonium	null	null
+661	1	animal	loc0	loc0
+661	2	animal	loc0	loc0
+661	3	animal	loc0	loc0
+661	4	animal	loc0	loc0
+661	5	animal	loc0	loc0
+661	6	animal	loc0	loc0
+661	7	animal	loc0	loc1
+661	8	animal	loc1	loc2
+661	9	animal	loc2	null
+661	1	nitrate	null	null
+661	2	nitrate	null	loc0
+661	3	nitrate	loc0	loc0
+661	4	nitrate	loc0	loc0
+661	5	nitrate	loc0	loc0
+661	6	nitrate	loc0	loc0
+661	7	nitrate	loc0	loc0
+661	8	nitrate	loc0	loc0
+661	9	nitrate	loc0	loc0
+429	1	waste	null	null
+429	2	waste	null	null
+429	3	waste	null	null
+429	4	waste	null	null
+429	5	waste	null	null
+429	6	waste	null	loc0
+429	7	waste	loc0	loc0
+429	8	waste	loc0	loc0
+429	9	waste	loc0	loc0
+429	10	waste	loc0	loc0
+429	1	gas-based form	null	null
+429	2	gas-based form	null	null
+429	3	gas-based form	null	null
+429	4	gas-based form	null	null
+429	5	gas-based form	null	null
+429	6	gas-based form	null	null
+429	7	gas-based form	null	null
+429	8	gas-based form	null	null
+429	9	gas-based form	null	loc0
+429	10	gas-based form	loc0	loc1
+429	1	nitrogen	null	loc0
+429	2	nitrogen	loc0	loc0
+429	3	nitrogen	loc0	loc0
+429	4	nitrogen	loc0	loc1
+429	5	nitrogen	loc1	loc1
+429	6	nitrogen	loc1	loc1
+429	7	nitrogen	loc1	loc1
+429	8	nitrogen	loc1	loc2
+429	9	nitrogen	loc2	null
+429	10	nitrogen	null	null
+429	1	plant	loc0	loc0
+429	2	plant	loc0	loc0
+429	3	plant	loc0	loc0
+429	4	plant	loc0	loc0
+429	5	plant	loc0	loc1
+429	6	plant	loc1	loc1
+429	7	plant	loc1	null
+429	8	plant	null	null
+429	9	plant	null	null
+429	10	plant	null	null
+429	1	usable nitrogen	null	null
+429	2	usable nitrogen	null	loc0
+429	3	usable nitrogen	loc0	loc1
+429	4	usable nitrogen	loc1	loc2
+429	5	usable nitrogen	loc2	loc2
+429	6	usable nitrogen	loc2	loc2
+429	7	usable nitrogen	loc2	loc2
+429	8	usable nitrogen	loc2	loc3
+429	9	usable nitrogen	loc3	null
+429	10	usable nitrogen	null	null
+791	1	ac electricity	null	null
+791	2	ac electricity	null	null
+791	3	ac electricity	null	loc0
+791	4	ac electricity	loc0	loc1
+791	5	ac electricity	loc1	loc2
+791	6	ac electricity	loc2	loc2
+791	1	dc electricity	null	null
+791	2	dc electricity	null	null
+791	3	dc electricity	null	loc0
+791	4	dc electricity	loc0	loc1
+791	5	dc electricity	loc1	loc2
+791	6	dc electricity	loc2	loc2
+310	1	carbon dioxide	loc0	loc0
+310	2	carbon dioxide	loc0	loc0
+310	3	carbon dioxide	loc0	loc1
+310	4	carbon dioxide	loc1	loc1
+310	5	carbon dioxide	loc1	loc1
+310	6	carbon dioxide	loc1	loc1
+310	1	blood	loc0	loc1
+310	2	blood	loc1	loc2
+310	3	blood	loc2	loc2
+310	4	blood	loc2	loc2
+310	5	blood	loc2	loc3
+310	6	blood	loc3	loc4
+310	1	oxygen	loc0	loc0
+310	2	oxygen	loc0	loc1
+310	3	oxygen	loc1	loc1
+310	4	oxygen	loc1	loc2
+310	5	oxygen	loc2	loc2
+310	6	oxygen	loc2	loc2
+695	1	cloud	null	null
+695	2	cloud	null	null
+695	3	cloud	null	loc0
+695	4	cloud	loc0	loc0
+695	5	cloud	loc0	loc0
+695	6	cloud	loc0	loc0
+695	7	cloud	loc0	loc0
+695	1	rain	null	null
+695	2	rain	null	null
+695	3	rain	null	null
+695	4	rain	null	null
+695	5	rain	null	loc0
+695	6	rain	loc0	loc0
+695	7	rain	loc0	loc0
+695	1	vapor	null	loc0
+695	2	vapor	loc0	loc1
+695	3	vapor	loc1	null
+695	4	vapor	null	null
+695	5	vapor	null	null
+695	6	vapor	null	null
+695	7	vapor	null	null
+695	1	water vapor	null	loc0
+695	2	water vapor	loc0	loc1
+695	3	water vapor	loc1	null
+695	4	water vapor	null	null
+695	5	water vapor	null	null
+695	6	water vapor	null	null
+695	7	water vapor	null	null
+695	1	snow	null	null
+695	2	snow	null	null
+695	3	snow	null	null
+695	4	snow	null	null
+695	5	snow	null	loc0
+695	6	snow	loc0	loc0
+695	7	snow	loc0	loc0
+695	1	steam	null	loc0
+695	2	steam	loc0	loc1
+695	3	steam	loc1	loc1
+695	4	steam	null	null
+695	5	steam	null	null
+695	6	steam	null	null
+695	7	steam	null	null
+695	1	hail	null	null
+695	2	hail	null	null
+695	3	hail	null	null
+695	4	hail	null	null
+695	5	hail	null	loc0
+695	6	hail	loc0	loc0
+695	7	hail	loc0	loc0
+695	1	sleet	null	null
+695	2	sleet	null	null
+695	3	sleet	null	null
+695	4	sleet	null	null
+695	5	sleet	null	loc0
+695	6	sleet	loc0	loc1
+695	7	sleet	loc1	loc2
+695	1	water	null	loc0
+695	2	water	loc0	loc1
+695	3	water	loc1	loc1
+695	4	water	loc1	loc1
+695	5	water	loc1	null
+695	6	water	null	null
+695	7	water	null	null
+696	1	cloud	null	null
+696	2	cloud	null	null
+696	3	cloud	null	loc0
+696	4	cloud	loc0	loc0
+696	5	cloud	loc0	loc0
+696	6	cloud	loc0	null
+696	1	rain	null	null
+696	2	rain	null	null
+696	3	rain	null	null
+696	4	rain	null	null
+696	5	rain	null	null
+696	6	rain	null	loc0
+696	1	water vapor	null	loc0
+696	2	water vapor	loc0	null
+696	3	water vapor	null	null
+696	4	water vapor	null	null
+696	5	water vapor	null	null
+696	6	water vapor	null	null
+696	1	water droplet	null	null
+696	2	water droplet	null	null
+696	3	water droplet	null	null
+696	4	water droplet	null	null
+696	5	water droplet	null	null
+696	6	water droplet	null	null
+697	1	cloud	null	null
+697	2	cloud	null	loc0
+697	3	cloud	loc0	loc0
+697	4	cloud	loc0	loc0
+697	5	cloud	loc0	loc0
+697	1	rain	null	null
+697	2	rain	null	null
+697	3	rain	null	null
+697	4	rain	null	null
+697	5	rain	null	loc0
+697	1	water	loc0	loc0
+697	2	water	loc0	loc0
+697	3	water	loc0	loc0
+697	4	water	loc0	loc0
+697	5	water	loc0	loc0
+460	1	live thing	loc0	loc0
+460	2	live thing	loc0	loc1
+460	3	live thing	loc1	loc1
+460	4	live thing	loc1	loc1
+460	5	live thing	loc1	loc1
+460	6	live thing	loc1	loc1
+460	7	live thing	loc1	loc1
+460	8	live thing	loc1	loc1
+460	9	live thing	loc1	loc1
+460	10	live thing	loc1	loc1
+460	1	fossil fuel	null	null
+460	2	fossil fuel	null	null
+460	3	fossil fuel	null	null
+460	4	fossil fuel	null	null
+460	5	fossil fuel	null	null
+460	6	fossil fuel	null	null
+460	7	fossil fuel	null	null
+460	8	fossil fuel	null	loc0
+460	9	fossil fuel	loc0	loc0
+460	10	fossil fuel	loc0	loc0
+460	1	carbon	loc0	loc0
+460	2	carbon	loc0	loc0
+460	3	carbon	loc0	loc0
+460	4	carbon	loc0	loc0
+460	5	carbon	loc0	loc0
+460	6	carbon	loc0	loc0
+460	7	carbon	loc0	loc1
+460	8	carbon	loc1	loc1
+460	9	carbon	loc1	loc1
+460	10	carbon	loc1	loc1
+460	1	carbon-based mixture	null	null
+460	2	carbon-based mixture	null	null
+460	3	carbon-based mixture	null	null
+460	4	carbon-based mixture	null	loc0
+460	5	carbon-based mixture	loc0	loc0
+460	6	carbon-based mixture	loc0	loc1
+460	7	carbon-based mixture	loc1	loc2
+460	8	carbon-based mixture	loc2	loc2
+460	9	carbon-based mixture	loc2	loc2
+460	10	carbon-based mixture	loc2	loc2
+460	1	power	null	null
+460	2	power	null	null
+460	3	power	null	null
+460	4	power	null	null
+460	5	power	null	null
+460	6	power	null	null
+460	7	power	null	null
+460	8	power	null	null
+460	9	power	null	null
+460	10	power	null	loc0
+460	1	remains of live thing	null	null
+460	2	remains of live thing	null	loc0
+460	3	remains of live thing	loc0	loc1
+460	4	remains of live thing	loc1	loc1
+460	5	remains of live thing	loc1	loc1
+460	6	remains of live thing	loc1	loc1
+460	7	remains of live thing	loc1	loc1
+460	8	remains of live thing	loc1	loc1
+460	9	remains of live thing	loc1	loc1
+460	10	remains of live thing	loc1	loc1
+460	1	energy	null	null
+460	2	energy	null	null
+460	3	energy	null	null
+460	4	energy	null	null
+460	5	energy	null	null
+460	6	energy	null	null
+460	7	energy	null	null
+460	8	energy	null	null
+460	9	energy	null	loc0
+460	10	energy	loc0	null
+582	1	circular pattern	null	null
+582	2	circular pattern	null	null
+582	3	circular pattern	null	null
+582	4	circular pattern	null	null
+582	5	circular pattern	null	null
+582	6	circular pattern	null	null
+582	7	circular pattern	null	loc0
+582	8	circular pattern	loc0	loc0
+582	1	tornado	null	null
+582	2	tornado	null	null
+582	3	tornado	null	null
+582	4	tornado	null	null
+582	5	tornado	null	null
+582	6	tornado	null	null
+582	7	tornado	null	null
+582	8	tornado	null	loc0
+582	1	cool , dry air	loc0	loc0
+582	2	cool , dry air	loc0	loc0
+582	3	cool , dry air	loc0	loc0
+582	4	cool , dry air	loc0	loc0
+582	5	cool , dry air	loc0	loc0
+582	6	cool , dry air	loc0	loc0
+582	7	cool , dry air	loc0	loc0
+582	8	cool , dry air	loc0	loc0
+582	1	air mass	loc0	loc0
+582	2	air mass	loc0	loc0
+582	3	air mass	loc0	loc0
+582	4	air mass	loc0	loc0
+582	5	air mass	loc0	loc0
+582	6	air mass	loc0	loc0
+582	7	air mass	loc0	loc0
+582	8	air mass	loc0	loc0
+582	1	warm , moist air	loc0	loc0
+582	2	warm , moist air	loc0	loc0
+582	3	warm , moist air	loc0	loc0
+582	4	warm , moist air	loc0	loc0
+582	5	warm , moist air	loc0	loc0
+582	6	warm , moist air	loc0	loc0
+582	7	warm , moist air	loc0	loc0
+582	8	warm , moist air	loc0	loc0
+582	1	mass	null	null
+582	2	mass	null	null
+582	3	mass	null	loc0
+582	4	mass	loc0	loc0
+582	5	mass	loc0	loc0
+582	6	mass	loc0	loc0
+582	7	mass	loc0	loc0
+582	8	mass	loc0	loc0
+582	1	updraft	null	null
+582	2	updraft	null	null
+582	3	updraft	null	null
+582	4	updraft	null	null
+582	5	updraft	null	null
+582	6	updraft	null	loc0
+582	7	updraft	loc0	loc0
+582	8	updraft	loc0	loc0
+582	1	wind	null	null
+582	2	wind	null	null
+582	3	wind	null	null
+582	4	wind	null	null
+582	5	wind	null	loc0
+582	6	wind	loc0	loc0
+582	7	wind	loc0	loc0
+582	8	wind	loc0	loc0
+583	1	dry , cold high-pressure air	loc0	loc0
+583	2	dry , cold high-pressure air	loc0	loc0
+583	3	dry , cold high-pressure air	loc0	loc1
+583	4	dry , cold high-pressure air	loc1	loc1
+583	5	dry , cold high-pressure air	loc1	loc1
+583	6	dry , cold high-pressure air	loc1	loc1
+583	1	funnel	null	null
+583	2	funnel	null	null
+583	3	funnel	null	null
+583	4	funnel	null	null
+583	5	funnel	null	loc0
+583	6	funnel	loc0	loc0
+583	1	rotation	null	null
+583	2	rotation	null	null
+583	3	rotation	null	null
+583	4	rotation	null	loc0
+583	5	rotation	loc0	loc0
+583	6	rotation	loc0	loc0
+583	1	updraft	null	null
+583	2	updraft	null	loc0
+583	3	updraft	loc0	loc0
+583	4	updraft	loc0	loc0
+583	5	updraft	loc0	loc0
+583	6	updraft	loc0	loc0
+463	1	ice particle	loc0	loc0
+463	2	ice particle	loc0	loc0
+463	3	ice particle	loc0	loc0
+463	4	ice particle	loc0	loc0
+463	5	ice particle	loc0	loc0
+463	1	hailstone	null	null
+463	2	hailstone	null	null
+463	3	hailstone	null	null
+463	4	hailstone	null	null
+463	5	hailstone	null	loc0
+463	1	raindrop	loc0	loc1
+463	2	raindrop	loc1	loc1
+463	3	raindrop	loc1	loc1
+463	4	raindrop	loc1	loc1
+463	5	raindrop	loc1	loc1
+465	1	hail	null	null
+465	2	hail	null	null
+465	3	hail	null	null
+465	4	hail	null	null
+465	5	hail	null	loc0
+465	6	hail	loc0	loc0
+465	7	hail	loc0	loc1
+465	1	water	loc0	loc1
+465	2	water	loc1	loc1
+465	3	water	loc1	loc2
+465	4	water	loc2	loc2
+465	5	water	loc2	loc2
+465	6	water	loc2	loc2
+465	7	water	loc2	loc2
+249	1	rock	loc0	loc0
+249	2	rock	loc0	loc0
+249	3	rock	loc0	loc0
+249	4	rock	loc0	loc0
+249	5	rock	loc0	loc0
+249	6	rock	loc0	loc0
+249	7	rock	loc0	loc0
+249	8	rock	loc0	loc0
+249	1	certain type of rock	null	null
+249	2	certain type of rock	null	null
+249	3	certain type of rock	null	null
+249	4	certain type of rock	null	null
+249	5	certain type of rock	null	loc0
+249	6	certain type of rock	loc0	loc0
+249	7	certain type of rock	loc0	loc0
+249	8	certain type of rock	loc0	loc0
+249	1	smaller piece	null	null
+249	2	smaller piece	null	null
+249	3	smaller piece	null	loc0
+249	4	smaller piece	loc0	loc0
+249	5	smaller piece	loc0	loc0
+249	6	smaller piece	loc0	loc0
+249	7	smaller piece	loc0	loc0
+249	8	smaller piece	loc0	loc0
+249	1	new type of rock	null	null
+249	2	new type of rock	null	null
+249	3	new type of rock	null	null
+249	4	new type of rock	null	null
+249	5	new type of rock	null	loc0
+249	6	new type of rock	loc0	loc0
+249	7	new type of rock	loc0	loc0
+249	8	new type of rock	loc0	loc0
+249	1	new substance	null	null
+249	2	new substance	null	null
+249	3	new substance	null	null
+249	4	new substance	null	null
+249	5	new substance	null	loc0
+249	6	new substance	loc0	loc0
+249	7	new substance	loc0	loc0
+249	8	new substance	loc0	loc0
+249	1	oxygen	loc0	loc0
+249	2	oxygen	loc0	loc0
+249	3	oxygen	loc0	loc0
+249	4	oxygen	loc0	loc1
+249	5	oxygen	loc1	loc1
+249	6	oxygen	loc1	loc1
+249	7	oxygen	loc1	loc1
+249	8	oxygen	loc1	loc1
+37	1	soft tissue	loc0	loc0
+37	2	soft tissue	loc0	loc1
+37	3	soft tissue	loc1	loc1
+37	4	soft tissue	loc1	loc1
+37	5	soft tissue	loc1	loc1
+37	6	soft tissue	loc1	loc1
+37	1	plant	loc0	null
+37	2	plant	null	null
+37	3	plant	null	null
+37	4	plant	null	null
+37	5	plant	null	null
+37	6	plant	null	null
+37	1	animal	loc0	null
+37	2	animal	null	null
+37	3	animal	null	null
+37	4	animal	null	null
+37	5	animal	null	null
+37	6	animal	null	null
+37	1	bone	loc0	loc0
+37	2	bone	loc0	loc0
+37	3	bone	loc0	loc0
+37	4	bone	loc0	loc0
+37	5	bone	loc0	loc0
+37	6	bone	loc0	null
+37	1	mineral	null	null
+37	2	mineral	null	null
+37	3	mineral	null	null
+37	4	mineral	null	null
+37	5	mineral	null	loc0
+37	6	mineral	loc0	null
+37	1	fossil	null	null
+37	2	fossil	null	null
+37	3	fossil	null	null
+37	4	fossil	null	null
+37	5	fossil	null	null
+37	6	fossil	null	loc0
+38	1	rock	null	null
+38	2	rock	null	null
+38	3	rock	null	null
+38	4	rock	null	null
+38	5	rock	null	loc0
+38	6	rock	loc0	loc0
+38	7	rock	loc0	loc0
+38	1	animal	loc0	null
+38	2	animal	null	null
+38	3	animal	null	null
+38	4	animal	null	null
+38	5	animal	null	null
+38	6	animal	null	null
+38	7	animal	null	null
+38	1	soil	null	null
+38	2	soil	null	null
+38	3	soil	null	null
+38	4	soil	null	loc0
+38	5	soil	loc0	loc0
+38	6	soil	loc0	loc0
+38	7	soil	loc0	loc0
+38	1	body	loc0	loc1
+38	2	body	loc1	loc1
+38	3	body	loc1	loc2
+38	4	body	loc2	loc2
+38	5	body	null	null
+38	6	body	null	null
+38	7	body	null	null
+38	1	fossil	null	null
+38	2	fossil	null	null
+38	3	fossil	null	null
+38	4	fossil	null	null
+38	5	fossil	null	null
+38	6	fossil	null	loc0
+38	7	fossil	loc0	loc0
+152	1	cloud droplet	null	null
+152	2	cloud droplet	null	null
+152	3	cloud droplet	null	null
+152	4	cloud droplet	null	null
+152	5	cloud droplet	null	loc0
+152	6	cloud droplet	loc0	loc1
+152	1	solid	null	null
+152	2	solid	null	null
+152	3	solid	null	null
+152	4	solid	null	loc0
+152	5	solid	loc0	loc0
+152	6	solid	loc0	loc0
+152	1	vapor	loc0	loc0
+152	2	vapor	loc0	loc1
+152	3	vapor	loc1	loc1
+152	4	vapor	loc1	null
+152	5	vapor	null	null
+152	6	vapor	null	null
+152	1	water vapor	loc0	loc0
+152	2	water vapor	loc0	loc1
+152	3	water vapor	loc1	loc1
+152	4	water vapor	loc1	null
+152	5	water vapor	null	null
+152	6	water vapor	null	null
+152	1	lift vapor	null	null
+152	2	lift vapor	null	loc0
+152	3	lift vapor	loc0	loc0
+152	4	lift vapor	loc0	null
+152	5	lift vapor	null	null
+152	6	lift vapor	null	null
+67	1	dead plant	null	loc0
+67	2	dead plant	loc0	loc1
+67	3	dead plant	loc1	loc1
+67	4	dead plant	loc1	loc1
+67	5	dead plant	loc1	null
+67	6	dead plant	null	null
+67	7	dead plant	null	null
+67	8	dead plant	null	null
+67	9	dead plant	null	null
+67	1	plant	loc0	loc0
+67	2	plant	loc0	loc1
+67	3	plant	loc1	loc1
+67	4	plant	loc1	loc1
+67	5	plant	loc1	null
+67	6	plant	null	null
+67	7	plant	null	null
+67	8	plant	null	null
+67	9	plant	null	null
+67	1	coal	loc0	loc0
+67	2	coal	loc0	loc0
+67	3	coal	loc0	loc0
+67	4	coal	loc0	loc0
+67	5	coal	loc0	loc0
+67	6	coal	loc0	loc0
+67	7	coal	loc0	loc0
+67	8	coal	loc0	loc0
+67	9	coal	loc0	null
+67	1	peat	null	null
+67	2	peat	null	null
+67	3	peat	null	null
+67	4	peat	null	null
+67	5	peat	null	loc0
+67	6	peat	loc0	loc0
+67	7	peat	loc0	loc0
+67	8	peat	loc0	loc0
+67	9	peat	loc0	null
+68	1	heat	null	null
+68	2	heat	null	null
+68	3	heat	null	null
+68	4	heat	null	null
+68	5	heat	null	null
+68	6	heat	null	loc0
+68	7	heat	loc0	null
+68	1	burial peat	null	null
+68	2	burial peat	null	null
+68	3	burial peat	null	null
+68	4	burial peat	null	loc0
+68	5	burial peat	loc0	loc1
+68	6	burial peat	loc1	loc1
+68	7	burial peat	loc1	null
+68	1	plant and tree remain	loc0	loc1
+68	2	plant and tree remain	loc1	loc2
+68	3	plant and tree remain	null	null
+68	4	plant and tree remain	null	null
+68	5	plant and tree remain	null	null
+68	6	plant and tree remain	null	null
+68	7	plant and tree remain	null	null
+68	1	plant	loc0	null
+68	2	plant	null	null
+68	3	plant	null	null
+68	4	plant	null	null
+68	5	plant	null	null
+68	6	plant	null	null
+68	7	plant	null	null
+68	1	tree	loc0	null
+68	2	tree	null	null
+68	3	tree	null	null
+68	4	tree	null	null
+68	5	tree	null	null
+68	6	tree	null	null
+68	7	tree	null	null
+68	1	coal	loc0	loc0
+68	2	coal	loc0	loc0
+68	3	coal	loc0	loc0
+68	4	coal	loc0	loc0
+68	5	coal	loc0	loc0
+68	6	coal	loc0	loc0
+68	7	coal	loc0	loc0
+68	1	peat	null	null
+68	2	peat	null	null
+68	3	peat	null	null
+68	4	peat	null	loc0
+68	5	peat	loc0	loc0
+68	6	peat	loc0	loc0
+68	7	peat	loc0	null
+68	1	water	loc0	loc0
+68	2	water	loc0	loc0
+68	3	water	loc0	loc0
+68	4	water	loc0	loc0
+68	5	water	loc0	loc0
+68	6	water	loc0	loc1
+68	7	water	loc1	loc1
+69	1	sedimentary rock	null	null
+69	2	sedimentary rock	null	null
+69	3	sedimentary rock	null	null
+69	4	sedimentary rock	null	null
+69	5	sedimentary rock	null	loc0
+69	6	sedimentary rock	loc0	loc0
+69	7	sedimentary rock	loc0	loc0
+69	1	sand	null	null
+69	2	sand	null	null
+69	3	sand	null	null
+69	4	sand	null	loc0
+69	5	sand	loc0	null
+69	6	sand	null	null
+69	7	sand	null	null
+69	1	plant	loc0	null
+69	2	plant	null	null
+69	3	plant	null	null
+69	4	plant	null	null
+69	5	plant	null	null
+69	6	plant	null	null
+69	7	plant	null	null
+69	1	tree	loc0	null
+69	2	tree	null	null
+69	3	tree	null	null
+69	4	tree	null	null
+69	5	tree	null	null
+69	6	tree	null	null
+69	7	tree	null	null
+69	1	coal	loc0	loc0
+69	2	coal	loc0	loc0
+69	3	coal	loc0	loc0
+69	4	coal	loc0	loc0
+69	5	coal	loc0	loc0
+69	6	coal	loc0	loc0
+69	7	coal	loc0	loc0
+69	1	pressure	null	null
+69	2	pressure	null	null
+69	3	pressure	null	null
+69	4	pressure	null	null
+69	5	pressure	null	null
+69	6	pressure	null	loc0
+69	7	pressure	loc0	loc0
+69	1	peat	null	null
+69	2	peat	null	null
+69	3	peat	null	loc0
+69	4	peat	loc0	loc0
+69	5	peat	loc0	loc0
+69	6	peat	loc0	loc0
+69	7	peat	loc0	loc0
+69	1	water	loc0	loc0
+69	2	water	loc0	loc0
+69	3	water	loc0	loc0
+69	4	water	loc0	loc0
+69	5	water	loc0	loc0
+69	6	water	loc0	loc1
+69	7	water	loc1	loc1
+69	1	clay	null	null
+69	2	clay	null	null
+69	3	clay	null	null
+69	4	clay	null	loc0
+69	5	clay	loc0	null
+69	6	clay	null	null
+69	7	clay	null	null
+70	1	rain	null	loc0
+70	2	rain	loc0	loc0
+70	3	rain	loc0	loc0
+70	4	rain	loc0	loc0
+70	5	rain	loc0	loc0
+70	6	rain	loc0	loc0
+70	7	rain	null	null
+70	8	rain	null	null
+70	1	water level	loc0	loc0
+70	2	water level	loc0	loc0
+70	3	water level	loc0	loc1
+70	4	water level	loc1	loc2
+70	5	water level	loc2	loc3
+70	6	water level	loc3	loc3
+70	7	water level	loc3	loc4
+70	8	water level	loc4	loc5
+70	1	stream	null	null
+70	2	stream	null	null
+70	3	stream	null	null
+70	4	stream	null	null
+70	5	stream	null	null
+70	6	stream	null	null
+70	7	stream	null	loc0
+70	8	stream	loc0	loc0
+70	1	water	loc0	loc0
+70	2	water	loc0	loc0
+70	3	water	loc0	loc1
+70	4	water	loc1	loc2
+70	5	water	loc2	loc3
+70	6	water	loc3	loc3
+70	7	water	loc3	loc4
+70	8	water	loc4	null
+99	1	cloud	loc0	loc0
+99	2	cloud	loc0	loc0
+99	3	cloud	loc0	loc0
+99	4	cloud	loc0	loc0
+99	5	cloud	loc0	loc0
+99	6	cloud	loc0	loc0
+99	7	cloud	loc0	loc0
+99	1	a very different ecosystem	null	null
+99	2	a very different ecosystem	null	null
+99	3	a very different ecosystem	null	null
+99	4	a very different ecosystem	null	null
+99	5	a very different ecosystem	null	null
+99	6	a very different ecosystem	null	loc0
+99	7	a very different ecosystem	loc0	loc0
+99	1	rain	loc0	loc0
+99	2	rain	loc0	loc0
+99	3	rain	loc0	loc1
+99	4	rain	loc1	loc2
+99	5	rain	loc2	loc2
+99	6	rain	loc2	loc2
+99	7	rain	loc2	null
+99	1	rain cloud	loc0	loc0
+99	2	rain cloud	loc0	loc0
+99	3	rain cloud	loc0	loc1
+99	4	rain cloud	loc1	loc1
+99	5	rain cloud	loc1	loc1
+99	6	rain cloud	loc1	loc1
+99	7	rain cloud	loc1	loc2
+99	1	desert	null	null
+99	2	desert	null	null
+99	3	desert	null	null
+99	4	desert	null	null
+99	5	desert	null	null
+99	6	desert	null	null
+99	7	desert	null	loc0
+903	1	image	loc0	loc0
+903	2	image	loc0	loc0
+903	3	image	loc0	loc0
+903	4	image	loc0	loc0
+903	5	image	loc0	loc0
+903	1	light	loc0	loc1
+903	2	light	loc1	loc2
+903	3	light	loc2	loc3
+903	4	light	loc3	null
+903	5	light	null	null
+903	1	visible light	loc0	loc1
+903	2	visible light	loc1	loc2
+903	3	visible light	loc2	loc3
+903	4	visible light	loc3	null
+903	5	visible light	null	null
+903	1	chemical energy	null	null
+903	2	chemical energy	null	null
+903	3	chemical energy	null	null
+903	4	chemical energy	null	loc0
+903	5	chemical energy	loc0	loc0
+904	1	electrical pulse	null	null
+904	2	electrical pulse	null	null
+904	3	electrical pulse	null	loc0
+904	4	electrical pulse	loc0	loc1
+904	5	electrical pulse	loc1	loc1
+904	1	light	loc0	loc1
+904	2	light	loc1	loc2
+904	3	light	loc2	loc2
+904	4	light	loc2	loc2
+904	5	light	loc2	loc2
+904	1	small image	null	loc0
+904	2	small image	loc0	loc1
+904	3	small image	loc1	loc1
+904	4	small image	loc1	loc1
+904	5	small image	loc1	loc1
+904	1	retina 's rod and cone	loc0	loc0
+904	2	retina 's rod and cone	loc0	loc0
+904	3	retina 's rod and cone	loc0	null
+904	4	retina 's rod and cone	null	null
+904	5	retina 's rod and cone	null	null
