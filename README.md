@@ -1,7 +1,17 @@
 
 # Effective Use of Transformer Networks for Entity Tracking (EMNLP19)
 
-Authors: Aditya Gupta & Greg Durrett; UT Austin.
+This is a PyTorch implementation of our [EMNLP paper]() on the effectiveness of pre-trained transformer architextures in capturing complex entity interaction in procedural texts. 
+
+## Dependencies 
+
+The code was developed by extending [Hugging Face's implementations of OpenAI's GPT](https://github.com/huggingface/pytorch-openai-transformer-lm) and [BERT](https://github.com/huggingface/transformers).
+
+## Dataset and code
+The dataset for two tasks: (i) Recipes, and (ii) ProPara can be found [here](https://drive.google.com/file/d/1Y9DUPSiabnBhSoPLLgmGsVE_Gf4if1az/view) in the appropriate directories.
+
+The codebase consists of two main dorectories:
+### `gpt-entity-tracking`
  
 
 
