@@ -10,7 +10,7 @@ The code was developed by extending Hugging Face's implementations of [OpenAI's 
 ## Dataset and code
 The dataset for two tasks: (i) Recipes, and (ii) ProPara can be found [here](https://drive.google.com/file/d/1Y9DUPSiabnBhSoPLLgmGsVE_Gf4if1az/view) in the appropriate directories.
 
-The codebase consists of two main dorectories:
+The codebase consists of two main sub-directories:
 ### `gpt-entity-tracking`
 This consist of the codebase for the main ET-GPT model along with the variants, related experimentation, and gradient analysis for the Recipes and ProPara dataset:
 * `train_transformer_recipe_lm.py` is the main training code for the Recipes task and following is the example usage:
